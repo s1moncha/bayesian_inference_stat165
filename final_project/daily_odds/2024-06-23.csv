@@ -1,0 +1,15 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300305,2024-06-23T15:35:00+00:00,Philadelphia,Arizona,Cristopher Sanchez,Slade Cecconi,4,1,-190,155,-250,200,-196,164,-245,200,-189,158,-250,205,-185,155,-240,195,-192,160,-238,195
+300302,2024-06-23T17:35:00+00:00,NY Yankees,Atlanta,Nestor Cortes,Max Fried,1,3,-105,-115,-115,-105,100,-118,-118,100,-105,-115,-125,105,-105,-115,-120,100,-108,-112,-120,100
+300304,2024-06-23T17:35:00+00:00,Pittsburgh,Tampa Bay,Paul Skenes,Aaron Civale,1,3,-160,135,-165,140,-154,130,-168,142,-154,130,-164,140,-140,120,-165,140,-155,130,-180,140
+300306,2024-06-23T17:40:00+00:00,Detroit,Chi. White Sox,Reese Olson,Jonathan Cannon,11,2,-185,150,-190,155,-205,172,-190,160,-179,150,-196,162,-170,145,-190,160,-180,150,-185,154
+300308,2024-06-23T17:40:00+00:00,Cincinnati,Boston,Nick Lodolo,Zack Kelly,4,7,-165,140,-165,140,-148,126,-162,136,-161,135,-161,135,-160,135,-165,140,-166,140,-166,130
+300303,2024-06-23T17:40:00+00:00,Cleveland,Toronto,Triston McKenzie,Yusei Kikuchi,6,5,-115,-105,-115,-105,-108,-108,-116,-102,-115,-105,-115,-105,-115,-105,-115,-105,-115,-105,-120,-110
+300307,2024-06-23T17:40:00+00:00,Miami,Seattle,Kyle Tyler,Bryce Miller,6,4,145,-175,130,-155,126,-148,136,-162,150,-179,130,-154,150,-180,130,-155,150,-180,110,-140
+300301,2024-06-23T18:10:00+00:00,Houston,Baltimore,Framber Valdez,Albert Suarez,8,1,-125,105,-115,-105,-112,-104,-112,-104,-125,105,-105,-115,-125,105,-110,-110,-125,105,-110,-110
+300309,2024-06-23T18:15:00+00:00,St. Louis,San Francisco,Sonny Gray,Logan Webb,5,3,-125,105,-130,110,-122,104,-124,106,-125,105,-125,105,-125,105,-125,105,-130,110,-125,105
+300311,2024-06-23T18:35:00+00:00,Texas,Kansas City,Max Scherzer,Alec Marsh,4,0,-160,135,-165,140,-122,104,-158,134,-154,130,-164,140,-155,130,-160,135,-155,130,-175,135
+300312,2024-06-23T19:10:00+00:00,Colorado,Washington,Kyle Freeland,Jake Irvin,1,2,110,-135,115,-135,114,-134,-102,-124,110,-130,115,-135,110,-130,110,-130,110,-130,110,-140
+300300,2024-06-23T20:07:00+00:00,Athletics,Minnesota,Hogan Harris,Pablo Lopez,0,3,150,-185,150,-185,146,-174,152,-180,150,-179,150,-179,140,-165,150,-180,150,-180,145,-175
+300313,2024-06-23T20:10:00+00:00,San Diego,Milwaukee,Michael King,Tobias Myers,2,6,-135,110,-135,115,-120,102,-138,118,-130,110,-135,115,-125,105,-135,115,-130,110,-135,114
+300310,2024-06-23T23:10:00+00:00,Chi. Cubs,NY Mets,Javier Assad,Luis Severino,2,5,-115,-105,-110,-110,-106,-110,-120,-106,-115,-105,-115,-105,-110,-110,-110,-110,-115,-105,-145,114

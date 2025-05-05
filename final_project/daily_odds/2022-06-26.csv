@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259668,2022-06-26T16:05:00+00:00,Miami,NY Mets,Daniel Castano,David Peterson,3,2,125,-155,125,-150,130,-154,122,-154,130,-149,130,-149,130,-150,130,-150,125,-145,130,-160
+259666,2022-06-26T17:35:00+00:00,NY Yankees,Houston,Nestor Cortes,Jose Urquidy,6,3,-160,135,-185,150,-166,140,-140,110,-161,140,-185,165,-170,150,-185,165,-140,120,-145,115
+259661,2022-06-26T17:40:00+00:00,Tampa Bay,Pittsburgh,Shane McClanahan,Roansy Contreras,4,2,-225,185,-250,200,-220,184,-260,194,-213,185,-256,215,-210,175,-250,210,-165,140,-250,210
+259655,2022-06-26T17:40:00+00:00,Cleveland,Boston,Aaron Civale,Rich Hill,3,8,-105,-115,-110,-110,-108,-108,-106,-122,-105,-115,-105,-115,-110,-110,-105,-115,105,-125,-125,-105
+259672,2022-06-26T18:10:00+00:00,Milwaukee,Toronto,Chi Chi Gonzalez,José Berríos,10,3,115,-140,125,-155,114,-134,152,-200,125,-145,140,-161,110,-130,135,-155,100,-120,135,-165
+259657,2022-06-26T18:10:00+00:00,Kansas City,Oakland,Brady Singer,James Kaprielian,3,5,-175,145,-175,145,-166,140,-178,150,-161,140,-175,155,-165,145,-175,155,-165,140,-180,145
+259671,2022-06-26T18:10:00+00:00,Minnesota,Colorado,Joe Ryan,Ryan Feltner,6,3,-200,170,-225,180,-200,168,-200,154,-208,180,-222,190,-200,170,-225,185,-200,170,-175,140
+259665,2022-06-26T18:10:00+00:00,Chi. White Sox,Baltimore,Dylan Cease,Jordan Lyles,4,3,-225,180,-225,180,-210,176,-235,194,-208,180,-233,195,-200,170,-225,185,-190,160,-220,180
+259660,2022-06-26T18:15:00+00:00,St. Louis,Chi. Cubs,Jack Flaherty,Alec Mills,5,6,-190,155,-165,140,-190,160,-172,144,-185,165,-169,150,-192,167,-170,150,-175,150,-170,145
+259662,2022-06-26T18:35:00+00:00,Texas,Washington,Glenn Otto,Jackson Tetreault,4,6,-165,135,-165,140,-162,136,-172,144,-161,140,-169,150,-165,145,-170,150,-145,125,-175,150
+259659,2022-06-26T20:05:00+00:00,San Francisco,Cincinnati,Anthony DeSclafani,Tyler Mahle,3,10,-155,125,-155,125,-164,138,-162,136,-149,130,-161,140,-150,130,-160,140,-155,135,-155,125
+259658,2022-06-26T20:07:00+00:00,LA Angels,Seattle,Andrew Wantz,Marco Gonzales,2,1,-145,120,-135,110,-142,120,-164,128,-141,120,-135,115,-135,115,-140,120,-140,120,-150,120
+259656,2022-06-26T20:10:00+00:00,Arizona,Detroit,Dallas Keuchel,Beau Brieske,11,7,-145,120,-120,100,-136,116,-160,126,-141,120,-125,105,-135,115,-125,105,-150,130,-155,125
+259663,2022-06-26T20:10:00+00:00,San Diego,Philadelphia,Yu Darvish,Kyle Gibson,5,8,-145,120,-160,135,-144,122,-205,156,-141,120,-161,140,-140,120,-165,145,-135,115,-185,150
+259664,2022-06-26T23:08:00+00:00,Atlanta,LA Dodgers,Spencer Strider,Tony Gonsolin,3,5,-115,-105,100,-120,-102,-116,102,-128,-105,-115,100,-120,-110,-110,100,-120,-120,100,100,-120

@@ -1,0 +1,11 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278606,2023-06-19T20:05:00+00:00,Washington,St. Louis,Josiah Gray,Jack Flaherty,6,8,135,-160,125,-150,130,-154,120,-154,135,-161,130,-154,135,-155,130,-150,135,-155,130,-150
+278602,2023-06-19T22:40:00+00:00,Detroit,Kansas City,Reese Olson,Jordan Lyles,6,4,-155,125,-150,125,-146,124,-152,128,-154,130,-145,122,-150,130,-145,125,-145,125,-145,125
+278607,2023-06-19T22:40:00+00:00,Miami,Toronto,Bryan Hoeing,Jose Berrios,11,0,120,-145,135,-160,142,-168,136,-162,122,-145,130,-154,125,-145,130,-150,120,-140,140,-165
+278608,2023-06-19T23:05:00+00:00,Pittsburgh,Chi. Cubs,Osvaldo Bido,Todd Smyly,0,8,100,-120,100,-120,102,-120,114,-134,100,-120,105,-125,100,-120,105,-125,105,-125,105,-125
+278603,2023-06-19T23:10:00+00:00,Cincinnati,Colorado,Brandon Williamson,Austin Gomber,5,4,-145,120,-165,135,-158,134,-180,140,-141,118,-169,143,-140,120,-170,150,-140,120,-165,135
+278609,2023-06-19T23:40:00+00:00,Minnesota,Boston,Pablo Lopez,James Paxton,3,9,-125,105,-145,120,-124,106,-142,120,-125,105,-141,118,-125,105,-140,120,-130,110,-135,115
+278601,2023-06-20T00:10:00+00:00,Chi. White Sox,Texas,Tanner Banks,Andrew Heaney,2,5,105,-125,105,-125,108,-126,108,-138,105,-125,110,-130,105,-125,105,-125,105,-125,110,-130
+278604,2023-06-20T00:10:00+00:00,Houston,NY Mets,Hunter Brown,Max Scherzer,1,11,-130,105,-115,-105,-130,110,-124,-102,-130,110,-120,100,-130,110,-120,100,-130,110,-125,105
+278610,2023-06-20T00:10:00+00:00,Milwaukee,Arizona,Corbin Burnes,Merrill Kelly,1,9,-125,105,-115,-105,-126,108,-102,-126,-125,105,-120,100,-125,105,-120,100,-120,100,-120,100
+278605,2023-06-20T01:45:00+00:00,San Francisco,San Diego,Ryan Walker,Michael Wacha,7,4,-105,-115,-105,-115,-108,-108,-102,-116,-105,-115,-105,-115,-110,-110,100,-120,-115,-105,100,-120

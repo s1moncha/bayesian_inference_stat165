@@ -1,0 +1,12 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278324,2023-05-29T17:05:00+00:00,Baltimore,Cleveland,Tyler Wells,Logan Allen,0,5,-150,125,-140,115,-142,120,-138,118,-145,122,-141,118,-140,120,-140,120,-135,115,-160,130
+278325,2023-05-29T17:10:00+00:00,Detroit,Texas,Matthew Boyd,Nathan Eovaldi,0,5,140,-165,145,-175,142,-168,150,-178,140,-164,150,-179,140,-160,160,-180,135,-155,145,-180
+278326,2023-05-29T18:15:00+00:00,St. Louis,Kansas City,Adam Wainwright,Joshua Staumont,0,7,-200,165,-175,145,-225,188,-184,154,-227,185,-179,152,-220,180,-180,160,-190,160,-175,150
+278327,2023-05-29T18:20:00+00:00,Chi. Cubs,Tampa Bay,Marcus Stroman,Taj Bradley,1,0,105,-125,105,-125,106,-124,102,-120,105,-125,100,-120,110,-130,105,-125,-110,-110,110,-130
+278328,2023-05-29T20:10:00+00:00,Arizona,Colorado,Ryne Nelson,Karl Kauffmann,7,5,-185,150,-200,165,-178,150,-205,172,-179,150,-208,175,-180,160,-200,170,-230,195,-200,170
+278329,2023-05-29T20:10:00+00:00,Houston,Minnesota,J.P. France,Sonny Gray,5,7,-125,105,-120,100,-126,108,-126,108,-125,105,-125,105,-125,105,-125,105,-120,100,-130,100
+278323,2023-05-29T21:05:00+00:00,San Francisco,Pittsburgh,Anthony DeSclafani,Rich Hill,14,4,-145,120,-135,110,-142,120,-136,116,-145,122,-141,118,-145,125,-135,115,-150,130,-150,120
+278330,2023-05-30T00:07:00+00:00,Oakland,Atlanta,Paul Blackburn,Michael Soroka,7,2,200,-250,200,-250,200,-245,205,-255,196,-238,210,-263,205,-245,210,-250,140,-165,205,-245
+278331,2023-05-30T00:10:00+00:00,Chi. White Sox,LA Angels,Michael Kopech,Griffin Canning,4,6,-145,120,-140,115,-136,116,-144,122,-135,115,-145,122,-135,115,-145,125,-125,105,-145,125
+278332,2023-05-30T01:10:00+00:00,LA Dodgers,Washington,Bobby Miller,Trevor Williams,6,1,-225,180,-250,190,-240,198,-270,200,-238,196,-250,205,-245,205,-245,205,-215,185,-240,200
+278333,2023-05-30T01:40:00+00:00,Seattle,NY Yankees,Bryce Miller,Domingo German,4,10,-140,115,-135,110,-138,118,-136,116,-135,115,-135,115,-135,115,-135,115,-130,110,-135,115

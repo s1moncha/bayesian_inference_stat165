@@ -1,0 +1,9 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278460,2023-06-22T17:05:00+00:00,Washington,Arizona,Jake Irvin,Tommy Henry,3,5,125,-155,125,-150,126,-148,124,-158,135,-161,130,-154,135,-155,135,-155,150,-175,125,-145
+278645,2023-06-22T17:05:00+00:00,Philadelphia,Atlanta,Aaron Nola,Bryce Elder,1,5,110,-135,-125,105,116,-136,-122,104,110,-130,-125,105,110,-130,-125,105,-115,-105,-120,100
+278646,2023-06-22T17:10:00+00:00,Minnesota,Boston,Joe Ryan,Justin Garza,6,0,-150,125,-150,125,-174,146,-146,124,-154,130,-145,122,-150,130,-145,125,-150,130,-150,130
+278641,2023-06-22T17:10:00+00:00,Cleveland,Oakland,Logan Allen,JP Sears,6,1,-185,150,-175,145,-184,154,-210,160,-179,150,-169,143,-180,160,-170,150,-165,140,-170,145
+278644,2023-06-22T19:45:00+00:00,San Francisco,San Diego,Robert Wood,Blake Snell,0,10,105,-125,125,-145,-102,-116,122,-144,105,-125,122,-145,105,-125,125,-145,-105,-115,120,-140
+278647,2023-06-22T22:40:00+00:00,Miami,Pittsburgh,Braxton Garrett,Mitch Keller,6,4,-125,105,-165,135,-116,-102,-166,140,-125,105,-169,143,-125,105,-165,145,-130,110,-165,140
+278642,2023-06-22T22:40:00+00:00,Tampa Bay,Kansas City,Shane McClanahan,Jose Cuas,5,6,-350,275,-350,275,-405,320,-335,270,-286,228,-333,260,-360,280,-350,275,-230,195,-325,270
+278643,2023-06-22T23:05:00+00:00,NY Yankees,Seattle,Domingo German,Bryan Woo,2,10,-115,-105,-110,-110,-126,108,-110,-106,-120,100,-120,100,-120,100,-110,-110,-125,105,-115,-105

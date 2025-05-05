@@ -1,0 +1,11 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278546,2023-06-15T17:05:00+00:00,Baltimore,Toronto,Tyler Wells,Yusei Kikuchi,4,2,-125,105,-120,100,-122,104,-118,-106,-125,105,-120,100,-125,105,-125,105,-105,-115,-145,115
+278547,2023-06-15T19:37:00+00:00,Oakland,Tampa Bay,Paul Blackburn,Taj Bradley,3,4,165,-200,165,-200,158,-188,176,-210,170,-204,175,-208,170,-200,175,-210,200,-240,170,-200
+278548,2023-06-15T19:40:00+00:00,Arizona,Philadelphia,Ryne Nelson,Aaron Nola,4,5,110,-135,115,-135,102,-120,108,-138,115,-135,105,-125,110,-130,110,-130,115,-135,100,-130
+278554,2023-06-15T23:10:00+00:00,Minnesota,Detroit,Sonny Gray,Matthew Boyd,4,8,-210,170,-210,170,-220,184,-210,176,-208,175,-227,185,-210,175,-210,175,-195,165,-220,180
+278549,2023-06-15T23:20:00+00:00,Atlanta,Colorado,AJ Smith-Shawver,Kyle Freeland,8,3,-250,200,-250,200,-250,205,-270,220,-250,205,-263,210,-250,210,-245,205,-240,200,-250,200
+278550,2023-06-16T00:05:00+00:00,Chi. Cubs,Pittsburgh,Marcus Stroman,Johan Oviedo,7,2,-165,140,-150,125,-162,136,-158,134,-169,143,-154,130,-165,145,-150,130,-165,140,-155,135
+278551,2023-06-16T00:05:00+00:00,Texas,LA Angels,Nathan Eovaldi,Shohei Ohtani,3,5,-125,105,-125,105,-122,104,-130,110,-125,105,-135,115,-125,105,-135,115,-105,-115,-145,115
+278552,2023-06-16T00:10:00+00:00,Houston,Washington,Cristian Javier,MacKenzie Gore,1,4,-225,185,-190,160,-250,205,-190,148,-233,192,-213,178,-235,195,-200,170,-210,180,-220,180
+278555,2023-06-16T00:40:00+00:00,San Diego,Cleveland,Ryan Weathers,Logan Allen,6,8,-165,140,-120,100,-172,144,-110,-116,-164,140,-130,110,-165,145,-120,100,-165,140,-105,-125
+278553,2023-06-16T02:10:00+00:00,LA Dodgers,Chi. White Sox,Michael Grove,Dylan Cease,5,4,-150,125,-150,125,-166,140,-152,128,-145,122,-145,122,-150,130,-140,120,-150,130,-140,120

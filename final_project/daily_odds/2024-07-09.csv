@@ -1,0 +1,14 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300509,2024-07-09T22:35:00+00:00,Baltimore,Chi. Cubs,Dean Kremer,Jameson Taillon,2,9,-155,125,-190,155,-156,132,-178,150,-145,122,-208,175,-155,130,-185,155,-162,136,-192,160
+300517,2024-07-09T22:40:00+00:00,Philadelphia,LA Dodgers,Zachary Wheeler,Bobby Miller,10,1,-145,120,-155,130,-142,120,-174,136,-141,118,-161,135,-140,120,-165,140,-148,124,-166,130
+300518,2024-07-09T22:40:00+00:00,Detroit,Cleveland,Kenta Maeda,Ben Lively,8,9,120,-145,120,-145,136,-162,120,-142,122,-145,122,-145,125,-150,120,-140,124,-148,120,-142
+300512,2024-07-09T22:50:00+00:00,Tampa Bay,NY Yankees,Ryan Pepiot,Carlos Rodon,5,3,105,-125,105,-125,106,-124,100,-118,105,-125,100,-120,105,-125,100,-120,102,-122,-102,-118
+300510,2024-07-09T23:10:00+00:00,NY Mets,Washington,Jose Quintana,Jake Irvin,7,5,-140,115,-135,115,-124,106,-134,116,-135,115,-141,118,-135,115,-140,120,-142,120,-142,120
+300511,2024-07-09T23:10:00+00:00,Boston,Athletics,Brayan Bello,Joey Estes,12,9,-200,165,-200,165,-174,146,-210,176,-189,158,-213,178,-185,155,-210,175,-185,154,-205,170
+300519,2024-07-09T23:10:00+00:00,Cincinnati,Colorado,Nick Lodolo,Cal Quantrill,12,6,-175,145,-200,165,-156,132,-184,154,-169,143,-196,162,-170,145,-200,165,-170,142,-198,164
+300543,2024-07-10T00:10:00+00:00,Houston,Miami,Jake Bloss,Roddery Munoz,4,3,-200,165,-175,145,-198,166,-180,152,-196,162,-189,158,-190,160,-190,160,-198,164,-185,154
+300521,2024-07-10T00:10:00+00:00,Milwaukee,Pittsburgh,Colin Rea,Josh Fleming,2,12,-165,135,-165,140,-164,138,-162,136,-164,140,-164,140,-165,140,-160,135,-166,140,-162,136
+300522,2024-07-10T01:38:00+00:00,LA Angels,Texas,Roansy Contreras,Max Scherzer,4,5,140,-165,155,-190,136,-162,150,-178,140,-164,150,-179,140,-165,150,-180,140,-166,154,-185
+300505,2024-07-10T01:40:00+00:00,Arizona,Atlanta,Yilber Diaz,Bryce Elder,2,6,180,-225,100,-120,164,-196,100,-118,185,-227,-105,-115,180,-220,-105,-115,180,-218,-105,-115
+300523,2024-07-10T01:40:00+00:00,San Diego,Seattle,Adam Mazur,Logan Gilbert,3,8,125,-150,120,-145,120,-142,118,-138,122,-145,115,-135,125,-150,120,-140,124,-148,114,-135
+300515,2024-07-10T01:45:00+00:00,San Francisco,Toronto,Blake Snell,Yusei Kikuchi,4,3,-135,110,-135,115,-122,104,-130,110,-130,110,-135,115,-130,110,-135,115,-130,110,-130,110

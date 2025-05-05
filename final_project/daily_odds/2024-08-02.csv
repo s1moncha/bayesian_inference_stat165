@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300790,2024-08-02T18:20:00+00:00,Chi. Cubs,St. Louis,Javier Assad,Erick Fedde,6,3,-105,-115,-105,-120,-104,-112,-104,-112,-105,-115,-5000,1800,-105,-115,100,-120,-105,-115,-102,-118
+300791,2024-08-02T22:40:00+00:00,Detroit,Kansas City,Tarik Skubal,Cole Ragans,2,9,-130,105,-125,100,-118,100,-116,-102,-125,105,-189,150,-125,105,-120,100,-125,105,-120,100
+300783,2024-08-02T22:40:00+00:00,Pittsburgh,Arizona,Luis L. Ortiz,Brandon Pfaadt,8,9,110,-135,110,-140,114,-134,114,-134,110,-130,200,-263,110,-130,110,-130,110,-130,110,-130
+300785,2024-08-02T22:45:00+00:00,Washington,Milwaukee,Jake Irvin,Frankie Montas Jr.,3,8,100,-120,-115,-110,100,-118,-104,-112,100,-120,-125,-105,100,-120,-110,-110,100,-120,-108,-112
+300792,2024-08-02T23:05:00+00:00,NY Yankees,Toronto,Marcus Stroman,Kevin Gausman,5,8,-165,135,-160,130,-178,150,-172,144,-164,140,-161,130,-170,145,-180,150,-166,140,-175,145
+300793,2024-08-02T23:10:00+00:00,Cincinnati,San Francisco,Andrew Abbott,Blake Snell,0,3,-115,-105,105,-135,-118,100,118,-138,-120,100,120,-149,-120,100,115,-135,-120,100,114,-135
+300782,2024-08-02T23:10:00+00:00,Cleveland,Baltimore,Carlos Carrasco,Dean Kremer,8,4,105,-125,-105,-120,104,-122,-104,-112,110,-130,-105,-125,105,-125,-105,-115,110,-130,100,-120
+300784,2024-08-02T23:20:00+00:00,Atlanta,Miami,Spencer Schwellenbach,Valente Bellozo,5,3,-250,195,-225,180,-270,220,-250,205,-238,196,-238,195,-250,205,-260,210,-250,205,-258,210
+300794,2024-08-03T00:05:00+00:00,Texas,Boston,Jose Urena,Kutter Crawford,6,11,100,-120,-115,-110,106,-124,-116,-102,105,-125,-105,-125,105,-125,-115,-105,105,-125,-115,-105
+300787,2024-08-03T00:10:00+00:00,Minnesota,Chi. White Sox,Joe Ryan,Davis Martin,10,2,-300,240,-350,250,-300,245,-320,260,-294,235,-323,250,-290,235,-350,275,-290,235,-340,270
+300786,2024-08-03T00:10:00+00:00,Houston,Tampa Bay,Yusei Kikuchi,Shane Baz,3,2,-165,140,-175,140,-134,114,-156,132,-161,135,-169,140,-150,125,-160,135,-155,130,-162,136
+300795,2024-08-03T01:38:00+00:00,LA Angels,NY Mets,Tyler Anderson,Paul Blackburn,1,5,120,-145,105,-135,116,-136,118,-138,115,-135,100,-130,115,-135,120,-140,114,-135,114,-135
+300796,2024-08-03T01:40:00+00:00,San Diego,Colorado,Randy Vasquez,Austin Gomber,2,5,-190,155,-150,120,-178,150,-184,154,-189,158,-149,120,-185,155,-185,155,-185,154,-185,154
+300789,2024-08-03T01:40:00+00:00,Seattle,Philadelphia,Bryan Woo,Tyler Phillips,10,2,-125,105,-135,105,-118,100,-116,-102,-120,100,-135,105,-120,100,-115,-105,-122,102,-115,-105
+300788,2024-08-03T01:40:00+00:00,Athletics,LA Dodgers,Joey Estes,Gavin Stone,6,5,135,-160,115,-145,152,-180,126,-148,135,-161,115,-145,145,-170,125,-150,140,-166,124,-148

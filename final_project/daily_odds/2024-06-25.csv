@@ -1,0 +1,15 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300326,2024-06-25T22:35:00+00:00,Baltimore,Cleveland,Cole Irvin,Logan Allen,8,10,-140,115,-160,135,-134,116,-182,142,-141,118,-161,135,-135,115,-160,135,-142,120,-200,154
+300335,2024-06-25T22:40:00+00:00,Detroit,Philadelphia,Tarik Skubal,Ranger Suarez,4,1,100,-120,100,-120,110,-130,102,-128,100,-120,100,-120,105,-125,100,-120,100,-120,100,-130
+300327,2024-06-25T22:50:00+00:00,Tampa Bay,Seattle,Zack Littell,Luis Castillo,11,3,110,-135,105,-125,118,-138,-106,-122,115,-135,110,-130,110,-130,105,-125,114,-135,-110,-120
+300328,2024-06-25T23:10:00+00:00,Boston,Toronto,Brayan Bello,Kevin Gausman,4,9,-115,-105,-130,110,-116,-102,-130,110,-120,100,-130,110,-115,-105,-130,110,-122,102,-135,105
+300329,2024-06-25T23:10:00+00:00,NY Mets,NY Yankees,David Peterson,Gerrit Cole,9,7,125,-155,120,-145,132,-156,122,-144,122,-145,126,-149,125,-150,120,-140,124,-148,114,-145
+300336,2024-06-25T23:10:00+00:00,Cincinnati,Pittsburgh,Hunter Greene,Mitch Keller,5,9,-140,115,-125,105,-120,102,-130,104,-130,110,-130,110,-120,100,-130,110,-125,105,-120,-110
+300330,2024-06-26T00:10:00+00:00,Houston,Colorado,Hunter Brown,Austin Gomber,5,2,-250,200,-275,220,-245,200,-280,205,-263,210,-278,222,-250,205,-275,225,-258,210,-298,220
+300332,2024-06-26T00:10:00+00:00,Kansas City,Miami,Seth Lugo,Yonny Chirinos,1,2,-210,170,-190,155,-180,152,-198,166,-204,170,-196,162,-200,165,-190,160,-205,170,-192,160
+300338,2024-06-26T00:10:00+00:00,Milwaukee,Texas,Hoby Milner,Andrew Heaney,3,1,-125,105,-110,-110,-120,102,-108,-108,-125,105,-110,-110,-130,110,-110,-110,-125,105,-115,-115
+300331,2024-06-26T00:10:00+00:00,Chi. White Sox,LA Dodgers,Christoper Flexen,Bobby Miller,3,4,170,-210,180,-225,198,-240,188,-225,170,-204,185,-227,170,-205,180,-220,170,-205,185,-245
+300339,2024-06-26T01:38:00+00:00,LA Angels,Athletics,Tyler Anderson,Mitch Spence,7,5,-135,110,-110,-110,-122,104,-118,100,-130,110,-125,105,-130,110,-115,-105,-130,110,-115,-105
+300334,2024-06-26T01:40:00+00:00,Arizona,Minnesota,Brandon Pfaadt,Joe Ryan,5,4,100,-120,110,-135,108,-126,122,-154,100,-120,110,-130,100,-120,110,-130,100,-120,124,-160
+300340,2024-06-26T01:40:00+00:00,San Diego,Washington,Adam Mazur,MacKenzie Gore,9,7,-125,105,105,-125,-136,116,106,-124,-135,115,105,-125,-140,120,105,-125,-135,114,105,-125
+300333,2024-06-26T01:45:00+00:00,San Francisco,Chi. Cubs,Randy Rodriguez,Kyle Hendricks,5,1,100,-120,-125,105,100,-118,-122,104,100,-120,-125,105,100,-120,-125,105,100,-120,-125,105

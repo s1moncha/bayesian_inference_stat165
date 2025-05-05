@@ -1,0 +1,10 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300357,2024-06-27T19:40:00+00:00,Arizona,Minnesota,Jordan Montgomery,David Festa,6,13,-115,-105,-110,-110,-108,-108,100,-118,-120,100,100,-120,-120,100,-105,-115,-120,100,-110,-120
+300356,2024-06-27T19:45:00+00:00,San Francisco,Chi. Cubs,Jordan Hicks,Shota Imanaga,3,5,-105,-115,-110,-110,-102,-116,-104,-112,-110,-110,-110,-110,-105,-115,-110,-110,-108,-112,-108,-112
+299229,2024-06-27T20:10:00+00:00,Chi. White Sox,Atlanta,Chad Kuhl,Chris Sale,1,0,260,-350,250,-300,265,-330,230,-320,260,-333,240,-303,265,-330,230,-280,260,-325,210,-280
+300360,2024-06-27T22:20:00+00:00,Philadelphia,Miami,Zack Wheeler,Trevor Rogers,4,7,-275,225,-300,240,-290,235,-300,245,-286,228,-303,240,-280,230,-310,250,-278,225,-298,240
+300358,2024-06-27T22:35:00+00:00,Baltimore,Texas,Corbin Burnes,Jon Gray,11,2,-210,170,-210,170,-215,180,-205,172,-222,180,-189,158,-220,180,-205,170,-205,170,-198,164
+300361,2024-06-27T23:07:00+00:00,Toronto,NY Yankees,Jose Berrios,Carlos Rodon,9,2,115,-140,115,-135,124,-146,114,-134,115,-135,115,-135,115,-135,115,-135,114,-135,110,-130
+300362,2024-06-27T23:45:00+00:00,St. Louis,Cincinnati,Miles Mikolas,Andrew Abbott,4,11,-135,110,-135,115,-130,110,-142,120,-135,115,-145,122,-135,115,-150,125,-135,114,-148,124
+300359,2024-06-28T00:10:00+00:00,Kansas City,Cleveland,Michael Wacha,Ben Lively,2,1,-105,-115,-105,-115,104,-122,-106,-110,-105,-115,100,-120,-105,-115,-105,-115,-105,-115,-110,-120
+300363,2024-06-28T01:38:00+00:00,LA Angels,Detroit,Davis Daniel,Jack Flaherty,5,0,140,-165,125,-155,138,-164,134,-158,143,-169,135,-161,145,-170,135,-160,140,-166,136,-162

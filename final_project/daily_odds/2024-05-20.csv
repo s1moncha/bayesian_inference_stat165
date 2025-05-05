@@ -1,0 +1,13 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds
+299855,2024-05-20T16:20:00+00:00,Atlanta,San Diego,Reynaldo Lopez,Dylan Cease,5,6,-125,105,-125,105,-120,102,-126,-102,-125,105,-120,100,-125,105,-125,-105,,,,
+299857,2024-05-20T19:07:00+00:00,Toronto,Chi. White Sox,Jose Berrios,Erick Fedde,9,3,-210,170,-210,170,-190,160,-198,166,-204,170,-204,170,-205,170,-198,164,-200.0,165.0,-205.0,170.0
+299852,2024-05-20T22:10:00+00:00,Cleveland,NY Mets,Ben Lively,Tylor Megill,3,1,-125,105,-125,105,-126,108,-126,108,-125,105,-125,105,-125,105,-125,105,-120.0,100.0,-125.0,105.0
+299822,2024-05-20T22:20:00+00:00,Atlanta,San Diego,Chris Sale,Randy Vasquez,3,0,-135,110,-250,190,-134,114,-280,205,-130,110,-270,215,-130,110,-298,220,-125.0,105.0,-120.0,100.0
+299858,2024-05-20T22:40:00+00:00,Miami,Milwaukee,Ryan Weathers,Joe Ross,3,2,110,-135,120,-140,116,-136,116,-148,110,-130,122,-145,110,-130,120,-142,110.0,-130.0,125.0,-150.0
+299854,2024-05-20T22:45:00+00:00,Washington,Minnesota,Mitchell Parker,Pablo Lopez,12,3,140,-165,135,-160,154,-184,136,-162,140,-164,135,-161,140,-166,130,-155,140.0,-165.0,130.0,-155.0
+299853,2024-05-20T22:50:00+00:00,Tampa Bay,Boston,Taj Bradley,Tanner Houck,0,5,-105,-115,-120,100,-110,-106,-130,104,-105,-115,-125,105,-112,-108,-125,-105,-105.0,-115.0,-125.0,105.0
+299859,2024-05-20T23:05:00+00:00,NY Yankees,Seattle,Marcus Stroman,Logan Gilbert,4,5,-135,110,-140,120,-126,108,-142,120,-130,110,-145,122,-130,110,-142,120,-125.0,105.0,-150.0,125.0
+299851,2024-05-20T23:40:00+00:00,Kansas City,Detroit,Michael Wacha,Reese Olson,8,3,-120,100,-115,-105,-118,100,-116,-110,-120,100,-110,-110,-120,100,-110,-120,-120.0,100.0,-115.0,-105.0
+299860,2024-05-20T23:45:00+00:00,St. Louis,Baltimore,Sonny Gray,Dean Kremer,6,3,-110,-110,-125,105,-118,100,-126,-102,-110,-110,-125,105,-110,-110,-120,-110,-110.0,-110.0,-120.0,100.0
+299850,2024-05-21T00:10:00+00:00,Houston,LA Angels,Framber Valdez,Reid Detmers,7,9,-200,165,-225,180,-205,172,-220,184,-196,162,-227,185,-198,164,-250,190,-200.0,165.0,-220.0,180.0
+299856,2024-05-21T02:10:00+00:00,LA Dodgers,Arizona,Yoshinobu Yamamoto,Joe Mantiply,6,4,-250,190,-250,200,-215,180,-245,200,-227,185,-238,196,-230,190,-258,210,-225.0,185.0,-260.0,210.0

@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300723,2024-07-28T15:35:00+00:00,Tampa Bay,Cincinnati,Shawn Armstrong,Hunter Greene,2,1,105,-130,100,-120,108,-126,102,-120,110,-130,110,-130,105,-125,105,-125,105,-125,-102,-118
+300722,2024-07-28T17:35:00+00:00,Baltimore,San Diego,Albert Suarez,Randy Vasquez,8,6,-175,145,-145,120,-162,136,-138,118,-154,130,-135,115,-165,140,-135,115,-166,140,-154,120
+300731,2024-07-28T17:35:00+00:00,Philadelphia,Cleveland,Kolby Allard,Joey Cantillo,3,4,-150,125,-135,115,-215,180,-130,110,-141,118,-125,105,-140,120,-130,110,-142,120,-125,105
+300732,2024-07-28T17:37:00+00:00,Toronto,Texas,Jose Berrios,Jon Gray,7,3,-105,-115,120,-145,-112,-104,114,-134,-110,-110,118,-141,-110,-110,120,-140,-110,-110,100,-130
+300733,2024-07-28T17:40:00+00:00,Detroit,Minnesota,Alex Faedo,Bailey Ober,0,5,150,-185,130,-155,148,-176,124,-146,150,-179,126,-149,150,-180,125,-150,150,-180,120,-142
+300729,2024-07-28T17:40:00+00:00,NY Mets,Atlanta,David Peterson,Reynaldo Lopez,2,9,-110,-110,-110,-110,100,-118,-111,-115,-110,-110,-115,-105,-105,-115,-115,-105,-110,-110,-120,-110
+300734,2024-07-28T18:10:00+00:00,Milwaukee,Miami,Tobias Myers,Kyle Tyler,6,2,-200,165,-200,165,-198,166,-225,172,-208,175,-213,178,-205,170,-210,175,-205,170,-218,180
+300726,2024-07-28T18:10:00+00:00,Houston,LA Dodgers,Spencer Arrighetti,River Ryan,2,6,-125,105,-135,115,-124,106,-146,114,-125,105,-135,115,-125,105,-135,115,-122,102,-140,110
+300727,2024-07-28T18:10:00+00:00,Kansas City,Chi. Cubs,Cole Ragans,Javier Assad,3,7,-175,145,-185,150,-164,138,-200,154,-169,143,-179,150,-165,140,-185,155,-175,145,-188,145
+300728,2024-07-28T18:10:00+00:00,Chi. White Sox,Seattle,Garrett Crochet,Bryce Miller,3,6,-110,-110,110,-130,-112,-104,100,-128,-110,-110,115,-135,-110,-110,110,-130,-110,-110,-110,-120
+300735,2024-07-28T18:15:00+00:00,St. Louis,Washington,Miles Mikolas,DJ Herz,4,3,-155,125,-150,125,-138,118,-152,128,-154,130,-154,130,-150,125,-150,125,-155,130,-160,124
+300724,2024-07-28T20:05:00+00:00,San Francisco,Colorado,Erik Miller,Austin Gomber,5,4,-210,170,-185,150,-196,164,-198,166,-204,170,-189,158,-200,165,-185,155,-198,164,-195,150
+300736,2024-07-28T20:07:00+00:00,LA Angels,Athletics,Jose Soriano,Osvaldo Bido,8,6,-135,110,-135,115,-126,108,-142,120,-130,110,-135,115,-125,105,-140,120,-125,105,-142,120
+300725,2024-07-28T20:10:00+00:00,Arizona,Pittsburgh,Yilber Diaz,Mitch Keller,5,6,-105,-115,-110,-110,102,-120,-102,-125,100,-120,-120,100,100,-120,-115,-105,100,-120,-105,-125
+300730,2024-07-28T23:10:00+00:00,Boston,NY Yankees,Tanner Houck,Carlos Rodon,2,8,-115,-105,-105,-115,-116,-102,-111,-115,-110,-110,-105,-115,-115,-105,-105,-115,-115,-105,105,-135

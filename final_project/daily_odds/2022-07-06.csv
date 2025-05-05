@@ -1,0 +1,15 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259911,2022-07-06T17:10:00+00:00,Detroit,Cleveland,Michael Pineda,Shane Bieber,8,2,135,-160,140,-165,132,-156,138,-164,150,-179,140,-164,140,-160,145,-165,150,-175,135,-165
+259920,2022-07-06T18:10:00+00:00,Chi. White Sox,Minnesota,Michael Lynn,Joe Ryan,9,8,-110,-110,-120,100,-110,-106,-124,106,-115,-105,-120,100,-110,-110,-125,105,-105,-115,-135,105
+259933,2022-07-06T18:10:00+00:00,Milwaukee,Chi. Cubs,Corbin Burnes,Adrian Sampson,1,2,-250,200,-275,220,-250,205,-360,250,-233,192,-270,215,-250,210,-270,220,-225,190,-315,245
+259917,2022-07-06T19:37:00+00:00,Oakland,Toronto,James Kaprielian,Jose Berrios,1,2,150,-185,170,-200,136,-162,176,-210,158,-189,175,-208,150,-170,175,-210,145,-170,180,-210
+259913,2022-07-06T22:40:00+00:00,Cincinnati,NY Mets,Graham Ashcraft,David Peterson,3,8,135,-165,140,-165,138,-164,146,-174,118,-141,143,-169,140,-160,150,-170,115,-135,150,-175
+259935,2022-07-06T22:40:00+00:00,Miami,LA Angels,Trevor Rogers,Shohei Ohtani,2,5,135,-160,140,-165,134,-158,136,-162,140,-164,140,-164,135,-155,145,-165,125,-145,140,-165
+259916,2022-07-06T23:05:00+00:00,Baltimore,Texas,Spenser Watkins,Glenn Otto,2,1,-105,-115,-110,-110,-104,-112,-104,-112,-105,-115,-110,-110,-105,-115,-110,-110,125,-145,-110,-110
+259918,2022-07-06T23:05:00+00:00,Philadelphia,Washington,Aaron Nola,Josiah Gray,2,3,-225,180,-200,170,-230,190,-220,184,-227,185,-222,180,-225,185,-225,185,-205,175,-205,175
+259921,2022-07-06T23:05:00+00:00,Pittsburgh,NY Yankees,Mitch Keller,Luis Severino,0,16,200,-250,165,-200,200,-245,176,-210,205,-250,175,-208,200,-240,175,-210,200,-240,175,-205
+259915,2022-07-06T23:10:00+00:00,Boston,Tampa Bay,Brayan Bello,Corey Kluber,1,7,-125,105,-120,100,-116,-102,-118,100,-130,110,-120,100,-125,105,-125,105,-110,-110,-125,-105
+259919,2022-07-06T23:20:00+00:00,Atlanta,St. Louis,Max Fried,Miles Mikolas,3,0,-200,165,-175,145,-180,152,-172,144,-189,158,-169,143,-192,167,-165,145,-180,155,-165,140
+259912,2022-07-07T00:10:00+00:00,Houston,Kansas City,Cristian Javier,Brad Keller,4,7,-275,220,-275,230,-250,205,-310,225,-270,215,-294,235,-260,215,-270,220,-225,190,-285,240
+259914,2022-07-07T01:40:00+00:00,Arizona,San Francisco,Merrill Kelly,Alex Cobb,5,7,115,-140,110,-135,120,-142,108,-138,118,-141,110,-130,110,-130,110,-130,120,-140,-105,-125
+264829,2022-07-07T02:10:00+00:00,LA Dodgers,Colorado,Mitch White,Jose Urena,2,1,-350,260,-350,260,-330,265,-335,270,-333,260,-333,260,-330,265,-320,260,-305,255,-315,260

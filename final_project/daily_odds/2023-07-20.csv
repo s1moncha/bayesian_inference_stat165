@@ -1,0 +1,11 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278974,2023-07-20T16:20:00+00:00,Atlanta,Arizona,Spencer Strider,Zac Gallen,7,5,-190,155,-200,165,-198,166,-225,172,-189,158,-213,178,-192,167,-200,170,-175,150,-195,160
+278977,2023-07-20T16:35:00+00:00,Philadelphia,Milwaukee,Taijuan Walker,Corbin Burnes,0,4,-125,105,-110,-110,-124,106,-108,-108,-125,105,-110,-110,-125,105,-115,-105,-135,115,-105,-125
+278976,2023-07-20T16:35:00+00:00,Cincinnati,San Francisco,Andrew Abbott,Alex Cobb,5,1,105,-125,-115,-105,110,-130,-132,104,105,-125,-120,100,105,-125,-115,-105,-105,-115,-125,-105
+278973,2023-07-20T17:07:00+00:00,Toronto,San Diego,Chris Bassitt,Blake Snell,4,0,100,-120,-105,-115,-108,-108,100,-118,-105,-115,-105,-115,-105,-115,100,-120,-125,105,100,-120
+278975,2023-07-20T17:10:00+00:00,NY Mets,Chi. White Sox,Jose Quintana,Michael Kopech,2,6,-150,125,-160,135,-134,116,-164,138,-145,122,-164,140,-145,125,-160,140,-145,125,-165,140
+278969,2023-07-20T18:10:00+00:00,Kansas City,Detroit,Donald Greinke,Michael Lorenzen,0,3,105,-130,115,-135,114,-134,112,-132,110,-130,115,-135,110,-130,110,-130,115,-135,115,-135
+278970,2023-07-20T19:40:00+00:00,Seattle,Minnesota,George Kirby,Pablo Lopez,5,0,-140,115,-125,105,-152,128,-126,108,-135,115,-130,110,-135,115,-120,100,-110,-110,-125,105
+278968,2023-07-20T22:40:00+00:00,Tampa Bay,Baltimore,Tyler Glasnow,Kyle Gibson,3,4,-185,150,-175,145,-184,154,-184,154,-169,143,-169,143,-170,150,-175,155,-140,120,-170,145
+278972,2023-07-21T00:05:00+00:00,Chi. Cubs,St. Louis,Marcus Stroman,Steven Matz,2,7,-125,105,-115,-105,-134,116,-122,104,-125,105,-125,105,-125,105,-115,-105,-125,105,-120,100
+278971,2023-07-21T01:40:00+00:00,Oakland,Houston,Hogan Harris,J.P. France,1,3,155,-190,180,-225,158,-188,180,-215,150,-179,192,-233,150,-170,190,-230,150,-175,185,-215

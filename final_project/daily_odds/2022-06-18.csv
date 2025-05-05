@@ -1,0 +1,17 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259454,2022-06-18T18:20:00+00:00,Chi. Cubs,Atlanta,Justin Steele,Kyle Wright,6,3,145,-175,165,-200,138,-164,166,-198,155,-175,180,-208,145,-165,175,-210,130,-150,175,-205
+259451,2022-06-18T19:07:00+00:00,Toronto,NY Yankees,Alek Manoah,Jameson Taillon,0,4,-125,105,-150,125,-142,120,-154,130,-135,115,-149,130,-125,105,-145,125,-120,100,-150,130
+259443,2022-06-18T20:05:00+00:00,Pittsburgh,San Francisco,Jose Quintana,Robert Wood,5,7,150,-185,145,-175,154,-184,144,-172,165,-185,150,-169,170,-200,150,-170,150,-175,140,-175
+259445,2022-06-18T20:05:00+00:00,Baltimore,Tampa Bay,Kyle Bradish,Jeffrey Springs,6,7,145,-175,145,-175,142,-168,146,-174,145,-164,150,-169,145,-165,140,-160,125,-145,135,-165
+259440,2022-06-18T20:07:00+00:00,Oakland,Kansas City,Cole Irvin,Brad Keller,0,2,-110,-110,-120,100,-110,-106,-116,-102,-110,-110,-115,-105,-110,-110,-115,-105,-110,-110,-120,100
+264825,2022-06-18T20:10:00+00:00,Seattle,LA Angels,Chris Flexen,Patrick Sandoval,2,4,110,-130,120,-145,112,-132,118,-138,110,-130,120,-141,110,-130,120,-140,115,-135,120,-140
+259446,2022-06-18T20:10:00+00:00,Detroit,Texas,Rony Garcia,Taylor Hearn,14,7,115,-140,105,-125,116,-136,106,-124,110,-130,105,-125,115,-135,100,-120,-110,-110,105,-125
+259449,2022-06-18T20:10:00+00:00,Houston,Chi. White Sox,Justin Verlander,Johnny Cueto,0,7,-200,165,-250,200,-196,164,-230,190,-213,185,-250,210,-192,167,-245,205,-225,190,-255,215
+259450,2022-06-18T20:10:00+00:00,NY Mets,Miami,Taijuan Walker,Braxton Garrett,3,2,-200,170,-185,150,-205,172,-178,150,-200,175,-169,150,-210,175,-170,150,-210,180,-170,145
+259452,2022-06-18T20:10:00+00:00,Cincinnati,Milwaukee,Graham Ashcraft,Jason Alexander,3,7,-115,-105,-115,-105,-120,102,-112,-104,-125,105,-110,-110,-120,100,-115,-105,-115,-105,-120,100
+259448,2022-06-18T20:35:00+00:00,Washington,Philadelphia,Josiah Gray,Aaron Nola,1,2,195,-250,145,-175,198,-240,138,-164,185,-213,150,-169,195,-235,145,-165,185,-215,140,-165
+259444,2022-06-18T23:15:00+00:00,Boston,St. Louis,Kutter Crawford,Dakota Hudson,2,11,-115,-105,-120,100,-112,-104,-122,104,-120,100,-120,100,-110,-110,-120,100,-105,-115,-120,100
+259439,2022-06-18T23:15:00+00:00,LA Dodgers,Cleveland,Julio Urias,Cal Quantrill,7,1,-225,180,-250,200,-220,184,-250,205,-213,185,-244,205,-220,180,-250,210,-225,190,-245,205
+259441,2022-06-19T01:10:00+00:00,Colorado,San Diego,German Marquez,Nick Martinez,5,4,120,-145,100,-120,118,-138,-104,-112,130,-149,-105,-115,120,-140,100,-120,115,-135,100,-120
+259442,2022-06-19T02:10:00+00:00,Seattle,LA Angels,Penn Murfee,Jose Suarez,0,3,115,-135,105,-125,110,-130,108,-126,115,-135,105,-125,115,-135,105,-125,105,-125,105,-125
+259447,2022-06-19T02:10:00+00:00,Arizona,Minnesota,Luke Weaver,Dylan Bundy,1,11,-115,-105,100,-120,-108,-108,-104,-112,-115,-105,100,-120,-115,-105,-105,-115,105,-125,100,-120

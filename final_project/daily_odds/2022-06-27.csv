@@ -1,0 +1,10 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259690,2022-06-27T23:05:00+00:00,NY Yankees,Oakland,Jordan Montgomery,Paul Blackburn,9,5,-300,240,-300,240,-300,245,-330,240,-294,245,-303,250,-300,240,-300,240,-260,220,-290,230
+259683,2022-06-27T23:05:00+00:00,Washington,Pittsburgh,Erick Fedde,Miguel Yajure,3,2,-150,125,-150,125,-152,128,-190,146,-145,125,-149,130,-140,120,-150,130,-135,115,-180,145
+259686,2022-06-27T23:07:00+00:00,Toronto,Boston,Kevin Gausman,Connor Seabold,7,2,-185,150,-200,165,-184,154,-215,164,-189,170,-189,170,-192,167,-140,120,-180,155,-205,165
+259687,2022-06-27T23:10:00+00:00,Cleveland,Minnesota,Triston McKenzie,Sonny Gray,1,11,105,-125,110,-130,-108,-108,100,-128,100,-120,110,-130,100,-120,110,-130,100,-120,105,-125
+259689,2022-06-27T23:45:00+00:00,St. Louis,Miami,Adam Wainwright,Pablo Lopez,9,0,-145,120,-130,110,-148,126,-150,118,-141,120,-130,110,-140,120,-160,140,-140,120,-145,115
+259685,2022-06-28T00:10:00+00:00,Kansas City,Texas,Kris Bubic,Martin Perez,4,10,110,-135,120,-145,108,-126,124,-146,110,-130,120,-141,115,-135,125,-145,105,-125,120,-140
+259682,2022-06-28T00:40:00+00:00,Colorado,LA Dodgers,Chad Kuhl,Tyler Anderson,4,0,170,-200,165,-200,172,-205,176,-210,180,-208,170,-189,175,-210,180,-220,160,-190,155,-190
+259688,2022-06-28T01:38:00+00:00,LA Angels,Chi. White Sox,Noah Syndergaard,Lucas Giolito,4,3,-135,110,-145,120,-130,110,-154,120,-130,110,-141,120,-130,110,-140,120,-130,110,-150,120
+259684,2022-06-28T02:10:00+00:00,Seattle,Baltimore,George Kirby,Tyler Wells,2,9,-160,135,-155,130,-168,142,-154,130,-161,140,-149,130,-160,140,-150,130,-145,125,-155,125

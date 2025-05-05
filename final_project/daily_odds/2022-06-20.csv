@@ -1,0 +1,10 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259499,2022-06-20T17:10:00+00:00,NY Mets,Miami,David Peterson,Trevor Rogers,6,0,-150,125,-160,135,-152,128,-168,142,-149,130,-169,150,-145,125,-165,145,-155,135,-165,135
+259495,2022-06-20T23:05:00+00:00,Pittsburgh,Chi. Cubs,JT Brubaker,Caleb Kilian,12,1,-110,-110,-115,-105,-108,-108,-120,102,-110,-110,-115,-105,-110,-110,-135,115,-110,-110,-125,-105
+259493,2022-06-20T23:10:00+00:00,Boston,Detroit,Josh Winckowski,Alex Faedo,5,2,-185,150,-185,150,-172,144,-188,158,-169,150,-179,160,-170,150,-180,160,-155,135,-195,165
+259500,2022-06-20T23:10:00+00:00,Tampa Bay,NY Yankees,Shane McClanahan,Gerrit Cole,2,4,110,-135,115,-140,106,-124,118,-150,110,-130,125,-145,110,-130,125,-145,120,-140,120,-140
+259497,2022-06-20T23:20:00+00:00,Atlanta,San Francisco,Max Fried,Logan Webb,2,1,-155,125,-145,120,-138,118,-158,134,-141,120,-161,140,-140,120,-150,130,-140,120,-155,135
+259502,2022-06-21T00:10:00+00:00,Milwaukee,St. Louis,Corbin Burnes,Miles Mikolas,2,0,-160,135,-175,145,-162,136,-174,146,-149,130,-169,150,-155,135,-170,150,-145,125,-165,140
+259498,2022-06-21T00:10:00+00:00,Chi. White Sox,Toronto,Michael Lynn,Jose Berrios,8,7,110,-135,100,-120,114,-134,104,-122,105,-125,105,-125,100,-120,110,-130,100,-120,105,-125
+259494,2022-06-21T01:38:00+00:00,LA Angels,Kansas City,Noah Syndergaard,Kris Bubic,2,6,-190,155,-200,165,-196,164,-182,144,-179,160,-189,170,-170,150,-200,170,-175,150,-205,165
+259496,2022-06-21T01:40:00+00:00,San Diego,Arizona,Yu Darvish,Zach Davies,4,1,-200,165,-175,145,-205,172,-174,146,-200,175,-169,150,-200,170,-170,150,-195,165,-170,145

@@ -1,0 +1,10 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+279306,2023-08-14T22:40:00+00:00,Miami,Houston,Braxton Garrett,Framber Valdez,5,1,120,-145,115,-135,130,-154,132,-168,122,-145,122,-145,125,-145,110,-130,120,-142,124,-160
+279301,2023-08-14T23:10:00+00:00,NY Mets,Pittsburgh,Carlos Carrasco,Quinn Priester,7,2,-135,115,-135,115,-138,118,-148,116,-135,115,-141,118,-135,115,-135,115,-115,-105,-150,120
+279302,2023-08-14T23:20:00+00:00,Atlanta,NY Yankees,Max Fried,Clarke Schmidt,11,3,-250,195,-200,165,-220,184,-198,166,-233,192,-189,158,-230,190,-200,170,-230,190,-192,160
+279303,2023-08-14T23:45:00+00:00,St. Louis,Oakland,Miles Mikolas,JP Sears,7,5,-200,165,-225,180,-215,180,-260,194,-204,170,-233,192,-200,170,-230,190,-230,190,-250,190
+279304,2023-08-15T00:05:00+00:00,Texas,LA Angels,Max Scherzer,Patrick Sandoval,12,0,-175,145,-185,150,-172,144,-215,162,-179,150,-189,158,-175,155,-185,165,-175,145,-245,185
+279305,2023-08-15T00:10:00+00:00,Kansas City,Seattle,Brady Singer,Logan Gilbert,7,6,125,-150,125,-150,128,-152,104,-132,130,-154,130,-154,130,-150,130,-150,120,-142,105,-130
+279307,2023-08-15T00:40:00+00:00,Colorado,Arizona,Chris Flexen,Merrill Kelly,6,4,190,-225,180,-225,190,-230,172,-225,180,-222,180,-222,175,-210,180,-220,200,-245,185,-245
+279308,2023-08-15T01:40:00+00:00,San Diego,Baltimore,Yu Darvish,Grayson Rodriguez,1,4,-130,110,-145,120,-138,118,-144,122,-135,115,-145,122,-135,115,-145,125,-148,124,-142,120
+279300,2023-08-15T01:45:00+00:00,San Francisco,Tampa Bay,Ryan Walker,Tyler Glasnow,2,10,115,-140,115,-135,120,-142,-102,-126,118,-141,118,-141,120,-140,115,-135,120,-142,110,-140

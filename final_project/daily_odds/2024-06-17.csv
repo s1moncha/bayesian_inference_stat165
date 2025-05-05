@@ -1,0 +1,10 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300226,2024-06-17T22:40:00+00:00,Philadelphia,San Diego,Cristopher Sanchez,Randy Vasquez,9,2,-165,140,-190,155,-166,140,-800,490,-169,143,-204,170,-165,140,-205,170,-170,142,-810,500
+300225,2024-06-17T22:40:00+00:00,Miami,St. Louis,Braxton Garrett,Sonny Gray,6,7,135,-160,130,-155,132,-156,240,-340,135,-161,130,-154,130,-155,135,-160,136,-162,230,-315
+300223,2024-06-17T22:40:00+00:00,Pittsburgh,Cincinnati,Paul Skenes,Carson Spiers,4,1,-200,165,-185,150,-180,152,-750,460,-196,162,-189,158,-190,160,-190,160,-198,164,-920,550
+300227,2024-06-17T23:07:00+00:00,Toronto,Boston,Yusei Kikuchi,Nick Pivetta,3,7,-120,100,-120,100,-130,110,330,-480,-125,105,-120,100,-125,105,-125,105,-122,102,325,-475
+300224,2024-06-17T23:20:00+00:00,Atlanta,Detroit,Max Fried,Reese Olson,2,1,-225,180,-225,180,-190,160,-215,164,-222,180,-208,175,-220,180,-210,175,-218,180,-230,175
+300228,2024-06-18T00:05:00+00:00,Chi. Cubs,San Francisco,Javier Assad,Jordan Hicks,6,7,-120,100,-115,-105,-126,108,-116,-102,-125,105,-115,-105,-130,110,-115,-105,-125,105,-118,-102
+300229,2024-06-18T00:05:00+00:00,Texas,NY Mets,Jon Gray,David Peterson,2,14,-130,105,-140,115,-122,104,-134,114,-125,105,-141,118,-120,100,-140,120,-125,105,-142,120
+300230,2024-06-18T00:40:00+00:00,Colorado,LA Dodgers,Cal Quantrill,James Paxton,5,9,155,-190,140,-165,168,-200,146,-174,158,-189,140,-164,150,-180,140,-165,145,-175,135,-175
+300231,2024-06-18T01:38:00+00:00,LA Angels,Milwaukee,Zach Plesac,Carlos Rodriguez,5,3,-105,-115,105,-125,-104,-112,114,-134,-110,-110,-110,-110,-110,-110,120,-140,-110,-110,114,-135

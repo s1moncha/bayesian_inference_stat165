@@ -1,0 +1,19 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+279361,2023-08-19T17:05:00+00:00,NY Yankees,Boston,Gerrit Cole,Kutter Crawford,1,8,-165,140,-165,140,-180,152,-166,140,-161,135,-161,135,-170.0,150.0,-155.0,135.0,-166,140,-166,130
+279363,2023-08-19T18:20:00+00:00,Chi. Cubs,Kansas City,Justin Steele,Brady Singer,6,4,-190,155,-225,180,-210,176,-225,172,-189,158,-233,192,-200.0,170.0,-220.0,180.0,-218,180,-270,200
+279381,2023-08-19T19:00:00+00:00,LA Dodgers,Miami,Caleb Ferguson,Eury Perez,3,1,-160,135,-160,135,-168,142,-172,134,-161,135,-154,130,-155.0,135.0,-150.0,130.0,-166,140,-180,140
+279388,2023-08-19T19:10:00+00:00,San Diego,Arizona,Matt Waldron,Merrill Kelly,4,6,-110,-110,-120,100,-108,-108,100,-128,-110,-110,-120,100,,,,,-118,-102,105,-135
+279364,2023-08-19T20:05:00+00:00,Texas,Milwaukee,Dane Dunning,Freddy Peralta,1,6,-145,120,-125,105,-152,128,-134,106,-141,118,-130,110,-140.0,120.0,-125.0,105.0,-142,120,-135,105
+279371,2023-08-19T20:05:00+00:00,Washington,Philadelphia,Jake Irvin,Cristopher Sanchez,3,12,140,-165,130,-155,148,-176,130,-166,143,-169,130,-154,145.0,-165.0,130.0,-150.0,145,-175,124,-160
+279380,2023-08-19T20:07:00+00:00,LA Angels,Tampa Bay,Chase Gockel,Tyler Glasnow,7,6,125,-155,125,-155,126,-148,130,-154,118,-141,126,-149,115.0,-135.0,125.0,-145.0,120,-142,120,-142
+279365,2023-08-19T22:40:00+00:00,Cincinnati,Toronto,Brandon Williamson,Chris Bassitt,3,4,120,-145,120,-145,146,-174,114,-146,118,-141,122,-145,120.0,-140.0,120.0,-140.0,130,-155,110,-140
+279366,2023-08-19T23:10:00+00:00,Cleveland,Detroit,Tanner Bibee,Matt Manning,3,4,-160,135,-165,135,-164,138,-196,152,-135,115,-175,148,-165.0,145.0,-175.0,155.0,-115,-105,-200,154
+279367,2023-08-19T23:10:00+00:00,Houston,Seattle,Framber Valdez,Logan Gilbert,3,10,-160,135,-150,125,-162,136,-146,116,-161,135,-141,118,-155.0,135.0,-145.0,125.0,-175,145,-135,105
+279372,2023-08-19T23:10:00+00:00,Minnesota,Pittsburgh,Sonny Gray,Mitch Keller,4,7,-175,145,-175,145,-178,150,-205,156,-179,150,-179,150,-170.0,150.0,-175.0,155.0,-148,124,-180,140
+279362,2023-08-19T23:15:00+00:00,St. Louis,NY Mets,Miles Mikolas,Kodai Senga,2,13,-105,-115,-105,-115,-112,-104,-116,-110,-110,-110,-105,-115,-110.0,-110.0,-105.0,-115.0,-110,-110,-115,-115
+279368,2023-08-19T23:20:00+00:00,Atlanta,San Francisco,Yonny Chirinos,Logan Webb,6,5,-115,-105,-120,100,-120,102,118,-150,-120,100,-120,100,-120.0,100.0,-120.0,100.0,-118,-102,-120,-110
+279373,2023-08-20T00:10:00+00:00,Colorado,Chi. White Sox,Kyle Freeland,Jesse Scholtens,11,5,-105,-115,-105,-115,114,-134,-102,-116,105,-125,-105,-115,105.0,-125.0,-105.0,-115.0,105,-125,-105,-125
+279374,2023-08-20T00:40:00+00:00,San Diego,Arizona,Yu Darvish,Scott McGough,1,8,-145,120,-190,155,-154,130,-192,150,-141,118,-189,158,-145.0,125.0,-200.0,170.0,-135,114,-180,140
+279369,2023-08-20T01:07:00+00:00,LA Angels,Tampa Bay,Patrick Sandoval,Zach Eflin,4,18,100,-120,110,-135,120,-142,104,-134,105,-125,110,-130,110.0,-130.0,110.0,-130.0,110,-130,105,-135
+279370,2023-08-20T01:07:00+00:00,Oakland,Baltimore,Ken Waldichuk,Cole Irvin,2,7,145,-175,145,-175,146,-174,148,-176,143,-169,152,-179,155.0,-175.0,150.0,-170.0,145,-175,135,-175
+279360,2023-08-20T01:10:00+00:00,LA Dodgers,Miami,Julio Urias,Braxton Garrett,3,1,-190,155,-190,155,-220,184,-210,160,-189,158,-189,158,-200.0,170.0,-185.0,165.0,-192,160,-210,160

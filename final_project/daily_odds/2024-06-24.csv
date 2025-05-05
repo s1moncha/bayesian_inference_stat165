@@ -1,0 +1,13 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300316,2024-06-24T22:35:00+00:00,Baltimore,Cleveland,Cade Povich,Tanner Bibee,2,3,-115,-105,-115,-105,-104,-112,-108,-108,-110,-110,-115,-105,-110,-110,-115,-105,-115,-105,-118,-102
+300320,2024-06-24T22:40:00+00:00,Detroit,Philadelphia,Casey Mize,Aaron Nola,1,8,145,-175,150,-185,134,-158,152,-180,150,-179,150,-179,150,-180,150,-180,142,-170,140,-180
+300314,2024-06-24T22:50:00+00:00,Tampa Bay,Seattle,Taj Bradley,Bryan Woo,4,3,-110,-110,-115,-105,102,-120,-112,-112,-110,-110,-115,-105,-105,-115,-115,-105,-108,-112,-115,-105
+300315,2024-06-24T23:10:00+00:00,Boston,Toronto,Tanner Houck,Chris Bassitt,7,6,-150,125,-165,140,-142,120,-172,134,-141,118,-164,140,-150,125,-165,140,-142,120,-166,130
+300321,2024-06-24T23:10:00+00:00,Cincinnati,Pittsburgh,Carson Spiers,Bailey Falter,11,5,-115,-105,-135,115,-108,-108,-134,114,-115,-105,-135,115,-115,-105,-140,120,-112,-108,-154,120
+300322,2024-06-24T23:45:00+00:00,St. Louis,Atlanta,Michael Lynn,Spencer Schwellenbach,4,3,100,-120,110,-130,108,-126,106,-124,105,-125,105,-125,105,-125,110,-130,102,-122,110,-130
+300323,2024-06-25T00:10:00+00:00,Milwaukee,Texas,Freddy Peralta,Michael Lorenzen,6,3,-160,135,-175,145,-166,140,-182,144,-161,135,-179,152,-165,140,-180,150,-162,136,-188,145
+300319,2024-06-25T00:10:00+00:00,Kansas City,Miami,Cole Ragans,Roddery Munoz,4,1,-250,190,-250,200,-240,198,-255,210,-238,196,-263,210,-240,195,-260,210,-238,195,-245,185
+300318,2024-06-25T00:10:00+00:00,Chi. White Sox,LA Dodgers,Garrett Crochet,James Paxton,0,3,115,-135,-105,-115,124,-146,-106,-118,122,-145,-105,-115,125,-150,-105,-115,124,-148,105,-135
+300324,2024-06-25T01:38:00+00:00,LA Angels,Athletics,Griffin Canning,Luis Medina,5,1,-125,105,-140,115,-118,100,-134,114,-120,100,-145,122,-120,100,-140,120,-120,100,-142,120
+300325,2024-06-25T01:40:00+00:00,San Diego,Washington,Matt Waldron,Patrick Corbin,7,6,-225,180,-210,170,-230,190,-210,160,-222,180,-189,158,-220,180,-190,160,-218,180,-215,165
+300317,2024-06-25T01:45:00+00:00,San Francisco,Chi. Cubs,Erik Miller,Justin Steele,5,4,-120,100,100,-120,-130,110,106,-124,-125,105,100,-120,-130,110,-105,-115,-130,110,-102,-118

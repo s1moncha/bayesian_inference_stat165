@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278841,2023-07-07T22:40:00+00:00,Detroit,Toronto,Alex Faedo,Alek Manoah,2,12,125,-150,110,-130,126,-148,112,-132,135,-161,115,-135,135,-155,115,-135,135,-155,115,-135
+278842,2023-07-07T22:40:00+00:00,Tampa Bay,Atlanta,Tyler Glasnow,Charlie Morton,1,2,-120,100,-110,-110,-134,116,-108,-108,-125,105,-110,-110,-120,100,-110,-110,-105,-115,-110,-110
+278847,2023-07-07T22:40:00+00:00,Miami,Philadelphia,Sandy Alcantara,Zack Wheeler,3,4,105,-125,120,-145,106,-124,120,-142,105,-125,130,-154,105,-125,120,-140,110,-130,120,-140
+278844,2023-07-07T23:05:00+00:00,NY Yankees,Chi. Cubs,Carlos Rodon,Jameson Taillon,0,3,-175,145,-165,140,-164,138,-166,140,-169,143,-169,143,-170,150,-155,135,-165,140,-165,140
+278848,2023-07-07T23:05:00+00:00,Washington,Texas,Trevor Williams,Cody Bradford,2,7,135,-160,150,-185,126,-148,150,-178,135,-161,158,-189,135,-155,150,-170,135,-155,150,-175
+278838,2023-07-07T23:10:00+00:00,Boston,Oakland,Brennan Bernardino,Sam Long,7,3,-225,185,-225,180,-205,172,-235,194,-233,192,-233,192,-210,175,-235,195,-210,180,-230,195
+278843,2023-07-07T23:10:00+00:00,Cleveland,Kansas City,Aaron Civale,Daniel Lynch IV,3,0,-200,165,-190,155,-190,160,-190,160,-189,158,-175,148,-185,165,-185,165,-180,155,-180,155
+278839,2023-07-08T00:10:00+00:00,Houston,Seattle,Hunter Brown,Luis Castillo,1,10,-120,100,-110,-110,-118,100,-112,-104,-120,100,-115,-105,-120,100,-110,-110,-115,-105,-115,-105
+278849,2023-07-08T00:10:00+00:00,Milwaukee,Cincinnati,Corbin Burnes,Andrew Abbott,7,3,-135,110,-125,105,-134,114,-126,108,-130,110,-125,105,-130,110,-120,100,-130,110,-130,110
+278850,2023-07-08T00:10:00+00:00,Minnesota,Baltimore,Bailey Ober,Cole Irvin,1,3,-150,125,-165,140,-158,134,-168,142,-154,130,-164,140,-150,130,-160,140,-115,-105,-165,140
+278837,2023-07-08T00:10:00+00:00,Chi. White Sox,St. Louis,Dylan Cease,Jordan Montgomery,8,7,-105,-115,-115,-105,-104,-112,-108,-108,-110,-110,-110,-110,-105,-115,-110,-110,-105,-115,-115,-105
+278851,2023-07-08T01:40:00+00:00,San Diego,NY Mets,Yu Darvish,Justin Verlander,5,7,-125,105,-120,100,-130,110,-120,102,-125,105,-120,100,-125,105,-120,100,-135,115,-120,100
+278840,2023-07-08T01:40:00+00:00,Arizona,Pittsburgh,Zac Gallen,Rich Hill,7,3,-200,170,-225,175,-190,160,-225,188,-204,170,-213,178,-200,170,-220,180,-200,170,-215,185
+278845,2023-07-08T02:10:00+00:00,LA Dodgers,LA Angels,Tony Gonsolin,Griffin Canning,11,4,-175,145,-175,145,-168,142,-178,150,-169,143,-175,148,-170,150,-175,155,-170,145,-175,150
+278846,2023-07-08T02:15:00+00:00,San Francisco,Colorado,Ross Stripling,Austin Gomber,2,5,-165,140,-175,145,-166,140,-198,166,-161,135,-175,148,-155,135,-200,170,-175,150,-195,165

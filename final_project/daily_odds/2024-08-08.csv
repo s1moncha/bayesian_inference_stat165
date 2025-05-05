@@ -1,0 +1,11 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300866,2024-08-08T16:05:00+00:00,Washington,San Francisco,DJ Herz,Kyle Harrison,5,9,100,-120,-105,-115,114,-134,102,-120,100,-120,-105,-115,100,-120,-105,-115,100,-120,-105,-115
+300868,2024-08-08T16:20:00+00:00,Atlanta,Milwaukee,Charlie Morton,Frankie Montas Jr.,7,16,-155,125,-135,115,-148,126,-132,112,-154,130,-130,110,-150,125,-135,115,-155,130,-130,110
+300865,2024-08-08T16:35:00+00:00,Pittsburgh,San Diego,Luis L. Ortiz,Randy Vasquez,6,7,-115,-105,-105,-115,-116,-102,-106,-120,-110,-110,-105,-115,-110,-110,-110,-110,-115,-105,-105,-125
+300871,2024-08-08T19:10:00+00:00,Colorado,NY Mets,Austin Gomber,David Peterson,1,9,135,-160,130,-155,130,-154,470,-770,135,-161,122,-145,130,-155,125,-150,130,-155,550,-920
+300872,2024-08-08T22:10:00+00:00,Miami,Cincinnati,Kyle Tyler,Hunter Greene,4,10,155,-190,150,-185,150,-178,154,-184,162,-196,158,-189,165,-200,155,-185,160,-192,154,-185
+300867,2024-08-08T23:05:00+00:00,NY Yankees,LA Angels,Nestor Cortes,Tyler Anderson,4,9,-275,220,-250,200,-220,184,-235,194,-270,215,-238,196,-270,220,-240,195,-270,220,-238,195
+300873,2024-08-08T23:07:00+00:00,Toronto,Baltimore,Kevin Gausman,Dean Kremer,7,6,-105,-115,-105,-115,100,-118,-108,-108,100,-120,-105,-115,105,-125,-110,-110,110,-130,-115,-115
+300874,2024-08-08T23:15:00+00:00,St. Louis,Tampa Bay,Kyle Gibson,Shane Baz,4,6,-125,105,-125,105,-132,112,-124,106,-125,105,-125,105,-125,105,-120,100,-125,105,-122,102
+300869,2024-08-09T01:40:00+00:00,Seattle,Detroit,Bryan Woo,Brenan Hanifee,4,3,-210,170,-225,180,-205,172,-230,176,-204,170,-204,170,-205,170,-200,165,-205,170,-230,175
+300870,2024-08-09T01:40:00+00:00,Arizona,Philadelphia,Jordan Montgomery,Kolby Allard,4,6,-105,-115,-120,100,-104,-112,-126,108,-105,-115,-130,110,-115,-105,-130,110,-105,-115,-130,110

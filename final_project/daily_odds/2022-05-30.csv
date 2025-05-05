@@ -1,0 +1,14 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259151,2022-05-30T17:05:00+00:00,Chi. Cubs,Milwaukee,Matthew Swarmer,Ethan Small,6,7,-105,-115,110,-130,102,-120,116,-136,-105.0,-115.0,120.0,-141.0,-105,-115,115,-135,105,-125,120,-140
+259147,2022-05-30T17:10:00+00:00,Detroit,Minnesota,Beau Brieske,Dylan Bundy,7,5,145,-175,120,-145,138,-164,124,-156,150.0,-169.0,125.0,-145.0,145,-165,120,-140,135,-155,120,-150
+259145,2022-05-30T18:15:00+00:00,St. Louis,San Diego,Patrick Naughton,Nick Martinez,6,3,-110,-110,-130,105,-104,-112,-122,-104,-105.0,-115.0,-125.0,105.0,100,-120,-125,105,-105,-115,-130,100
+259148,2022-05-30T20:05:00+00:00,Philadelphia,San Francisco,Kyle Gibson,Logan Webb,4,5,-110,-110,100,-120,-116,-102,100,-118,-115.0,-105.0,100.0,-120.0,-115,-105,100,-120,-110,-110,100,-130
+259143,2022-05-30T20:07:00+00:00,Oakland,Houston,Paul Blackburn,Framber Valdez,1,5,155,-190,135,-160,152,-180,134,-158,165.0,-185.0,140.0,-161.0,160,-180,140,-160,160,-190,135,-165
+259150,2022-05-30T20:10:00+00:00,Colorado,Miami,Ryan Feltner,Pablo Lopez,7,1,125,-150,130,-155,130,-154,130,-154,130.0,-149.0,130.0,-149.0,130,-150,130,-150,125,-145,125,-155
+259141,2022-05-30T22:10:00+00:00,Cleveland,Kansas City,Zach Plesac,Jonathan Heasley,7,3,-165,140,-155,125,-152,128,-174,138,-161.0,140.0,-161.0,140.0,-165,145,-160,140,-165,145,-155,125
+259140,2022-05-30T23:10:00+00:00,Boston,Baltimore,Rich Hill,Tyler Wells,0,10,-165,135,-165,140,-158,134,-178,150,-161.0,140.0,-169.0,150.0,-165,145,-170,150,-140,120,-170,150
+259142,2022-05-30T23:10:00+00:00,NY Mets,Washington,David Peterson,Erick Fedde,13,5,-185,150,-190,155,-184,154,-178,150,-175.0,155.0,-185.0,165.0,-180,160,-180,160,-165,145,-195,165
+265043,2022-05-30T23:40:00+00:00,Chi. Cubs,Milwaukee,Todd Smyly,Aaron Ashby,1,3,115,-135,110,-135,116,-136,-106,-120,,,,,115,-135,110,-130,115,-135,-110,-120
+259146,2022-05-31T00:05:00+00:00,Texas,Tampa Bay,Glenn Otto,Drew Rasmussen,9,5,120,-145,125,-155,108,-126,114,-134,110.0,-130.0,120.0,-141.0,110,-130,120,-140,120,-140,115,-145
+259149,2022-05-31T00:10:00+00:00,Arizona,Atlanta,Zac Gallen,Spencer Strider,6,2,100,-120,100,-120,-104,-112,102,-120,-105.0,-115.0,100.0,-120.0,-105,-115,145,-165,-110,-110,100,-120
+259144,2022-05-31T02:10:00+00:00,LA Dodgers,Pittsburgh,Walker Buehler,Zach Thompson,5,6,-350,260,-350,260,-330,265,-370,295,-294.0,245.0,-357.0,290.0,-300,240,-360,280,-275,220,-350,270

@@ -1,0 +1,15 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+260830,2022-08-12T22:40:00+00:00,Miami,Atlanta,Pablo Lopez,Jake Odorizzi,3,4,135,-160,125,-150,144,-172,122,-144,140,-164,118,-141,140,-160,120,-140,130,-150,110,-140
+260819,2022-08-12T23:05:00+00:00,Washington,San Diego,Cory Abbott,Mike Clevinger,5,10,185,-225,240,-300,176,-210,300,-430,175,-208,235,-294,190,-230,235,-290,255,-305,270,-350
+260823,2022-08-12T23:07:00+00:00,Toronto,Cleveland,Jose Berrios,Cal Quantrill,0,8,-185,150,-160,135,-190,160,-205,158,-196,162,-164,140,-192,167,-155,135,-190,160,-190,155
+260825,2022-08-12T23:10:00+00:00,NY Mets,Philadelphia,Max Scherzer,Ranger Suarez,1,2,-200,165,-250,200,-190,160,-260,196,-169,143,-233,192,-192,167,-185,165,-190,160,-255,205
+260826,2022-08-12T23:10:00+00:00,Chi. White Sox,Detroit,Michael Kopech,Daniel Norris,2,0,-250,195,-200,170,-235,194,-215,180,-238,196,-204,170,-245,205,-220,180,-230,195,-210,170
+260821,2022-08-12T23:10:00+00:00,Tampa Bay,Baltimore,Corey Kluber,Austin Voth,3,10,-155,125,-145,120,-154,130,-152,120,-154,130,-154,130,-150,130,-145,125,-155,135,-140,110
+260827,2022-08-12T23:10:00+00:00,Boston,NY Yankees,Nathan Eovaldi,Domingo German,3,2,105,-125,-105,-115,106,-124,-104,-112,110,-130,-105,-115,105,-125,-105,-115,100,-120,-110,-120
+260822,2022-08-13T00:05:00+00:00,Texas,Seattle,Josh Sborz,George Kirby,2,6,155,-190,125,-155,162,-194,122,-144,162,-196,135,-161,170,-200,125,-145,160,-190,120,-150
+260818,2022-08-13T00:10:00+00:00,Houston,Oakland,Luis Garcia,Adam Oller,7,5,-350,275,-350,280,-335,270,-350,280,-333,260,-345,270,-340,270,-360,280,-315,260,-335,260
+260817,2022-08-13T00:10:00+00:00,Kansas City,LA Dodgers,Daniel Lynch IV,Tony Gonsolin,3,8,195,-250,200,-250,210,-255,220,-270,210,-263,215,-270,210,-250,215,-260,205,-245,185,-230
+260828,2022-08-13T00:15:00+00:00,St. Louis,Milwaukee,Jordan Montgomery,Eric Lauer,3,1,-165,140,-175,145,-166,140,-172,144,-145,122,-169,143,-165,145,-170,150,-140,120,-150,120
+260816,2022-08-13T00:40:00+00:00,Colorado,Arizona,Antonio Senzatela,Zach Davies,5,3,-125,105,-120,100,-126,108,-134,114,-125,105,-125,105,-125,105,-125,105,-120,100,-125,-105
+260824,2022-08-13T01:38:00+00:00,LA Angels,Minnesota,Patrick Sandoval,Tyler Mahle,0,4,100,-120,115,-140,102,-120,118,-150,100,-120,115,-135,100,-120,120,-140,130,-150,110,-140
+260820,2022-08-13T02:15:00+00:00,San Francisco,Pittsburgh,Carlos Rodon,Bryse Wilson,5,3,-275,220,-300,230,-275,225,-300,245,-270,215,-278,222,-270,220,-275,225,-260,220,-280,220

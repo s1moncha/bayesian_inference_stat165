@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+260309,2022-07-24T16:05:00+00:00,Philadelphia,Chi. Cubs,Bailey Falter,Todd Smyly,3,4,-140,115,-125,105,-146,124,-142,112,-145,122,-115,-105,-145,125,-120,100,-140,120,-140,110
+260313,2022-07-24T17:35:00+00:00,Baltimore,NY Yankees,Dean Kremer,Nestor Cortes,0,6,150,-185,155,-190,158,-188,148,-176,150,-179,150,-179,150,-170,155,-175,170,-200,140,-175
+260307,2022-07-24T17:35:00+00:00,Boston,Toronto,Brayan Bello,Ross Stripling,4,8,125,-150,135,-165,108,-126,142,-182,122,-145,140,-164,110,-130,140,-160,110,-130,140,-175
+260310,2022-07-24T17:35:00+00:00,Atlanta,LA Angels,Ian Anderson,Reid Detmers,1,9,-190,155,-225,180,-200,168,-225,172,-196,162,-222,180,-192,167,-220,180,-195,165,-210,170
+260312,2022-07-24T17:35:00+00:00,Pittsburgh,Miami,Mitch Keller,Sandy Alcantara,5,6,145,-175,145,-175,144,-172,138,-164,140,-164,150,-179,150,-170,150,-170,120,-140,145,-180
+260304,2022-07-24T17:40:00+00:00,Cincinnati,St. Louis,Tyler Mahle,Miles Mikolas,6,3,115,-140,135,-160,108,-126,138,-164,110,-130,140,-164,115,-135,145,-165,110,-130,140,-165
+260308,2022-07-24T17:40:00+00:00,Detroit,Minnesota,Rony Garcia,Sonny Gray,1,9,145,-175,145,-175,152,-180,144,-172,150,-179,143,-169,150,-170,150,-170,150,-175,145,-170
+260328,2022-07-24T18:10:00+00:00,Milwaukee,Colorado,Eric Lauer,Chad Kuhl,10,9,-185,150,-190,155,-184,154,-215,164,-196,162,-189,158,-200,170,-185,165,-150,130,-210,170
+260305,2022-07-24T18:10:00+00:00,Kansas City,Tampa Bay,Kris Bubic,Jeffrey Springs,4,2,120,-145,130,-155,126,-148,130,-154,130,-154,130,-154,130,-150,130,-150,125,-145,135,-155
+260311,2022-07-24T18:10:00+00:00,Chi. White Sox,Cleveland,Dylan Cease,Shane Bieber,6,3,-135,110,-155,125,-134,114,-152,128,-130,110,-161,135,-135,115,-155,135,-140,120,-155,135
+260306,2022-07-24T20:07:00+00:00,Oakland,Texas,Paul Blackburn,Martin Perez,8,11,105,-125,120,-145,116,-136,120,-142,110,-130,122,-145,110,-130,125,-145,105,-125,125,-145
+260302,2022-07-24T20:10:00+00:00,Seattle,Houston,Robbie Ray,Framber Valdez,5,8,-105,-115,-105,-115,-106,-110,-110,-116,100,-120,-105,-115,-105,-115,-105,-115,-115,-105,100,-120
+260300,2022-07-24T20:10:00+00:00,Arizona,Washington,Corbin Martin,Erick Fedde,3,4,-115,-105,-125,105,-120,102,-122,104,-120,100,-125,105,-120,100,-125,105,-115,-105,-125,105
+260303,2022-07-24T20:10:00+00:00,LA Dodgers,San Francisco,Clayton Kershaw,Alex Cobb,7,4,-200,170,-225,185,-200,168,-260,194,-208,175,-227,185,-210,175,-230,190,-195,165,-230,195
+260301,2022-07-24T23:08:00+00:00,NY Mets,San Diego,Carlos Carrasco,Joe Musgrove,8,5,-120,100,-135,110,-120,102,-134,106,-120,100,-130,110,-120,100,-145,125,-115,-105,-135,105

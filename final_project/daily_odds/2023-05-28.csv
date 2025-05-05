@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278312,2023-05-28T15:35:00+00:00,Tampa Bay,LA Dodgers,Josh Fleming,Gavin Stone,11,10,-135,110,-135,110,-134,114,-124,106,-135,115,-125,105,-130,110,-125,105,-130,110,-140,110
+278310,2023-05-28T17:35:00+00:00,Baltimore,Texas,Kyle Bradish,Cody Bradford,3,2,-145,120,-145,120,-142,120,-176,138,-130,110,-154,130,-135,115,-150,130,-150,130,-175,140
+278308,2023-05-28T17:35:00+00:00,NY Yankees,San Diego,Gerrit Cole,Yu Darvish,10,7,-150,125,-140,115,-158,134,-156,132,-145,122,-141,118,-145,125,-145,125,-135,115,-140,120
+278313,2023-05-28T17:40:00+00:00,Detroit,Chi. White Sox,Eduardo Rodriguez,Dylan Cease,6,5,-110,-110,-115,-105,-104,-112,-102,-116,100,-120,-105,-115,-105,-115,-110,-110,110,-130,-105,-125
+278311,2023-05-28T17:40:00+00:00,Cleveland,St. Louis,Hunter Gaddis,Jordan Montgomery,4,3,115,-140,115,-140,124,-146,120,-142,118,-141,122,-145,120,-140,120,-140,130,-150,125,-155
+278321,2023-05-28T18:10:00+00:00,Milwaukee,San Francisco,Colin Rea,Alex Cobb,7,5,110,-135,105,-125,106,-124,108,-126,110,-130,110,-130,110,-130,110,-130,125,-145,105,-125
+278314,2023-05-28T18:10:00+00:00,Kansas City,Washington,Daniel Lynch IV,MacKenzie Gore,3,2,-110,-110,-110,-110,102,-120,-116,-102,-110,-110,-115,-105,-110,-110,-115,-105,-110,-110,-110,-110
+278320,2023-05-28T18:10:00+00:00,Minnesota,Toronto,Bailey Ober,Jose Berrios,0,3,-105,-115,-105,-115,-104,-112,-104,-112,-110,-110,-105,-115,-110,-110,100,-120,-105,-115,-105,-115
+278315,2023-05-28T18:20:00+00:00,Chi. Cubs,Cincinnati,Todd Smyly,Graham Ashcraft,5,8,-160,135,-165,135,-148,126,-172,134,-145,122,-169,143,-150,130,-170,150,-180,155,-165,140
+278322,2023-05-28T19:10:00+00:00,Colorado,NY Mets,Austin Gomber,Tylor Megill,11,10,120,-145,115,-140,120,-142,118,-138,122,-145,118,-141,125,-145,115,-135,125,-145,115,-135
+278316,2023-05-28T20:07:00+00:00,Oakland,Houston,Ken Waldichuk,Cristian Javier,1,10,200,-250,220,-275,220,-270,235,-290,210,-263,235,-294,200,-240,230,-280,240,-285,225,-265
+278317,2023-05-28T20:07:00+00:00,LA Angels,Miami,Patrick Sandoval,Eury Perez,0,2,-145,120,-135,110,-146,124,-130,110,-141,118,-130,110,-140,120,-130,110,-140,120,-130,110
+278318,2023-05-28T20:10:00+00:00,Arizona,Boston,Merrill Kelly,Tanner Houck,4,2,-115,-105,-120,100,-112,-104,-130,110,-115,-105,-125,105,-115,-105,-130,110,-125,105,-140,110
+278319,2023-05-28T20:10:00+00:00,Seattle,Pittsburgh,Marco Gonzales,Luis L. Ortiz,6,3,-150,125,-135,110,-156,132,-142,120,-154,130,-141,118,-150,130,-145,125,-170,145,-145,115
+278309,2023-05-28T23:10:00+00:00,Atlanta,Philadelphia,Spencer Strider,Dylan Covey,11,4,-250,200,-250,200,-255,210,-275,225,-263,210,-263,210,-260,215,-250,210,-305,255,-245,205

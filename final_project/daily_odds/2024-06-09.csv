@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300115,2024-06-09T14:10:00+00:00,Philadelphia,NY Mets,Taijuan Walker,Jose Quintana,5,6,-145,120,-140,115,-154,130,-146,124,-141,118,-161,135,-140,120,-150,125,-142,120,-142,120
+300127,2024-06-09T17:05:00+00:00,Texas,San Francisco,Nathan Eovaldi,Keaton Winn,7,2,-160,135,-160,135,-162,136,-156,122,-164,140,-161,135,-165,140,-160,135,-162,136,-180,140
+300116,2024-06-09T17:35:00+00:00,Washington,Atlanta,DJ Herz,Hurston Waldrep,8,5,140,-165,140,-165,146,-174,144,-172,140,-164,140,-164,140,-165,140,-165,140,-166,142,-170
+300120,2024-06-09T17:35:00+00:00,Pittsburgh,Minnesota,Jared Jones,Bailey Ober,5,11,-105,-115,-120,100,-116,-102,-118,100,-105,-115,-120,100,-105,-115,-120,100,-108,-112,-125,-105
+300119,2024-06-09T17:40:00+00:00,Tampa Bay,Baltimore,Zack Littell,Grayson Rodriguez,2,9,115,-140,125,-150,116,-136,122,-144,115,-135,126,-149,115,-135,125,-150,110,-130,120,-142
+300124,2024-06-09T17:40:00+00:00,Detroit,Milwaukee,Tarik Skubal,Bryse Wilson,10,2,-160,135,-165,140,-166,140,-172,144,-179,150,-169,143,-170,145,-170,145,-175,145,-175,135
+300123,2024-06-09T17:40:00+00:00,Cincinnati,Chi. Cubs,Frankie Montas Jr.,Shota Imanaga,2,4,105,-125,115,-135,114,-134,112,-132,105,-125,115,-135,105,-125,115,-135,105,-125,110,-140
+300125,2024-06-09T17:40:00+00:00,Miami,Cleveland,Trevor Rogers,Carlos Carrasco,3,6,-110,-110,100,-120,-110,-106,104,-122,-110,-110,105,-125,-110,-110,100,-120,-105,-115,-110,-120
+300118,2024-06-09T18:10:00+00:00,Kansas City,Seattle,Cole Ragans,George Kirby,5,6,-115,-105,-135,115,-112,-104,-136,116,-115,-105,-141,118,-115,-105,-150,125,-115,-105,-150,120
+300121,2024-06-09T18:10:00+00:00,Chi. White Sox,Boston,Chris Flexen,Zack Kelly,4,6,135,-160,120,-145,138,-164,122,-144,140,-164,122,-145,140,-165,125,-150,140,-166,120,-150
+300126,2024-06-09T18:15:00+00:00,St. Louis,Colorado,Andre Pallante,Ty Blach,5,1,-185,150,-175,145,-190,160,-172,144,-179,152,-169,143,-180,150,-170,145,-180,150,-180,140
+300128,2024-06-09T20:07:00+00:00,LA Angels,Houston,Patrick Sandoval,Justin Verlander,9,7,140,-165,125,-150,126,-148,130,-154,140,-164,122,-145,140,-165,125,-150,140,-166,124,-148
+300122,2024-06-09T20:07:00+00:00,Athletics,Toronto,Mitch Spence,Bowden Francis,4,6,105,-125,115,-135,100,-118,110,-130,105,-125,115,-135,105,-125,110,-130,105,-125,114,-135
+300129,2024-06-09T20:10:00+00:00,San Diego,Arizona,Adam Mazur,Scott McGough,3,9,-10000,-10000,-130,110,-130,110,-132,112,-135,115,-135,115,-135,115,-135,115,-135,114,-130,110
+300117,2024-06-09T23:10:00+00:00,NY Yankees,LA Dodgers,Luis Gil,Tyler Glasnow,6,4,105,-125,115,-135,114,-134,114,-134,100,-120,115,-135,100,-120,115,-135,-105,-115,105,-135
