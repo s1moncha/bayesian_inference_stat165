@@ -1,0 +1,13 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+266518,2022-06-02T17:05:00+00:00,NY Yankees,LA Angels,Nestor Cortes,Shohei Ohtani,6,1,-120,100,-115,-105,-130,110,-122,-104,-125,105,-115,-105,-125,105,-120,100,-120,100,-120,-110
+259186,2022-06-02T17:10:00+00:00,Detroit,Minnesota,Alex Faedo,Christopher Archer,3,2,110,-135,115,-140,108,-126,112,-132,110,-130,120,-141,110,-130,120,-140,125,-145,115,-135
+259185,2022-06-02T18:05:00+00:00,Texas,Tampa Bay,Taylor Hearn,Corey Kluber,1,3,105,-125,105,-130,106,-124,108,-126,105,-125,110,-130,105,-125,115,-135,105,-125,110,-140
+259188,2022-06-02T19:07:00+00:00,Toronto,Chi. White Sox,Alek Manoah,Johnny Cueto,8,3,-190,155,-185,150,-190,160,-184,154,-185,165,-175,155,-192,167,-175,155,-165,145,-185,150
+259182,2022-06-02T22:40:00+00:00,Cincinnati,Washington,Graham Ashcraft,Joan Adon,8,1,-135,110,-135,110,-132,112,-132,104,-130,110,-130,110,-125,105,-130,110,-120,100,-135,105
+259190,2022-06-02T22:40:00+00:00,Miami,San Francisco,Sandy Alcantara,Robert Wood,3,0,-135,110,-145,120,-146,124,-148,126,-141,120,-141,120,-140,120,-140,120,-125,105,-155,125
+259184,2022-06-02T23:05:00+00:00,Baltimore,Seattle,Jordan Lyles,Chris Flexen,6,7,100,-120,-110,-110,106,-124,-110,-106,105,-125,-110,-110,105,-125,-105,-115,100,-120,-110,-110
+259189,2022-06-02T23:05:00+00:00,NY Yankees,LA Angels,Jameson Taillon,Reid Detmers,2,1,-140,115,-155,130,-144,122,-152,128,-120,100,-149,130,-120,100,-150,130,-115,-105,-155,125
+259191,2022-06-02T23:40:00+00:00,Milwaukee,San Diego,Adrian Houser,Sean Manaea,5,4,-125,105,-110,-110,-126,108,-108,-108,-125,105,-105,-115,-125,105,-145,125,-120,100,-110,-110
+259192,2022-06-03T00:05:00+00:00,Chi. Cubs,St. Louis,Keegan Thompson,Matthew Liberatore,7,5,-110,-110,-110,-110,-108,-108,-108,-108,-110,-110,-110,-110,-110,-110,-110,-110,-110,-110,-110,-110
+259187,2022-06-03T00:40:00+00:00,Colorado,Atlanta,Austin Gomber,Ian Anderson,6,13,125,-150,130,-155,124,-146,130,-154,125,-145,140,-161,120,-140,150,-170,115,-135,140,-160
+259183,2022-06-03T02:10:00+00:00,LA Dodgers,NY Mets,Tony Gonsolin,Taijuan Walker,2,0,-165,140,-185,150,-174,146,-190,160,-161,140,-175,155,-160,140,-180,160,-160,140,-190,160

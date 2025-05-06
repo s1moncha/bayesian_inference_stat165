@@ -1,0 +1,13 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300738,2024-07-29T19:05:00+00:00,Baltimore,Toronto,Zach Eflin,Yariel Rodriguez,11,5,-165,140,-160,135,-164,138,-154,130,-164,140,-145,122,-165,140,-165,140,-166,140,-148,124
+300743,2024-07-29T22:40:00+00:00,Philadelphia,NY Yankees,Zack Wheeler,Luis Gil,4,14,-150,125,-140,120,-154,130,-134,116,-145,122,-135,115,-150,125,-135,115,-155,130,-135,114
+300744,2024-07-29T22:40:00+00:00,Detroit,Cleveland,Beau Brieske,Tanner Bibee,4,8,-110,-110,135,-160,-102,-116,138,-164,-105,-115,135,-161,-105,-115,135,-160,-105,-115,140,-166
+299770,2024-07-29T22:50:00+00:00,Baltimore,Toronto,Cade Povich,Bowden Francis,4,8,-160,135,-150,125,-152,128,-152,128,-161,135,-145,122,-160,135,-165,140,-162,136,-148,124
+300745,2024-07-29T23:10:00+00:00,Cincinnati,Chi. Cubs,Carson Spiers,Jameson Taillon,7,1,-110,-110,-110,-110,-104,-112,-104,-112,-110,-110,-105,-115,-110,-110,-105,-115,-105,-115,-102,-118
+300739,2024-07-29T23:10:00+00:00,NY Mets,Minnesota,Jose Quintana,Simeon Woods Richardson,15,2,-120,100,-115,-105,-110,-106,-112,-104,-120,100,-115,-105,-120,100,-115,-105,-125,105,-112,-108
+300737,2024-07-29T23:10:00+00:00,Boston,Seattle,Nick Pivetta,Logan Gilbert,14,7,-110,-110,-125,105,-118,100,-120,102,-110,-110,-115,-105,-110,-110,-120,100,-110,-110,-122,102
+300746,2024-07-29T23:45:00+00:00,St. Louis,Texas,Andre Pallante,Nathan Eovaldi,3,6,-105,-115,-105,-115,108,-126,-104,-112,100,-120,-105,-115,100,-120,-105,-115,100,-120,-102,-118
+300740,2024-07-30T00:10:00+00:00,Houston,Pittsburgh,Tayler Scott,Paul Skenes,3,5,125,-155,115,-135,134,-158,114,-134,135,-161,110,-130,135,-160,110,-130,136,-162,110,-130
+300747,2024-07-30T00:10:00+00:00,Milwaukee,Atlanta,Colin Rea,Grant Holmes,8,3,-120,100,-125,105,-126,108,-120,102,-125,105,-120,100,-125,105,-120,100,-125,105,-120,100
+300741,2024-07-30T00:10:00+00:00,Chi. White Sox,Kansas City,Chris Flexen,Alec Marsh,5,8,140,-165,145,-175,134,-158,146,-174,143,-169,148,-175,140,-165,145,-170,142,-170,145,-175
+300742,2024-07-30T01:40:00+00:00,Arizona,Washington,Jordan Montgomery,Mitchell Parker,9,8,-165,140,-165,140,-164,138,-172,144,-164,140,-161,135,-165,140,-165,140,-170,142,-166,140

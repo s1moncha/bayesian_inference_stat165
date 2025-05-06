@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259998,2022-07-09T18:10:00+00:00,Chi. White Sox,Detroit,Johnny Cueto,Garrett Hill,8,0,-175,145,-165,135,-174,146,-172,144,-179,150,-169,143,-180,160,-165,145,-175,150,-175,150
+259996,2022-07-09T18:15:00+00:00,St. Louis,Philadelphia,Dakota Hudson,Kyle Gibson,0,1,-115,-105,-125,105,-116,-102,-122,104,-125,105,-125,105,-110,-110,-130,110,-130,110,-130,100
+259987,2022-07-09T20:05:00+00:00,Baltimore,LA Angels,Dean Kremer,Patrick Sandoval,1,0,105,-125,100,-120,-116,-102,102,-120,105,-125,100,-120,-105,-115,105,-125,120,-140,-105,-125
+259995,2022-07-09T20:05:00+00:00,Texas,Minnesota,Martin Perez,Devin Smeltzer,9,7,-130,105,-125,105,-120,102,-138,108,-120,100,-130,110,-120,100,-130,110,-125,105,-135,105
+259991,2022-07-09T20:07:00+00:00,Oakland,Houston,Zach Logue,Framber Valdez,3,2,260,-350,240,-300,270,-335,260,-370,270,-345,250,-323,245,-305,255,-315,260,-315,250,-320
+260015,2022-07-09T20:10:00+00:00,Milwaukee,Pittsburgh,Brandon Woodruff,Zach Thompson,3,4,-250,200,-275,220,-255,210,-275,225,-250,205,-286,228,-260,215,-290,235,-210,180,-275,230
+259988,2022-07-09T20:10:00+00:00,Arizona,Colorado,Madison Bumgarner,Kyle Freeland,9,2,-115,-105,-130,105,-116,-102,-136,108,-125,105,-125,105,-115,-105,-125,105,-110,-110,-130,110
+259993,2022-07-09T20:10:00+00:00,Cincinnati,Tampa Bay,Hunter Greene,Drew Rasmussen,5,4,135,-160,125,-150,134,-158,126,-148,135,-161,126,-149,135,-155,130,-150,120,-140,130,-150
+259997,2022-07-09T20:10:00+00:00,Atlanta,Washington,Kyle Wright,Patrick Corbin,4,3,-250,190,-250,200,-255,205,-245,200,-238,196,-227,185,-250,210,-245,205,-205,175,-230,195
+259999,2022-07-09T20:10:00+00:00,NY Mets,Miami,Carlos Carrasco,Braxton Garrett,5,4,-165,135,-175,145,-180,152,-186,156,-189,158,-179,150,-180,160,-175,155,-180,155,-185,150
+259989,2022-07-09T20:10:00+00:00,Kansas City,Cleveland,Jonathan Heasley,Triston McKenzie,1,13,105,-125,115,-140,102,-120,120,-142,110,-130,118,-141,100,-120,120,-140,105,-125,120,-140
+260000,2022-07-09T23:15:00+00:00,Boston,NY Yankees,Kutter Crawford,Jordan Montgomery,6,5,135,-160,140,-165,138,-164,146,-174,140,-164,140,-164,140,-160,115,-135,140,-165,145,-170
+259992,2022-07-09T23:15:00+00:00,San Diego,San Francisco,Yu Darvish,Carlos Rodon,1,3,-110,-110,-110,-110,-112,-104,-120,-106,-110,-110,-110,-110,-110,-110,-125,105,-115,-105,-130,100
+259994,2022-07-10T02:10:00+00:00,Seattle,Toronto,Robbie Ray,Alek Manoah,2,1,105,-125,115,-135,110,-130,108,-138,105,-125,115,-135,110,-130,115,-135,105,-125,110,-130
+259990,2022-07-10T02:10:00+00:00,LA Dodgers,Chi. Cubs,Clayton Kershaw,Marcus Stroman,4,2,-250,200,-250,200,-275,225,-260,215,-270,215,-250,205,-250,210,-260,215,-275,230,-250,210

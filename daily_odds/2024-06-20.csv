@@ -1,0 +1,10 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300262,2024-06-20T17:05:00+00:00,Washington,Arizona,MacKenzie Gore,Ryne Nelson,2,5,-145,120,-145,120,-130,110,-144,122,-141,118,-145,122,-140,120,-150,125,-142,120,-142,120
+300265,2024-06-20T17:10:00+00:00,Minnesota,Tampa Bay,Simeon Woods Richardson,Zack Littell,6,7,-135,110,-135,115,-120,102,-142,120,-125,105,-154,130,-125,105,-140,120,-125,105,-145,114
+300263,2024-06-20T17:10:00+00:00,Cleveland,Seattle,Logan Allen,Luis Castillo,6,3,-105,-115,-125,105,100,-118,-130,102,100,-120,-130,110,100,-120,-125,105,100,-120,-120,-110
+300266,2024-06-20T18:10:00+00:00,Chi. White Sox,Houston,Chris Flexen,Spencer Arrighetti,3,5,150,-185,155,-190,152,-180,148,-176,150,-179,150,-179,150,-180,150,-180,142,-170,140,-180
+300268,2024-06-20T19:10:00+00:00,Colorado,LA Dodgers,Ty Blach,Gavin Stone,3,5,195,-250,180,-225,205,-250,178,-230,196,-238,180,-222,195,-240,180,-220,195,-238,150,-195
+300267,2024-06-20T19:37:00+00:00,Athletics,Kansas City,Mitch Spence,Seth Lugo,2,3,120,-145,125,-150,122,-144,126,-148,115,-135,130,-154,115,-135,125,-150,114,-135,124,-148
+300264,2024-06-20T20:05:00+00:00,NY Yankees,Baltimore,Luis Gil,Cole Irvin,5,17,-150,125,-165,135,-130,110,-166,140,-135,115,-175,148,-135,115,-170,145,-135,114,-175,135
+300269,2024-06-20T23:15:00+00:00,St. Louis,San Francisco,Andre Pallante,Keaton Winn,6,5,-120,100,-110,-110,-116,-102,-102,-116,-120,100,100,-120,-125,105,100,-120,-130,110,100,-120
+300270,2024-06-21T01:40:00+00:00,San Diego,Milwaukee,Adam Mazur,Bryse Wilson,7,6,100,-120,-110,-110,-108,-108,-110,-106,-105,-115,-115,-105,100,-120,-115,-105,-108,-112,-125,-105

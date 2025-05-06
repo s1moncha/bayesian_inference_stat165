@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+279233,2023-08-09T16:35:00+00:00,Cincinnati,Miami,Graham Ashcraft,Johnny Cueto,4,5,-120,100,-130,110,-116,-102,-126,108,-125,105,-135,115,-125,105,-135,115,-102,-118,-125,105
+279245,2023-08-09T18:10:00+00:00,Milwaukee,Colorado,Adrian Houser,Chris Flexen,7,6,-225,185,-225,185,-255,210,-225,188,-227,185,-233,192,-225,185,-230,190,-218,180,-225,185
+279236,2023-08-09T19:37:00+00:00,Oakland,Texas,Austin Pruitt,Jordan Montgomery,2,0,240,-300,200,-250,260,-320,215,-260,240,-303,215,-270,240,-300,220,-270,170,-205,220,-270
+279235,2023-08-09T22:40:00+00:00,Tampa Bay,St. Louis,Jalen Beeks,Dakota Hudson,4,6,-155,130,-165,140,-136,116,-174,146,-154,130,-175,148,-150,130,-170,150,-155,130,-175,145
+279238,2023-08-09T22:40:00+00:00,Detroit,Minnesota,Alex Faedo,Bailey Ober,9,5,135,-165,130,-155,136,-162,134,-158,140,-164,140,-164,145,-165,135,-155,140,-166,130,-155
+279246,2023-08-09T22:40:00+00:00,Philadelphia,Washington,Michael Lorenzen,MacKenzie Gore,7,0,-185,150,-185,150,-190,160,-188,158,-189,158,-179,152,-180,160,-185,165,-185,154,-185,154
+279247,2023-08-09T23:05:00+00:00,Pittsburgh,Atlanta,Quinn Priester,Max Fried,5,6,240,-300,240,-300,260,-320,200,-280,228,-286,240,-303,225,-275,245,-305,210,-258,210,-280
+279237,2023-08-09T23:05:00+00:00,Baltimore,Houston,Jack Flaherty,Cristian Javier,2,8,-125,105,-145,120,-132,112,-138,118,-120,100,-135,115,-120,100,-140,120,-112,-108,-142,120
+279241,2023-08-09T23:10:00+00:00,NY Mets,Chi. Cubs,David Peterson,Kyle Hendricks,4,3,-110,-110,-105,-115,-108,-108,100,-118,-105,-115,110,-130,-110,-110,-105,-115,-112,-108,100,-120
+279242,2023-08-09T23:10:00+00:00,Cleveland,Toronto,Logan Allen,Kevin Gausman,0,1,125,-155,145,-175,120,-142,144,-172,122,-145,143,-169,125,-145,150,-170,114,-135,150,-180
+279243,2023-08-09T23:10:00+00:00,Boston,Kansas City,Nick Pivetta,Jordan Lyles,4,3,-225,180,-225,180,-220,184,-230,190,-227,185,-227,185,-225,185,-230,190,-298,240,-230,190
+279239,2023-08-10T00:10:00+00:00,Chi. White Sox,NY Yankees,Mike Clevinger,Ian Hamilton,9,2,100,-120,105,-125,-102,-116,104,-134,-105,-115,115,-135,100,-120,110,-130,100,-120,105,-135
+279234,2023-08-10T01:38:00+00:00,LA Angels,San Francisco,Shohei Ohtani,Ryan Walker,4,1,-120,100,-135,115,-112,-104,-142,120,-125,105,-135,115,-120,100,-145,125,-115,-105,-142,120
+279240,2023-08-10T01:40:00+00:00,Arizona,LA Dodgers,Kenneth Kelly,Bobby Miller,0,2,100,-120,115,-140,108,-126,122,-144,105,-125,122,-145,105,-125,120,-140,-102,-118,120,-142
+279244,2023-08-10T01:40:00+00:00,Seattle,San Diego,Emerson Hancock,Yu Darvish,6,1,105,-125,135,-160,110,-130,130,-154,100,-120,126,-149,100,-120,140,-160,105,-125,130,-155

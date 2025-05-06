@@ -1,0 +1,12 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259085,2022-05-26T16:35:00+00:00,Cincinnati,Chi. Cubs,Hunter Greene,Justin Steele,20,5,-105,-115,-105,-115,102,-120,-104,-122,100,-120,-105,-115,-105,-115,-105,-115,125,-145,-110,-120
+259093,2022-05-26T22:40:00+00:00,Tampa Bay,NY Yankees,Ryan Yarbrough,Nestor Cortes,2,7,100,-120,100,-120,110,-130,-102,-116,110,-130,100,-120,110,-130,-110,-110,115,-135,100,-120
+259088,2022-05-26T23:05:00+00:00,Washington,Colorado,Patrick Corbin,German Marquez,7,3,-120,100,-105,-115,-108,-108,-116,-102,-120,100,-115,-105,-120,100,-110,-110,-115,-105,-115,-105
+259086,2022-05-26T23:10:00+00:00,Detroit,Cleveland,Tarik Skubal,Konnor Pilkington,4,3,-145,120,-135,110,-142,120,-136,116,-145,125,-141,120,-145,125,145,-165,-140,120,-135,115
+259091,2022-05-26T23:20:00+00:00,Atlanta,Philadelphia,Kyle Wright,Aaron Nola,1,4,-120,100,-110,-110,-132,112,-112,-112,-120,100,-105,-115,-120,100,-105,-115,-115,-105,-110,-120
+259095,2022-05-26T23:40:00+00:00,Minnesota,Kansas City,Devin Smeltzer,Daniel Lynch IV,2,3,-185,150,-185,150,-184,154,-190,160,-185,165,-185,165,-185,165,-185,165,-190,160,-190,160
+259094,2022-05-26T23:45:00+00:00,St. Louis,Milwaukee,Adam Wainwright,Eric Lauer,3,4,-125,105,-125,105,-130,110,-128,100,-125,105,-125,105,-120,100,-120,100,-125,105,-130,100
+259092,2022-05-27T00:10:00+00:00,Chi. White Sox,Boston,Dallas Keuchel,Michael Wacha,7,16,-115,-105,100,-120,-108,-108,154,-200,-115,-105,110,-130,-115,-105,105,-125,-115,-105,150,-185
+259090,2022-05-27T01:38:00+00:00,LA Angels,Toronto,Shohei Ohtani,Hyun Jin Ryu,3,6,-155,125,-165,135,-158,134,-172,144,-141,120,-161,140,-140,120,-165,145,-135,115,-170,150
+259087,2022-05-27T01:40:00+00:00,Arizona,LA Dodgers,Humberto Castellanos,Mitch White,1,14,155,-190,150,-185,156,-186,152,-180,160,-179,155,-175,155,-175,165,-185,150,-170,160,-190
+259089,2022-05-27T01:40:00+00:00,Oakland,Texas,Frankie Montas Jr.,Martin Perez,1,4,-125,105,-120,100,-132,112,-126,-102,-125,105,-125,105,-125,105,110,-130,-120,100,-125,-105

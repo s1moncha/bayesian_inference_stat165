@@ -1,0 +1,15 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278204,2023-05-20T18:10:00+00:00,Chi. White Sox,Kansas City,Lucas Giolito,Jordan Lyles,5,1,-185,150,-200,165,-164,138,-196,164,-179,150,-189,158,-180,160,-200,170,-180,155,-190,155
+278203,2023-05-20T19:07:00+00:00,Toronto,Baltimore,Alek Manoah,Grayson Rodriguez,5,6,-155,125,-135,115,-158,134,-136,116,-161,135,-135,115,-160,140,-130,110,-145,125,-135,115
+278209,2023-05-20T20:05:00+00:00,Washington,Detroit,Patrick Corbin,Alex Faedo,5,2,-115,-105,-115,-105,-104,-112,-118,100,-115,-105,-120,100,-115,-105,-120,100,100,-120,-110,-120
+278196,2023-05-20T20:05:00+00:00,Texas,Colorado,Jon Gray,Kyle Freeland,11,5,-190,155,-190,155,-200,168,-196,164,-189,158,-196,162,-192,167,-200,170,-195,165,-205,165
+278205,2023-05-20T20:05:00+00:00,San Francisco,Miami,Logan Webb,Braxton Garrett,0,1,-175,145,-175,145,-180,152,-166,140,-169,143,-169,143,-170,150,-175,155,-175,150,-165,140
+278207,2023-05-20T20:05:00+00:00,Philadelphia,Chi. Cubs,Aaron Nola,Jameson Taillon,12,3,-175,145,-160,135,-174,146,-156,132,-154,130,-161,135,-170,150,-155,135,-165,140,-160,130
+278208,2023-05-20T20:05:00+00:00,Pittsburgh,Arizona,Mitch Keller,Brandon Pfaadt,3,4,-135,110,-155,130,-136,116,-154,130,-135,115,-154,130,-130,110,-150,130,-105,-115,-165,135
+278197,2023-05-20T20:10:00+00:00,Tampa Bay,Milwaukee,Zach Eflin,Eric Lauer,8,4,-225,180,-210,170,-205,172,-210,176,-208,175,-213,178,-200,170,-210,175,-210,180,-190,155
+278201,2023-05-20T20:10:00+00:00,Houston,Oakland,Hunter Brown,JP Sears,3,2,-300,240,-300,250,-350,280,-310,250,-303,240,-303,240,-300,240,-310,250,-315,260,-380,290
+278199,2023-05-20T20:10:00+00:00,Cincinnati,NY Yankees,Luke Weaver,Jhony Brito,4,7,135,-160,120,-145,126,-148,126,-148,140,-164,118,-141,140,-160,130,-150,135,-155,120,-150
+278200,2023-05-20T23:15:00+00:00,Atlanta,Seattle,Jesse Chavez,Logan Gilbert,3,7,-145,120,-130,110,-146,124,-132,112,-145,122,-130,110,-145,125,-135,115,-145,125,-140,110
+278206,2023-05-20T23:15:00+00:00,St. Louis,LA Dodgers,Miles Mikolas,Noah Syndergaard,6,5,-110,-110,-135,110,-108,-108,-130,110,105,-125,-135,115,-110,-110,-135,115,-110,-110,-145,115
+278198,2023-05-21T02:07:00+00:00,LA Angels,Minnesota,Patrick Sandoval,Louis Varland,2,6,-130,105,-125,105,-134,116,-132,112,-120,100,-130,110,-125,105,-130,110,-130,110,-135,115
+278210,2023-05-21T02:10:00+00:00,San Diego,Boston,Joe Musgrove,Chris Sale,2,4,-135,110,-115,-105,-142,120,-122,104,-130,110,-125,105,-130,110,-120,100,-130,110,-115,-105

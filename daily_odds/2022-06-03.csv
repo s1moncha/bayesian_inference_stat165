@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259205,2022-06-03T18:20:00+00:00,Chi. Cubs,St. Louis,Marcus Stroman,Miles Mikolas,5,14,-110,-110,-110,-110,100,-118,-108,-108,100,-120,-110,-110,-110,-110,-110,-110,-110,-110,-110,-110
+259195,2022-06-03T22:40:00+00:00,Cincinnati,Washington,Michael Minor,Josiah Gray,5,8,-125,105,-130,105,-120,102,-164,128,-130,110,-135,115,-120,100,-135,115,-130,110,-140,110
+259206,2022-06-03T22:40:00+00:00,Miami,San Francisco,Richard Bleier,John Brebbia,6,15,125,-155,100,-120,118,-138,-116,-110,120,-141,135,-154,125,-145,-105,-115,130,-150,-120,-110
+259201,2022-06-03T23:05:00+00:00,Philadelphia,LA Angels,Zach Eflin,Chase Gockel,10,0,-120,100,-125,105,-122,104,-118,-108,-125,105,-125,105,-120,100,-130,110,-120,100,-130,100
+259204,2022-06-03T23:05:00+00:00,NY Yankees,Detroit,Gerrit Cole,Elvin Rodriguez,13,0,-350,275,-350,280,-360,290,-370,295,-345,285,-357,290,-340,270,-280,230,-335,260,-350,250
+259198,2022-06-03T23:05:00+00:00,Pittsburgh,Arizona,JT Brubaker,Merrill Kelly,6,8,-120,100,-105,-115,-112,-104,-118,-106,-110,-110,-105,-115,-110,-110,100,-120,-105,-115,-130,100
+259193,2022-06-03T23:05:00+00:00,Baltimore,Cleveland,Bruce Zimmermann,Shane Bieber,3,6,110,-135,125,-150,116,-136,118,-138,115,-135,130,-149,115,-135,120,-140,120,-140,120,-140
+259200,2022-06-03T23:07:00+00:00,Toronto,Minnesota,Yusei Kikuchi,Chi Chi Gonzalez,3,9,-200,170,-250,190,-220,184,-250,205,-213,185,-233,195,-220,180,-240,200,-210,175,-240,195
+259203,2022-06-03T23:10:00+00:00,Tampa Bay,Chi. White Sox,Shane McClanahan,Davis Martin,6,3,-200,170,-190,155,-200,168,-196,164,-208,180,-189,170,-200,170,-192,167,-200,170,-195,165
+259199,2022-06-04T00:05:00+00:00,Texas,Seattle,Dane Dunning,Logan Gilbert,3,4,105,-125,-105,-115,100,-118,-118,-106,105,-125,-105,-115,105,-125,-110,-110,110,-130,-130,100
+259207,2022-06-04T00:10:00+00:00,Milwaukee,San Diego,Corbin Burnes,Joe Musgrove,0,7,-155,125,-165,135,-146,124,-178,150,-149,130,-161,140,-145,125,-170,150,-135,115,-170,150
+259194,2022-06-04T00:10:00+00:00,Kansas City,Houston,Brady Singer,Jose Urquidy,3,10,115,-140,110,-135,120,-142,106,-124,130,-149,115,-135,125,-145,110,-130,115,-135,105,-125
+259202,2022-06-04T00:40:00+00:00,Colorado,Atlanta,Chad Kuhl,Max Fried,1,3,145,-175,145,-175,144,-172,152,-180,150,-169,160,-179,150,-170,160,-180,150,-170,155,-180
+259197,2022-06-04T01:40:00+00:00,Oakland,Boston,James Kaprielian,Nathan Eovaldi,2,7,135,-160,140,-165,118,-138,152,-180,125,-145,140,-161,125,-145,150,-170,115,-135,150,-170
+259196,2022-06-04T02:10:00+00:00,LA Dodgers,NY Mets,Tyler Anderson,Chris Bassitt,6,1,-160,135,-150,125,-162,136,-158,134,-161,140,-154,135,-165,145,-160,140,-155,135,-160,140

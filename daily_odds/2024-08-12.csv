@@ -1,0 +1,12 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300925,2024-08-12T22:40:00+00:00,Cincinnati,St. Louis,Andrew Abbott,Sonny Gray,6,1,110,-135,125,-150,110,-130,118,-138,110,-130,126,-149,100,-120,125,-150,102,-122,124,-148
+300918,2024-08-12T22:40:00+00:00,Cleveland,Chi. Cubs,Ben Lively,Shota Imanaga,9,8,-105,-115,100,-120,100,-118,104,-122,100,-120,105,-125,-105,-115,105,-125,-108,-112,102,-122
+300920,2024-08-12T22:50:00+00:00,Tampa Bay,Houston,Taj Bradley,Framber Valdez,1,6,-105,-115,115,-135,102,-120,112,-132,-105,-115,118,-141,-110,-110,110,-130,-108,-112,110,-130
+300919,2024-08-12T23:10:00+00:00,Boston,Texas,Brayan Bello,Tyler Mahle,5,4,-145,120,-125,105,-136,116,-142,112,-141,118,-125,105,-140,120,-130,110,-142,120,-135,105
+300922,2024-08-12T23:40:00+00:00,Minnesota,Kansas City,Pablo Lopez,Brady Singer,8,3,-160,135,-160,135,-146,124,-162,136,-154,130,-164,140,-150,125,-165,140,-148,124,-166,140
+300926,2024-08-13T00:10:00+00:00,Milwaukee,LA Dodgers,Freddy Peralta,Clayton Kershaw,2,5,-110,-110,-105,-115,-108,-108,-102,-116,-110,-110,-110,-110,-115,-105,100,-120,-118,-102,-102,-118
+300923,2024-08-13T00:10:00+00:00,Chi. White Sox,NY Yankees,Ky Bush,Luis Gil,12,2,240,-300,270,-350,240,-295,285,-355,240,-303,285,-370,240,-300,280,-360,245,-305,285,-360
+300927,2024-08-13T01:38:00+00:00,LA Angels,Toronto,Davis Daniel,Bowden Francis,2,4,-110,-110,-115,-105,-102,-116,-106,-110,-115,-105,-110,-110,-115,-105,-110,-110,-115,-105,-115,-115
+300924,2024-08-13T01:40:00+00:00,Arizona,Colorado,Brandon Pfaadt,Bradley Blalock,5,4,-250,200,-300,240,-215,180,-300,245,-233,192,-303,240,-230,190,-300,240,-230,190,-298,240
+300928,2024-08-13T01:40:00+00:00,San Diego,Pittsburgh,Joe Musgrove,Jake Woodford,2,1,-160,135,-200,165,-162,136,-210,176,-164,140,-204,170,-165,140,-200,165,-162,136,-205,170
+300921,2024-08-13T01:45:00+00:00,San Francisco,Atlanta,Blake Snell,Chris Sale,0,1,-105,-115,-110,-110,102,-120,-106,-110,-105,-115,-115,-105,-110,-110,-110,-110,-110,-110,-108,-112

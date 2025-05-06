@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+261024,2022-08-19T18:20:00+00:00,Chi. Cubs,Milwaukee,Keegan Thompson,Aaron Ashby,8,7,115,-140,120,-145,120,-142,200,-270,115,-135,118,-141,115,-135,125,-145,125,-145,220,-280
+261018,2022-08-19T23:05:00+00:00,Philadelphia,NY Mets,Aaron Nola,Chris Bassitt,2,7,-125,105,-120,100,-116,-102,-110,-116,-125,105,-130,110,-125,105,-120,100,-135,115,-105,-125
+261022,2022-08-19T23:05:00+00:00,NY Yankees,Toronto,Jameson Taillon,Kevin Gausman,0,4,-125,105,-105,-115,-126,108,-116,-110,-130,110,-105,-115,-130,110,-192,167,-120,100,-120,-110
+261010,2022-08-19T23:05:00+00:00,Baltimore,Boston,Jordan Lyles,Kutter Crawford,15,10,-115,-105,-110,-110,-102,-116,-108,-108,-115,-105,-105,-115,-115,-105,100,-120,-105,-115,-110,-120
+261012,2022-08-19T23:05:00+00:00,Pittsburgh,Cincinnati,Bryse Wilson,Graham Ashcraft,5,4,100,-120,-105,-115,102,-120,100,-118,100,-120,-105,-115,-105,-115,-115,-105,105,-125,-110,-120
+261017,2022-08-19T23:10:00+00:00,Tampa Bay,Kansas City,Shane McClanahan,Brady Singer,2,3,-200,165,-200,165,-235,194,-260,192,-204,170,-208,175,-200,170,-235,195,-195,165,-235,190
+261011,2022-08-19T23:10:00+00:00,Detroit,LA Angels,Matt Manning,Patrick Sandoval,0,1,115,-140,125,-150,116,-136,134,-158,110,-130,118,-141,115,-135,125,-145,120,-140,120,-150
+261020,2022-08-19T23:10:00+00:00,Cleveland,Chi. White Sox,Triston McKenzie,Michael Lynn,5,2,-135,110,-135,115,-132,112,-138,118,-135,115,-135,115,-135,115,-160,140,-155,135,-140,110
+261019,2022-08-19T23:20:00+00:00,Atlanta,Houston,Kyle Wright,Lance McCullers Jr.,6,2,-140,115,-130,110,-134,116,-124,106,-135,115,-130,110,-135,115,-130,110,-120,100,-125,-105
+261026,2022-08-20T00:10:00+00:00,Minnesota,Texas,Dylan Bundy,Martin Perez,2,1,-145,120,-145,120,-136,116,-182,144,-141,118,-141,118,-140,120,-165,145,-145,125,-180,145
+261015,2022-08-20T00:40:00+00:00,Colorado,San Francisco,Jose Urena,Robert Wood,7,4,125,-155,135,-160,136,-162,142,-168,130,-154,135,-161,140,-160,140,-160,135,-155,130,-160
+261013,2022-08-20T01:40:00+00:00,San Diego,Washington,Blake Snell,Paolo Espino,3,6,-350,260,-350,275,-360,290,-360,290,-370,285,-370,285,-360,280,-330,265,-300,250,-345,265
+261014,2022-08-20T01:40:00+00:00,Oakland,Seattle,Cole Irvin,Marco Gonzales,2,10,115,-140,115,-140,118,-138,158,-205,115,-135,115,-135,115,-135,120,-140,115,-135,150,-185
+261016,2022-08-20T01:40:00+00:00,Arizona,St. Louis,Tommy Henry,Miles Mikolas,1,5,145,-175,155,-190,148,-176,162,-194,143,-169,158,-189,145,-165,160,-180,145,-170,150,-185
+261021,2022-08-20T02:10:00+00:00,LA Dodgers,Miami,Tyler Anderson,Jesus Luzardo,2,1,-250,200,-275,220,-270,220,-480,330,-270,215,-270,215,-270,220,-270,220,-245,205,-390,295

@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds
+300672,2024-07-24T16:20:00+00:00,Atlanta,Cincinnati,Allan Winans,Frankie Montas Jr.,4,9,-125,105,-135,115,-126,108,-130,110,-130,110,-125,105,-170,142,-140,110,,,,
+300671,2024-07-24T16:35:00+00:00,Pittsburgh,St. Louis,Martin Perez,Matthew Liberatore,5,0,-110,-110,-105,-115,-106,-110,-104,-112,-115,-105,-105,-115,-112,-108,-108,-112,-115.0,-105.0,-110.0,-110.0
+300674,2024-07-24T17:10:00+00:00,Minnesota,Philadelphia,Steven Okert,Aaron Nola,5,4,125,-155,120,-145,132,-156,116,-136,130,-154,118,-141,130,-155,110,-140,125.0,-150.0,115.0,-135.0
+300678,2024-07-24T18:20:00+00:00,Chi. Cubs,Milwaukee,Justin Steele,Rob Zastryzny,2,3,-145,120,-150,125,-142,120,-144,122,-145,122,-145,122,-142,120,-148,124,-140.0,120.0,-150.0,125.0
+300679,2024-07-24T19:10:00+00:00,Colorado,Boston,Cal Quantrill,Nick Pivetta,20,7,145,-175,120,-145,136,-162,104,-132,143,-169,135,-161,142,-170,110,-140,140.0,-165.0,125.0,-150.0
+300675,2024-07-24T19:37:00+00:00,Athletics,Houston,JP Sears,Hunter Brown,1,8,135,-160,125,-150,138,-164,132,-156,130,-154,130,-154,130,-155,124,-148,125.0,-150.0,130.0,-155.0
+300676,2024-07-24T19:40:00+00:00,Seattle,LA Angels,Luis Castillo,Griffin Canning,1,2,-185,150,-175,145,-210,176,-178,138,-204,170,-161,135,-192,160,-175,135,-205.0,170.0,-165.0,140.0
+300680,2024-07-24T22:40:00+00:00,Miami,Baltimore,Edward Cabrera,Chayce McDermott,6,3,120,-145,120,-145,134,-158,122,-156,118,-141,118,-141,120,-142,130,-166,120.0,-140.0,125.0,-150.0
+300669,2024-07-24T22:40:00+00:00,Cleveland,Detroit,Tanner Bibee,Jack Flaherty,2,1,-150,125,-145,120,-138,118,-142,120,-145,122,-145,122,-148,124,-142,120,-150.0,125.0,-155.0,130.0
+300670,2024-07-24T22:45:00+00:00,Washington,San Diego,Mitchell Parker,Matt Waldron,3,12,110,-135,-110,-110,100,-118,-111,-115,100,-120,-105,-115,102,-122,-110,-120,-105.0,-115.0,-110.0,-110.0
+300681,2024-07-24T23:05:00+00:00,NY Yankees,NY Mets,Gerrit Cole,Sean Manaea,3,12,-175,145,-185,150,-166,140,-172,144,-169,143,-169,143,-170,142,-180,140,-165.0,140.0,-180.0,150.0
+300682,2024-07-24T23:07:00+00:00,Toronto,Tampa Bay,Yariel Rodriguez,Zach Eflin,6,3,-105,-115,100,-120,100,-118,102,-120,-105,-115,100,-120,-105,-115,102,-122,-105.0,-115.0,100.0,-120.0
+300683,2024-07-25T00:05:00+00:00,Texas,Chi. White Sox,Nathan Eovaldi,Chris Flexen,10,2,-250,200,-300,230,-250,205,-290,235,-263,210,-286,228,-258,210,-278,225,-250.0,205.0,-280.0,230.0
+300673,2024-07-25T00:10:00+00:00,Kansas City,Arizona,Michael Wacha,Ryne Nelson,6,8,-140,115,-115,-105,-124,106,-126,108,-135,115,-125,105,-135,114,-115,-115,-130.0,110.0,-125.0,105.0
+300677,2024-07-25T02:10:00+00:00,LA Dodgers,San Francisco,Tyler Glasnow,Robbie Ray,3,8,-210,170,-200,165,-210,176,-210,162,-204,170,-189,158,-198,164,-195,150,-205.0,170.0,-200.0,165.0

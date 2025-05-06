@@ -1,0 +1,17 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+260189,2022-07-16T18:10:00+00:00,Minnesota,Chi. White Sox,Dylan Bundy,Michael Lynn,6,3,-125,105,-130,105,-126,108,-134,116,-130,110,-141,118,-120,100,-135,115,-120,100,-140,110
+260184,2022-07-16T18:15:00+00:00,St. Louis,Cincinnati,Miles Mikolas,Nick Lodolo,11,3,-165,140,-175,145,-174,146,-174,146,-179,150,-161,135,-170,150,-170,150,-170,145,-180,145
+260205,2022-07-16T18:20:00+00:00,Chi. Cubs,NY Mets,Marcus Stroman,Taijuan Walker,1,2,120,-145,105,-130,120,-142,126,-160,118,-141,105,-125,115,-135,110,-130,140,-165,110,-140
+260187,2022-07-16T19:07:00+00:00,Toronto,Kansas City,Max Castillo,Daniel Lynch IV,6,5,-300,240,-300,240,-295,240,-370,260,-294,235,-333,260,-315,255,-320,260,-280,235,-315,245
+260182,2022-07-16T19:10:00+00:00,Colorado,Pittsburgh,Jose Urena,Mitch Keller,2,0,-135,110,-140,115,-146,124,-148,126,-145,122,-145,122,-125,105,-145,125,-120,100,-145,125
+260186,2022-07-16T20:05:00+00:00,Texas,Seattle,Spencer Howard,Logan Gilbert,2,3,115,-140,125,-155,118,-138,138,-164,118,-141,135,-161,120,-140,135,-155,125,-145,140,-165
+260188,2022-07-16T20:05:00+00:00,Washington,Atlanta,Paolo Espino,Max Fried,3,6,200,-250,195,-250,210,-255,200,-245,205,-250,196,-238,200,-240,210,-250,175,-205,200,-240
+260207,2022-07-16T20:10:00+00:00,Miami,Philadelphia,Max Meyer,Ranger Suarez,0,10,110,-135,-115,-105,106,-124,-118,-108,115,-135,-115,-105,115,-135,-110,-110,115,-135,-130,100
+260181,2022-07-16T20:10:00+00:00,Houston,Oakland,Justin Verlander,Jared Koenig,5,0,-350,260,-350,260,-350,280,-375,300,-357,278,-385,300,-340,270,-360,280,-325,270,-350,290
+260185,2022-07-16T20:10:00+00:00,Tampa Bay,Baltimore,Ryan Yarbrough,Dean Kremer,4,6,-125,105,-125,105,-124,106,-130,104,-125,105,-125,105,-125,105,-125,105,-125,105,-125,105
+260179,2022-07-16T20:10:00+00:00,Cleveland,Detroit,Cal Quantrill,Michael Pineda,10,0,-165,135,-165,135,-174,146,-174,136,-169,143,-169,143,-170,150,-165,145,-165,140,-165,140
+260191,2022-07-16T23:15:00+00:00,San Francisco,Milwaukee,Alex Cobb,Eric Lauer,2,1,-135,110,-130,105,-136,116,-148,116,-130,110,-135,115,-130,110,-170,150,-140,120,-135,115
+260190,2022-07-16T23:15:00+00:00,NY Yankees,Boston,Jameson Taillon,Nick Pivetta,14,1,-160,135,-160,135,-164,138,-190,146,-164,140,-169,143,-160,140,-165,145,-155,135,-165,140
+269872,2022-07-17T00:05:00+00:00,Chi. Cubs,NY Mets,Todd Smyly,Max Scherzer,3,4,185,-225,200,-250,184,-220,215,-260,185,-227,215,-270,180,-220,205,-245,185,-215,205,-255
+260183,2022-07-17T00:40:00+00:00,San Diego,Arizona,Sean Manaea,Tyler Gilbert,4,3,-190,155,-190,155,-174,146,-200,168,-179,150,-189,158,-192,167,-160,140,-170,145,-190,160
+260180,2022-07-17T02:07:00+00:00,LA Angels,LA Dodgers,Jose Suarez,Julio Urias,1,7,165,-200,180,-225,160,-190,192,-260,158,-189,180,-222,160,-180,175,-210,145,-170,150,-185

@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+260697,2022-08-07T16:05:00+00:00,Cleveland,Houston,Triston McKenzie,Cristian Javier,1,0,120,-145,105,-130,126,-148,-102,-124,118,-141,110,-130,125,-145,110,-130,130,-150,-110,-120
+260699,2022-08-07T17:35:00+00:00,Baltimore,Pittsburgh,Spenser Watkins,Bryse Wilson,1,8,-175,145,-185,150,-164,138,-190,160,-169,143,-204,170,-165,145,-180,160,-150,130,-195,160
+260704,2022-08-07T17:35:00+00:00,Philadelphia,Washington,Aaron Nola,Cory Abbott,13,1,-300,240,-300,240,-295,240,-350,250,-303,240,-333,260,-300,240,-315,255,-285,240,-320,250
+260703,2022-08-07T17:40:00+00:00,Detroit,Tampa Bay,Matt Manning,Drew Rasmussen,0,7,145,-175,155,-190,158,-188,158,-188,158,-189,158,-189,155,-175,165,-185,150,-175,155,-190
+260710,2022-08-07T18:10:00+00:00,Minnesota,Toronto,Christopher Archer,Kevin Gausman,2,3,140,-165,145,-175,130,-154,152,-180,135,-161,158,-189,135,-155,165,-185,130,-150,135,-165
+260711,2022-08-07T18:10:00+00:00,Milwaukee,Cincinnati,Corbin Burnes,Graham Ashcraft,2,4,-275,220,-300,230,-275,225,-320,260,-278,222,-323,250,-270,220,-290,235,-300,250,-290,230
+260698,2022-08-07T18:10:00+00:00,Kansas City,Boston,Brad Keller,Kutter Crawford,13,5,115,-140,135,-160,114,-134,130,-166,118,-141,135,-161,120,-140,135,-155,110,-130,125,-155
+260707,2022-08-07T18:15:00+00:00,St. Louis,NY Yankees,Adam Wainwright,Frankie Montas Jr.,12,9,110,-135,110,-135,106,-124,122,-144,110,-130,115,-135,105,-125,110,-130,105,-125,110,-140
+260713,2022-08-07T18:20:00+00:00,Chi. Cubs,Miami,Adrian Sampson,Jesus Luzardo,0,3,-120,100,-140,115,-118,100,-138,118,-115,-105,-141,118,-120,100,-140,120,-140,120,-140,120
+260706,2022-08-07T18:35:00+00:00,Texas,Chi. White Sox,Spencer Howard,Lucas Giolito,2,8,125,-150,115,-140,124,-146,116,-136,130,-154,118,-141,125,-145,120,-140,135,-155,115,-135
+260702,2022-08-07T20:07:00+00:00,Oakland,San Francisco,Adrian Martinez,Logan Webb,4,6,190,-250,155,-190,200,-245,164,-196,196,-238,162,-196,180,-220,170,-200,190,-225,155,-180
+260696,2022-08-07T20:10:00+00:00,Arizona,Colorado,Zach Davies,Jose Urena,6,4,-160,135,-155,125,-158,134,-158,134,-161,135,-161,135,-160,140,-155,135,-155,135,-155,135
+260701,2022-08-07T20:10:00+00:00,Seattle,LA Angels,Marco Gonzales,Tucker Davidson,6,3,-165,140,-150,125,-168,142,-162,136,-164,140,-154,130,-170,150,-155,135,-170,145,-150,130
+260705,2022-08-07T20:10:00+00:00,NY Mets,Atlanta,Jacob deGrom,Spencer Strider,5,2,-145,120,-150,125,-146,124,-162,136,-145,122,-149,126,-140,120,-150,130,-135,115,-145,125
+260700,2022-08-07T23:08:00+00:00,LA Dodgers,San Diego,Tyler Anderson,Yu Darvish,4,0,-135,110,-140,115,-148,126,-156,122,-135,115,-135,115,-135,115,-135,115,-120,100,-145,115

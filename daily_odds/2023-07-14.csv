@@ -1,0 +1,14 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278894,2023-07-14T22:05:00+00:00,Philadelphia,San Diego,Cristopher Sanchez,Yu Darvish,3,8,105,-125,-105,-115,-102,-116,-106,-110,-105,-115,-105,-115,100,-120,-105,-115,110,-130,100,-130
+278883,2023-07-14T23:05:00+00:00,Baltimore,Miami,Dean Kremer,Sandy Alcantara,5,2,-120,100,-135,115,-122,104,-136,116,-120,100,-135,115,-120,100,-135,115,-110,-110,-140,120
+278895,2023-07-14T23:05:00+00:00,Pittsburgh,San Francisco,Rich Hill,Ross Stripling,4,6,110,-130,110,-130,102,-120,-104,-122,110,-130,110,-130,110,-130,110,-130,130,-150,105,-135
+278884,2023-07-14T23:07:00+00:00,Toronto,Arizona,Jose Berrios,Ryne Nelson,7,2,-175,145,-175,145,-184,154,-178,150,-179,150,-169,143,-175,155,-170,150,-175,150,-175,150
+278889,2023-07-14T23:10:00+00:00,Cincinnati,Milwaukee,Graham Ashcraft,Corbin Burnes,0,1,100,-120,-105,-115,102,-120,-116,-112,100,-120,100,-120,100,-120,100,-120,-105,-115,-105,-125
+278890,2023-07-14T23:10:00+00:00,NY Mets,LA Dodgers,Justin Verlander,Julio Urias,0,6,105,-125,-105,-115,108,-126,104,-122,105,-125,100,-120,105,-125,100,-120,-105,-115,100,-120
+278888,2023-07-14T23:20:00+00:00,Atlanta,Chi. White Sox,Charlie Morton,Michael Kopech,9,0,-250,200,-275,220,-250,205,-275,225,-250,205,-270,215,-240,200,-275,225,-210,180,-280,235
+278882,2023-07-15T00:05:00+00:00,Chi. Cubs,Boston,Kyle Hendricks,Brayan Bello,3,8,100,-120,115,-135,102,-120,112,-132,100,-120,115,-135,100,-120,115,-135,100,-120,110,-130
+278886,2023-07-15T00:05:00+00:00,Texas,Cleveland,Jon Gray,Aaron Civale,12,4,-155,130,-145,120,-156,132,-138,118,-154,130,-141,118,-150,130,-140,120,-140,120,-150,120
+278896,2023-07-15T00:40:00+00:00,Colorado,NY Yankees,Austin Gomber,Carlos Rodon,7,2,170,-210,165,-200,184,-220,168,-200,180,-222,170,-204,175,-210,175,-210,165,-195,170,-200
+278891,2023-07-15T01:38:00+00:00,LA Angels,Houston,Shohei Ohtani,J.P. France,5,7,-160,135,-150,125,-156,132,-154,130,-161,135,-149,126,-155,135,-145,125,-120,100,-140,120
+278892,2023-07-15T01:40:00+00:00,Oakland,Minnesota,Ken Waldichuk,Kenta Maeda,4,5,170,-210,170,-210,160,-190,168,-215,175,-208,170,-204,175,-210,175,-210,160,-190,215,-270
+278893,2023-07-15T02:10:00+00:00,Seattle,Detroit,Luis Castillo,Eduardo Rodriguez,4,5,-200,165,-185,150,-205,172,-196,164,-204,170,-189,158,-200,170,-180,160,-165,140,-180,155

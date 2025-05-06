@@ -1,0 +1,12 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+279214,2023-08-07T20:10:00+00:00,San Diego,LA Dodgers,Seth Lugo,Tony Gonsolin,7,13,-115,-105,-145,120,-106,-110,-144,122,-120,100,-141,118,-120,100,-135,115,-102,-118,-142,120
+279209,2023-08-07T22:40:00+00:00,Cincinnati,Miami,Brandon Williamson,Eury Perez,5,2,105,-125,115,-140,108,-126,120,-142,110,-130,118,-141,110,-130,110,-130,105,-125,120,-142
+279210,2023-08-07T22:40:00+00:00,Detroit,Minnesota,Joey Wentz,Pablo Lopez,3,9,140,-165,145,-175,136,-162,144,-172,140,-164,143,-169,145,-165,150,-170,124,-148,140,-180
+279216,2023-08-07T23:05:00+00:00,Pittsburgh,Atlanta,Osvaldo Bido,Spencer Strider,7,6,220,-275,230,-300,215,-260,265,-330,222,-278,240,-303,225,-275,240,-300,235,-290,240,-330
+279207,2023-08-07T23:10:00+00:00,NY Mets,Chi. Cubs,Kodai Senga,Todd Smyly,11,2,-140,115,-115,-105,-136,116,-112,-104,-141,118,-105,-115,-140,120,-105,-115,-130,110,-115,-115
+279208,2023-08-07T23:10:00+00:00,Boston,Kansas City,Brayan Bello,Cole Ragans,6,2,-225,185,-200,165,-225,188,-200,168,-227,185,-196,162,-225,185,-200,170,-218,180,-220,170
+279206,2023-08-07T23:10:00+00:00,Cleveland,Toronto,Gavin Williams,Hyun Jin Ryu,1,3,105,-125,110,-130,106,-124,108,-126,110,-130,100,-120,110,-130,105,-125,-108,-112,110,-140
+279217,2023-08-08T00:10:00+00:00,Milwaukee,Colorado,Freddy Peralta,Peter Lambert,12,1,-250,195,-250,195,-235,194,-260,215,-233,192,-250,205,-225,185,-240,200,-265,215,-250,205
+279211,2023-08-08T00:10:00+00:00,Chi. White Sox,NY Yankees,Dylan Cease,Gerrit Cole,5,1,140,-165,135,-165,144,-172,144,-172,140,-164,143,-169,140,-160,145,-165,110,-130,136,-162
+279212,2023-08-08T01:38:00+00:00,LA Angels,San Francisco,Patrick Sandoval,Logan Webb,3,8,100,-120,100,-120,108,-126,106,-124,100,-120,100,-120,100,-120,-105,-115,-102,-118,100,-120
+279213,2023-08-08T01:40:00+00:00,Oakland,Texas,Ken Waldichuk,Dane Dunning,3,5,170,-210,200,-250,200,-245,194,-240,175,-208,180,-222,175,-210,185,-225,164,-198,170,-220

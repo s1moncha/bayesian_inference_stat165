@@ -1,0 +1,9 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+279248,2023-08-10T16:35:00+00:00,Baltimore,Houston,Dean Kremer,Hunter Brown,5,4,-105,-115,100,-120,100,-118,100,-118,-105,-115,100,-120,-105,-115,-110,-110,-105,-115,100,-120
+279254,2023-08-10T16:35:00+00:00,Pittsburgh,Atlanta,Bailey Falter,Bryce Elder,7,5,185,-225,165,-200,172,-205,168,-200,180,-222,170,-204,180,-220,170,-200,160,-192,164,-198
+279249,2023-08-10T17:10:00+00:00,Cleveland,Toronto,Noah Syndergaard,Alek Manoah,4,3,115,-140,120,-145,102,-120,120,-150,110,-130,118,-141,110,-130,125,-145,110,-130,120,-142
+279251,2023-08-10T17:10:00+00:00,Detroit,Minnesota,Reese Olson,Kenta Maeda,3,0,125,-150,135,-165,112,-132,138,-174,122,-145,143,-169,125,-145,140,-160,130,-155,140,-166
+279255,2023-08-10T22:40:00+00:00,Philadelphia,Washington,Aaron Nola,Patrick Corbin,6,2,-250,200,-250,200,-295,240,-290,215,-270,215,-263,210,-270,220,-250,210,-225,185,-298,220
+279250,2023-08-10T22:40:00+00:00,Tampa Bay,St. Louis,Zack Littell,Matthew Liberatore,2,5,-175,145,-200,165,-188,158,-200,168,-169,143,-208,175,-170,150,-200,170,-148,124,-205,170
+279252,2023-08-10T23:10:00+00:00,Boston,Kansas City,James Paxton,Austin Cox,2,0,-275,220,-225,185,-290,235,-250,205,-270,215,-222,180,-270,220,-240,200,-230,190,-270,200
+279253,2023-08-11T02:10:00+00:00,LA Dodgers,Colorado,Clayton Kershaw,Ty Blach,2,1,-350,275,-375,290,-390,310,-405,320,-357,275,-385,300,-350,275,-380,300,-345,275,-380,300

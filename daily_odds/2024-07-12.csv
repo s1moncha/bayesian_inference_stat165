@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300559,2024-07-12T22:40:00+00:00,Philadelphia,Athletics,Ranger Suarez,Hogan Harris,2,6,-275,225,-250,200,-270,220,-235,180,-286,228,-263,210,-280,230,-260,210,-278,225,-245,185
+300560,2024-07-12T22:40:00+00:00,Detroit,LA Dodgers,Tarik Skubal,James Paxton,3,4,-135,110,-150,125,-132,112,-152,128,-141,118,-145,122,-135,115,-150,125,-135,114,-155,130
+300553,2024-07-12T22:50:00+00:00,Tampa Bay,Cleveland,Taj Bradley,Carlos Carrasco,2,0,-140,115,-135,115,-138,118,-136,116,-135,115,-135,115,-135,115,-140,120,-135,114,-142,120
+300554,2024-07-12T23:05:00+00:00,Baltimore,NY Yankees,Cade Povich,Gerrit Cole,1,4,100,-120,105,-125,116,-136,110,-130,110,-130,110,-130,110,-130,110,-130,110,-130,110,-130
+300561,2024-07-12T23:10:00+00:00,Cincinnati,Miami,Carson Spiers,Yonny Chirinos,7,4,-150,125,-175,145,-156,132,-180,152,-154,130,-179,150,-155,130,-170,145,-148,124,-170,142
+300551,2024-07-12T23:10:00+00:00,Boston,Kansas City,Cooper Criswell,Cole Ragans,1,6,105,-125,-110,-110,100,-118,-104,-112,100,-120,-105,-115,-105,-115,-105,-115,-105,-115,-105,-115
+300552,2024-07-12T23:10:00+00:00,NY Mets,Colorado,Sean Manaea,Tanner Gordon,7,6,-250,190,-300,240,-235,194,-290,235,-233,192,-286,228,-230,190,-280,230,-230,190,-290,235
+300556,2024-07-13T00:10:00+00:00,Houston,Texas,Hunter Brown,Andrew Heaney,6,3,-150,125,-145,120,-164,138,-146,124,-154,130,-145,122,-150,125,-150,125,-155,130,-148,124
+300555,2024-07-13T00:10:00+00:00,Chi. White Sox,Pittsburgh,Garrett Crochet,Marco Gonzales,1,4,-160,135,-165,140,-162,136,-162,136,-164,140,-161,135,-165,140,-170,145,-162,136,-170,142
+300562,2024-07-13T00:10:00+00:00,Milwaukee,Washington,Freddy Peralta,Jackson Rutledge,2,5,-210,170,-275,220,-196,164,-275,225,-227,185,-270,215,-220,180,-270,220,-225,185,-270,220
+300563,2024-07-13T00:15:00+00:00,St. Louis,Chi. Cubs,Sonny Gray,Kyle Hendricks,1,5,-210,170,-210,170,-198,166,-196,164,-196,162,-204,170,-205,170,-200,165,-198,164,-205,170
+300564,2024-07-13T01:38:00+00:00,LA Angels,Seattle,Tyler Anderson,Bryan Woo,6,5,125,-150,115,-140,116,-136,100,-128,122,-145,110,-130,125,-150,120,-140,124,-148,100,-130
+300568,2024-07-13T01:40:00+00:00,Arizona,Toronto,Yilber Diaz,José Berríos,5,4,-135,110,-135,110,-122,104,-138,118,-130,110,-135,115,-130,110,-135,115,-120,100,-135,114
+300565,2024-07-13T01:40:00+00:00,San Diego,Atlanta,Matt Waldron,Spencer Schwellenbach,1,6,110,-135,-120,100,112,-132,-116,-102,110,-130,100,-120,110,-130,-115,-105,110,-130,-118,-102
+300558,2024-07-13T02:15:00+00:00,San Francisco,Minnesota,Kyle Harrison,Joe Ryan,7,1,110,-135,130,-155,120,-142,122,-144,115,-135,130,-154,110,-130,125,-150,114,-135,124,-148

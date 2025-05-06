@@ -1,0 +1,17 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+260280,2022-07-23T17:10:00+00:00,Chi. White Sox,Cleveland,Johnny Cueto,Triston McKenzie,4,7,-115,-105,-120,100,-108,-108,-102,-124,-115,-105,-115,-105,-110,-110,-120,100,-120,100,-120,-110
+260270,2022-07-23T20:10:00+00:00,Seattle,Houston,Logan Gilbert,Justin Verlander,1,3,110,-135,130,-155,104,-122,136,-164,115,-135,140,-164,110,-130,140,-160,120,-140,135,-155
+260275,2022-07-23T20:10:00+00:00,Boston,Toronto,Kutter Crawford,Alek Manoah,1,4,110,-135,145,-175,100,-118,146,-174,122,-145,143,-169,105,-125,155,-175,130,-150,150,-175
+260278,2022-07-23T22:05:00+00:00,Philadelphia,Chi. Cubs,Zack Wheeler,Marcus Stroman,2,6,-155,125,-175,145,-168,142,-172,144,-169,143,-179,150,-160,140,-145,125,-135,115,-175,150
+260276,2022-07-23T22:10:00+00:00,Detroit,Minnesota,Michael Pineda,Joe Ryan,4,8,140,-165,145,-175,132,-156,148,-176,143,-169,148,-175,135,-155,150,-170,135,-155,150,-185
+260272,2022-07-23T22:40:00+00:00,Cincinnati,St. Louis,Michael Minor,Steven Matz,3,6,135,-160,135,-160,130,-154,144,-172,130,-154,135,-161,130,-150,145,-165,130,-150,145,-170
+260281,2022-07-23T23:05:00+00:00,Pittsburgh,Miami,Jose Quintana,Max Meyer,1,0,-105,-115,100,-120,-106,-110,-116,-110,-110,-110,100,-120,-110,-110,150,-170,-110,-110,-120,-110
+260282,2022-07-23T23:05:00+00:00,Baltimore,NY Yankees,Jordan Lyles,Gerrit Cole,6,3,195,-250,190,-250,194,-240,205,-250,196,-238,205,-250,195,-235,150,-170,205,-245,200,-240
+260269,2022-07-23T23:10:00+00:00,NY Mets,San Diego,Chris Bassitt,Blake Snell,1,2,-140,115,-150,125,-146,124,-154,130,-145,122,-154,130,-150,130,-150,130,-130,110,-150,130
+260298,2022-07-23T23:10:00+00:00,Milwaukee,Colorado,Brandon Woodruff,Jose Urena,9,4,-250,200,-275,220,-250,205,-290,235,-286,228,-294,235,-280,230,-200,170,-255,215,-275,230
+260273,2022-07-23T23:10:00+00:00,Kansas City,Tampa Bay,Brady Singer,Luis Patino,6,3,100,-120,-115,-105,104,-122,-118,100,100,-120,-110,-110,100,-120,-115,-105,100,-120,-115,-105
+260271,2022-07-23T23:15:00+00:00,LA Dodgers,San Francisco,Julio Urias,Robert Wood,4,2,-175,145,-185,150,-158,134,-190,160,-164,140,-179,150,-170,150,-210,175,-145,125,-175,150
+265275,2022-07-23T23:15:00+00:00,Chi. White Sox,Cleveland,Michael Lynn,Konnor Pilkington,5,4,-190,155,-165,140,-178,150,-174,146,-179,150,-179,150,-170,150,-165,145,-175,150,-170,145
+260279,2022-07-23T23:20:00+00:00,Atlanta,LA Angels,Kyle Wright,Patrick Sandoval,7,2,-200,170,-225,180,-200,168,-260,196,-196,162,-208,175,-200,170,-235,195,-200,170,-220,180
+260268,2022-07-24T00:10:00+00:00,Arizona,Washington,Madison Bumgarner,Anibal Sanchez,7,2,-150,125,-150,125,-134,116,-166,130,-141,118,-161,135,-150,130,-155,135,-125,105,-165,140
+260274,2022-07-24T01:07:00+00:00,Oakland,Texas,James Kaprielian,Matthew Bush,3,1,105,-130,110,-130,100,-118,120,-142,-105,-115,110,-130,105,-125,115,-135,100,-120,115,-135

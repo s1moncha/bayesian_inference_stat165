@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+301028,2024-08-20T22:40:00+00:00,Miami,Arizona,Edward Cabrera,Eduardo Rodriguez,1,3,125,-155,110,-135,130,-154,106,-136,130,-154,110,-130,130,-155,105,-125,130,-155,110,-130
+301020,2024-08-20T22:45:00+00:00,Washington,Colorado,DJ Herz,Austin Gomber,1,3,-150,125,-160,135,-142,120,-162,136,-154,130,-169,143,-150,125,-165,140,-155,130,-166,140
+301029,2024-08-20T23:05:00+00:00,NY Yankees,Cleveland,Luis Gil,Matthew Boyd,5,9,-165,140,-150,125,-158,134,-154,130,-164,140,-154,130,-160,135,-140,120,-170,142,-155,130
+301030,2024-08-20T23:07:00+00:00,Toronto,Cincinnati,Jose Berrios,Carson Spiers,10,3,-140,115,-125,105,-142,120,-124,106,-154,130,-125,105,-155,130,-125,105,-148,124,-125,105
+301024,2024-08-20T23:10:00+00:00,NY Mets,Baltimore,Jose Quintana,Dean Kremer,5,9,-125,105,-135,110,-112,-104,-130,110,-125,105,-130,110,-120,100,-125,105,-125,105,-130,110
+301023,2024-08-20T23:20:00+00:00,Atlanta,Philadelphia,Reynaldo Lopez,Zack Wheeler,3,1,105,-125,125,-150,108,-126,128,-152,105,-125,130,-154,105,-125,130,-155,105,-125,136,-162
+301031,2024-08-20T23:45:00+00:00,St. Louis,Milwaukee,Erick Fedde,Frankie Montas Jr.,2,3,-135,110,-125,105,-138,118,-122,104,-125,105,-120,100,-125,105,-120,100,-130,110,-122,102
+301033,2024-08-21T00:05:00+00:00,Chi. Cubs,Detroit,Javier Assad,Alex Faedo,3,1,-160,135,-145,120,-158,134,-148,126,-164,140,-145,122,-160,135,-150,125,-162,136,-148,124
+301032,2024-08-21T00:05:00+00:00,Texas,Pittsburgh,Cody Bradford,Mitch Keller,0,4,-160,135,-145,120,-132,112,-170,132,-154,130,-141,118,-150,125,-140,120,-155,130,-142,120
+301021,2024-08-21T00:10:00+00:00,Kansas City,LA Angels,Cole Ragans,Tyler Anderson,5,9,-210,170,-210,170,-190,160,-215,164,-196,162,-204,170,-190,160,-200,165,-205,170,-205,170
+301022,2024-08-21T00:10:00+00:00,Houston,Boston,Ronel Blanco,Nick Pivetta,5,6,-135,110,-110,-110,-126,108,-120,-106,-130,110,-105,-115,-130,110,-115,-105,-130,110,-110,-110
+301027,2024-08-21T01:40:00+00:00,Athletics,Tampa Bay,Joey Estes,Shane Baz,0,1,100,-120,105,-125,106,-124,-102,-125,100,-120,100,-120,100,-120,100,-120,-102,-118,102,-122
+301034,2024-08-21T01:40:00+00:00,San Diego,Minnesota,Martin Perez,Bailey Ober,7,5,100,-120,100,-120,-104,-112,102,-120,100,-120,-105,-115,100,-120,105,-125,102,-122,105,-125
+301025,2024-08-21T01:45:00+00:00,San Francisco,Chi. White Sox,Robbie Ray,Davis Martin,4,1,-250,200,-250,200,-270,220,-255,210,-233,192,-263,210,-230,190,-250,205,-238,195,-258,210
+301026,2024-08-21T02:10:00+00:00,LA Dodgers,Seattle,Walker Buehler,Bryce Miller,6,3,-150,125,-155,130,-142,120,-166,130,-154,130,-161,135,-150,125,-165,140,-155,130,-166,140

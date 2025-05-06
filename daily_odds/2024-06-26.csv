@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300342,2024-06-26T16:10:00+00:00,Tampa Bay,Seattle,Ryan Pepiot,George Kirby,2,5,-105,-115,-115,-105,-108,-108,-110,-106,100,-120,-120,100,-105,-115,-110,-110,-102,-118,-115,-105
+300350,2024-06-26T17:10:00+00:00,Detroit,Philadelphia,Tyler Holton,Spencer Turnbull,2,6,145,-175,140,-165,148,-176,142,-168,158,-189,148,-175,155,-185,140,-165,150,-180,140,-166
+300351,2024-06-26T17:10:00+00:00,Cincinnati,Pittsburgh,Graham Ashcraft,Luis L. Ortiz,1,6,-125,105,-135,115,-122,104,-136,116,-130,110,-141,118,-135,115,-135,115,-135,114,-135,114
+300337,2024-06-26T17:45:00+00:00,St. Louis,Atlanta,Kyle Gibson,Reynaldo Lopez,2,6,115,-140,110,-130,116,-136,104,-122,115,-135,110,-130,110,-130,105,-125,114,-135,105,-125
+300352,2024-06-26T18:10:00+00:00,Milwaukee,Texas,Dallas Keuchel,Nathan Eovaldi,6,5,-110,-110,100,-120,-108,-108,100,-118,-110,-110,-105,-115,-110,-110,-105,-115,-112,-108,100,-120
+300345,2024-06-26T18:10:00+00:00,Houston,Colorado,Spencer Arrighetti,Ryan Feltner,7,1,-200,165,-185,150,-180,152,-198,166,-196,162,-189,158,-200,165,-190,160,-198,164,-198,164
+300347,2024-06-26T18:10:00+00:00,Kansas City,Miami,Brady Singer,Valente Bellozo,5,1,-225,185,-225,180,-225,188,-205,172,-238,196,-208,175,-240,195,-210,175,-238,195,-205,170
+300353,2024-06-26T20:07:00+00:00,LA Angels,Athletics,Roansy Contreras,Joey Estes,5,2,-120,100,-135,115,-124,106,-142,120,-120,100,-130,110,-120,100,-140,120,-120,100,-142,120
+300354,2024-06-26T20:10:00+00:00,San Diego,Washington,Dylan Cease,DJ Herz,8,5,-190,155,-190,155,-190,160,-188,158,-189,158,-189,158,-190,160,-185,155,-185,154,-185,154
+300341,2024-06-26T22:35:00+00:00,Baltimore,Cleveland,Grayson Rodriguez,Carlos Carrasco,4,2,-175,145,-225,180,-180,152,-225,188,-169,143,-238,196,-180,150,-240,195,-170,142,-238,195
+300344,2024-06-26T23:10:00+00:00,NY Mets,NY Yankees,Sean Manaea,Luis Gil,12,2,120,-145,105,-125,118,-138,108,-126,118,-141,115,-135,120,-140,110,-130,120,-142,110,-130
+300355,2024-06-26T23:15:00+00:00,St. Louis,Atlanta,Matthew Liberatore,Bryce Elder,4,1,-105,-115,-105,-115,154,-184,-112,-112,100,-120,100,-120,155,-185,155,-185,102,-122,-110,-120
+300346,2024-06-27T00:10:00+00:00,Chi. White Sox,LA Dodgers,Erick Fedde,Gavin Stone,0,4,155,-190,145,-175,168,-200,148,-176,162,-196,150,-179,165,-200,145,-170,160,-192,145,-175
+300349,2024-06-27T01:40:00+00:00,Arizona,Minnesota,Ryne Nelson,Simeon Woods Richardson,3,8,100,-120,105,-125,102,-120,104,-122,100,-120,115,-135,-105,-115,105,-125,102,-122,105,-125
+300348,2024-06-27T01:45:00+00:00,San Francisco,Chi. Cubs,Hayden Birdsong,Hayden Merda,4,3,-130,110,-115,-105,-126,108,-116,-102,-130,110,-110,-110,-125,105,-110,-110,-130,110,-110,-110

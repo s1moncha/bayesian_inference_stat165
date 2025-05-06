@@ -1,0 +1,13 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+279378,2023-08-20T17:05:00+00:00,Houston,Seattle,Hunter Brown,Emerson Hancock,6,7,-175,145,-190,155,-184,154,-166,130,-179,150,-189,158,-175,155,-180,160,-180,150,-175,135
+279375,2023-08-20T17:35:00+00:00,NY Yankees,Boston,Clarke Schmidt,Josh Winckowski,5,6,-120,100,-115,-105,-118,100,-128,102,-115,-105,-115,-105,-120,100,-110,-110,-120,100,-140,110
+279376,2023-08-20T17:35:00+00:00,Atlanta,San Francisco,Max Fried,Jakob Junis,3,4,-250,200,-225,180,-245,200,-240,186,-250,205,-233,192,-250,210,-235,195,-250,205,-238,180
+279379,2023-08-20T17:40:00+00:00,Cincinnati,Toronto,Hunter Greene,Hyun Jin Ryu,3,10,-105,-115,-105,-115,102,-120,100,-118,100,-120,-110,-110,100,-120,-110,-110,-112,-108,-120,-110
+279348,2023-08-20T17:40:00+00:00,Cleveland,Detroit,Gavin Williams,Tarik Skubal,1,4,-165,135,-140,115,-162,136,-148,116,-169,143,-141,118,-160,140,-120,100,-135,114,-166,130
+279386,2023-08-20T18:10:00+00:00,Minnesota,Pittsburgh,Dallas Keuchel,Ryan Borucki,2,0,-145,120,-135,115,-138,118,-134,116,-145,122,-135,115,-140,120,-135,115,-125,105,-150,120
+279384,2023-08-20T18:15:00+00:00,St. Louis,NY Mets,Dakota Hudson,Carlos Carrasco,7,3,-150,125,-130,110,-138,118,-126,108,-145,122,-125,105,-145,125,-125,105,-155,130,-135,105
+279385,2023-08-20T18:20:00+00:00,Chi. Cubs,Kansas City,Kyle Hendricks,Jordan Lyles,4,3,-210,170,-225,180,-240,198,-235,180,-208,175,-208,175,-225,185,-210,175,-230,190,-220,170
+279383,2023-08-20T18:35:00+00:00,Texas,Milwaukee,Max Scherzer,Adrian Houser,2,6,-200,165,-210,170,-178,150,-225,188,-204,170,-208,175,-185,165,-210,175,-185,154,-250,190
+279387,2023-08-20T19:10:00+00:00,Colorado,Chi. White Sox,Chris Flexen,Dylan Cease,5,10,135,-160,115,-140,136,-162,106,-134,135,-161,118,-141,135,-155,120,-140,145,-175,-105,-125
+279382,2023-08-20T20:07:00+00:00,Oakland,Baltimore,John Patrick Sears,Kyle Bradish,1,12,165,-200,155,-190,156,-186,215,-290,162,-196,158,-189,165,-185,165,-185,154,-185,230,-315
+279389,2023-08-20T23:10:00+00:00,Washington,Philadelphia,Trevor Williams,Zack Wheeler,4,3,185,-225,180,-225,188,-225,190,-230,180,-222,196,-238,185,-225,185,-225,185,-225,165,-215

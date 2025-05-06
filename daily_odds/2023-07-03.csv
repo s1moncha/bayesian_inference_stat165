@@ -1,0 +1,11 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278786,2023-07-03T18:05:00+00:00,Texas,Houston,Martin Perez,Cristian Javier,11,12,-115,-105,-145,120,-110,-106,-136,116,-105,-115,-145,122,-105,-115,-140,120,-105,-115,-145,125
+278790,2023-07-03T18:10:00+00:00,Milwaukee,Chi. Cubs,Julio Teheran,Todd Smyly,8,6,-110,-110,-105,-115,-108,-108,-104,-112,-110,-110,-110,-110,-105,-115,-110,-110,100,-120,-110,-110
+278791,2023-07-03T22:05:00+00:00,Washington,Cincinnati,Jake Irvin,Luke Weaver,2,3,105,-125,-105,-115,120,-142,100,-118,105,-125,-105,-115,105,-125,-105,-115,125,-145,-105,-115
+278792,2023-07-03T22:40:00+00:00,Miami,St. Louis,Braxton Garrett,Miles Mikolas,5,4,-125,105,-140,115,-116,-102,-144,112,-120,100,-145,122,-120,100,-140,120,-115,-105,-140,120
+278787,2023-07-03T23:05:00+00:00,NY Yankees,Baltimore,Domingo German,Tyler Wells,6,3,-105,-115,-110,-110,100,-118,-106,-110,-105,-115,-105,-115,-105,-115,-105,-115,105,-125,-105,-115
+278788,2023-07-03T23:10:00+00:00,Cleveland,Atlanta,Gavin Williams,Bryce Elder,2,4,125,-150,125,-150,138,-164,128,-152,122,-145,143,-169,125,-145,130,-150,115,-135,135,-155
+278793,2023-07-04T00:10:00+00:00,Minnesota,Kansas City,Joe Ryan,Austin Cox,8,4,-225,185,-225,185,-235,194,-235,194,-233,192,-233,192,-210,175,-225,185,-175,150,-230,185
+278794,2023-07-04T01:40:00+00:00,San Diego,LA Angels,Blake Snell,Jaime Barria,10,3,-175,145,-200,165,-178,150,-215,168,-179,150,-196,162,-175,155,-185,165,-175,150,-165,135
+278785,2023-07-04T01:45:00+00:00,San Francisco,Seattle,Logan Webb,Bryan Woo,5,6,-140,115,-130,105,-152,128,-134,114,-130,110,-130,110,-130,110,-130,110,-125,105,-135,115
+278789,2023-07-04T02:10:00+00:00,LA Dodgers,Pittsburgh,Michael Grove,Mitch Keller,5,2,-175,145,-165,135,-164,138,-186,146,-169,143,-179,150,-175,155,-170,150,-170,145,-215,175

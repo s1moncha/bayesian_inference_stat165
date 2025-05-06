@@ -1,0 +1,15 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+260175,2022-07-15T22:40:00+00:00,Miami,Philadelphia,Sandy Alcantara,Kyle Gibson,1,2,-165,140,-175,145,-162,136,-190,160,-154,130,-179,150,-150,130,-180,160,-150,130,-180,155
+260159,2022-07-15T23:05:00+00:00,NY Yankees,Boston,Jordan Montgomery,Nathan Eovaldi,4,5,-185,150,-165,135,-180,152,-168,142,-179,150,-169,143,-175,155,-160,140,-175,150,-165,135
+260158,2022-07-15T23:05:00+00:00,Washington,Atlanta,Patrick Corbin,Ian Anderson,4,8,170,-200,145,-175,176,-210,146,-174,180,-222,140,-164,170,-200,155,-175,170,-200,140,-175
+260157,2022-07-15T23:07:00+00:00,Toronto,Kansas City,Alek Manoah,Donald Greinke,8,1,-350,275,-350,260,-330,265,-350,280,-357,278,-370,285,-340,270,-340,270,-345,285,-330,275
+260155,2022-07-15T23:10:00+00:00,Tampa Bay,Baltimore,Luis Patino,Tyler Wells,5,4,-120,100,-125,105,-120,102,-122,104,-120,100,-130,110,-120,100,-125,105,-120,100,-120,100
+260149,2022-07-15T23:10:00+00:00,Cleveland,Detroit,Zach Plesac,Andrew Hutchison,6,5,-185,150,-190,155,-184,154,-190,160,-196,162,-189,158,-185,165,-170,150,-195,165,-190,160
+260156,2022-07-16T00:05:00+00:00,Texas,Seattle,Matthew Bush,Robbie Ray,3,8,140,-165,125,-150,158,-188,134,-158,158,-189,135,-161,160,-180,120,-140,150,-175,130,-160
+260177,2022-07-16T00:10:00+00:00,Minnesota,Chi. White Sox,Devin Smeltzer,Michael Kopech,2,6,-135,110,-135,110,-136,116,-136,116,-135,115,-141,118,-135,115,-135,115,-135,115,-135,105
+260151,2022-07-16T00:10:00+00:00,Houston,Oakland,Jose Urquidy,Cole Irvin,1,5,-200,170,-200,165,-200,168,-200,168,-204,170,-208,175,-200,170,-210,175,-195,165,-210,170
+260154,2022-07-16T00:15:00+00:00,St. Louis,Cincinnati,Andre Pallante,Hunter Greene,7,3,-175,145,-150,125,-172,144,-152,128,-179,150,-145,122,-170,150,-150,130,-170,145,-150,130
+260152,2022-07-16T00:40:00+00:00,Colorado,Pittsburgh,German Marquez,Jose Quintana,13,2,-145,120,-155,125,-146,124,-152,128,-154,130,-141,118,-150,130,-125,105,-140,120,-165,135
+260150,2022-07-16T01:38:00+00:00,LA Angels,LA Dodgers,Patrick Sandoval,Clayton Kershaw,1,9,170,-200,170,-200,180,-215,176,-210,175,-208,158,-189,175,-210,160,-180,175,-205,170,-200
+260153,2022-07-16T01:40:00+00:00,San Diego,Arizona,Yu Darvish,Madison Bumgarner,5,3,-200,165,-190,155,-198,166,-190,160,-169,143,-189,158,-192,167,-200,170,-170,145,-190,160
+260160,2022-07-16T02:15:00+00:00,San Francisco,Milwaukee,Robert Wood,Brandon Woodruff,8,5,105,-125,105,-130,108,-126,114,-134,-115,-105,110,-130,100,-120,-130,110,-115,-105,115,-135

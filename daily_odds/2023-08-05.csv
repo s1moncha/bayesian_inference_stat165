@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+279182,2023-08-05T17:05:00+00:00,NY Yankees,Houston,Nestor Cortes,Justin Verlander,3,1,115,-140,115,-140,116,-136,122,-144,115,-135,118,-141,115,-135,120,-140,105,-125,120,-142
+279180,2023-08-05T17:10:00+00:00,Detroit,Tampa Bay,Tarik Skubal,Aaron Civale,4,2,120,-145,120,-145,130,-154,128,-152,118,-141,122,-145,120,-140,130,-150,120,-142,114,-145
+279185,2023-08-05T18:20:00+00:00,Chi. Cubs,Atlanta,Javier Assad,Bryce Elder,8,6,125,-150,125,-150,126,-148,130,-166,122,-145,122,-145,125,-145,130,-150,130,-155,120,-150
+279184,2023-08-05T20:05:00+00:00,Texas,Miami,Jon Gray,George Soriano,9,8,-200,165,-150,125,-198,166,-148,126,-189,158,-141,118,-200,170,-145,125,-192,160,-148,124
+279183,2023-08-05T20:10:00+00:00,Cincinnati,Washington,Andrew Abbott,Joan Adon,3,7,-225,180,-225,185,-225,188,-235,194,-222,180,-233,192,-220,180,-235,195,-218,180,-280,210
+279186,2023-08-05T20:10:00+00:00,Boston,Toronto,John Schreiber,Jose Berrios,4,5,-125,105,-105,-115,-116,-102,-112,-104,-125,105,-105,-115,-125,105,-115,-105,-120,100,-110,-120
+279187,2023-08-05T22:05:00+00:00,Philadelphia,Kansas City,Cristopher Sanchez,Alec Marsh,9,6,-225,185,-225,185,-225,188,-270,200,-227,185,-250,205,-225,185,-235,195,-218,180,-298,220
+279181,2023-08-05T23:05:00+00:00,Baltimore,NY Mets,Kyle Gibson,Tylor Megill,7,3,-175,145,-165,140,-184,154,-172,144,-179,150,-169,143,-180,160,-170,150,-148,124,-180,140
+279176,2023-08-05T23:07:00+00:00,Oakland,San Francisco,Paul Blackburn,Ross Stripling,2,1,150,-185,140,-165,124,-146,150,-178,150,-179,148,-175,155,-175,150,-170,150,-180,145,-175
+279188,2023-08-05T23:10:00+00:00,Milwaukee,Pittsburgh,Corbin Burnes,Bailey Falter,3,2,-250,200,-275,220,-255,210,-260,215,-250,205,-270,215,-245,205,-260,215,-205,170,-270,220
+279179,2023-08-05T23:10:00+00:00,Cleveland,Chi. White Sox,Noah Syndergaard,Michael Kopech,4,7,-145,120,-145,120,-146,124,-154,122,-141,118,-145,122,-140,120,-150,130,-142,120,-142,120
+279189,2023-08-05T23:10:00+00:00,Minnesota,Arizona,Kenta Maeda,Ryne Nelson,12,1,-160,135,-160,135,-164,138,-162,136,-161,135,-161,135,-155,135,-165,145,-162,136,-166,130
+279178,2023-08-05T23:15:00+00:00,St. Louis,Colorado,Steven Matz,Ty Blach,6,2,-200,165,-250,190,-205,172,-250,205,-208,175,-250,205,-200,170,-250,210,-218,180,-250,190
+279190,2023-08-06T00:40:00+00:00,San Diego,LA Dodgers,Blake Snell,Michael Grove,8,3,-145,120,-165,140,-142,120,-168,142,-145,122,-164,140,-145,125,-165,145,-148,124,-180,140
+279177,2023-08-06T01:07:00+00:00,LA Angels,Seattle,Tyler Anderson,George Kirby,2,3,110,-135,115,-135,120,-142,118,-138,110,-130,110,-130,110,-130,110,-130,-118,-102,114,-135

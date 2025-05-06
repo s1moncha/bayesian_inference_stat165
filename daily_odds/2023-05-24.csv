@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278262,2023-05-24T16:35:00+00:00,Pittsburgh,Texas,Johan Oviedo,Martin Perez,2,3,105,-125,-105,-115,114,-134,100,-118,110,-130,-110,-110,110,-130,100,-120,110,-130,-105,-115
+278263,2023-05-24T17:05:00+00:00,Philadelphia,Arizona,Ranger Suarez,Zac Gallen,6,5,-105,-115,-110,-110,106,-124,-108,-108,-125,105,-115,-105,-110,-110,-110,-110,-115,-105,-115,-115
+278264,2023-05-24T17:10:00+00:00,Minnesota,San Francisco,Joe Ryan,Anthony DeSclafani,7,1,-160,135,-155,130,-164,138,-152,128,-161,135,-130,110,-160,140,-150,130,-165,140,-145,115
+278265,2023-05-24T17:10:00+00:00,Milwaukee,Houston,Adrian Houser,Brandon Bielak,4,0,-110,-110,-110,-110,-106,-110,-112,-104,100,-120,-110,-110,-110,-110,-110,-110,-110,-110,-105,-125
+278257,2023-05-24T17:10:00+00:00,Cleveland,Chi. White Sox,Cal Quantrill,Michael Kopech,0,6,-140,115,-140,120,-152,128,-138,118,-135,115,-154,130,-135,115,-145,125,-140,120,-165,135
+278254,2023-05-24T22:40:00+00:00,Cincinnati,St. Louis,Ben Lively,Steven Matz,10,3,135,-160,135,-160,138,-164,138,-164,130,-154,135,-161,135,-155,140,-160,155,-180,135,-165
+278256,2023-05-24T22:40:00+00:00,Tampa Bay,Toronto,Shane McClanahan,Yusei Kikuchi,7,3,-190,155,-165,140,-210,176,-190,160,-169,143,-179,150,-180,160,-175,155,-180,155,-205,165
+278266,2023-05-24T23:05:00+00:00,Washington,San Diego,Trevor Williams,Ryan Weathers,5,3,120,-145,130,-155,130,-154,108,-138,115,-135,122,-145,125,-145,130,-150,130,-150,125,-155
+278255,2023-05-24T23:05:00+00:00,NY Yankees,Baltimore,Nestor Cortes,Tyler Wells,6,9,-150,125,-140,115,-156,132,-144,122,-161,135,-149,126,-150,130,-140,120,-155,135,-145,125
+278253,2023-05-24T23:20:00+00:00,Atlanta,LA Dodgers,Bryce Elder,Tony Gonsolin,4,3,-120,100,-120,100,-108,-108,-116,-102,-110,-110,-120,100,-115,-105,-120,100,100,-120,-120,-110
+278258,2023-05-24T23:40:00+00:00,Chi. Cubs,NY Mets,Marcus Stroman,Kodai Senga,4,2,-115,-105,-115,-105,-112,-104,-110,-106,-110,-110,-115,-105,-115,-105,-115,-105,-120,100,-115,-105
+278260,2023-05-24T23:40:00+00:00,Kansas City,Detroit,Donald Greinke,Matthew Boyd,4,6,-120,100,-115,-105,-126,108,-118,100,-120,100,-120,100,-120,100,-115,-105,-120,100,-115,-105
+278267,2023-05-25T00:40:00+00:00,Colorado,Miami,Karl Kauffmann,Sandy Alcantara,2,10,135,-160,135,-165,138,-164,148,-176,140,-164,140,-164,140,-160,140,-160,160,-190,135,-165
+278259,2023-05-25T01:38:00+00:00,LA Angels,Boston,Tyler Anderson,James Paxton,7,3,-115,-105,-110,-110,-116,-102,-106,-110,-110,-110,-105,-115,-115,-105,-105,-115,-130,110,-105,-115
+278261,2023-05-25T01:40:00+00:00,Seattle,Oakland,Bryce Miller,Austin Pruitt,6,1,-275,220,-275,220,-260,215,-320,260,-286,228,-294,235,-275,225,-300,240,-250,210,-295,245

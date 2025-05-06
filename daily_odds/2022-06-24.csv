@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259608,2022-06-24T22:40:00+00:00,Miami,NY Mets,Sandy Alcantara,Taijuan Walker,3,5,-145,120,-145,120,-152,128,-160,126,-145,125,-145,125,-145,125,125,-145,-115,-105,-160,130
+259606,2022-06-24T23:05:00+00:00,NY Yankees,Houston,Luis Severino,Justin Verlander,1,3,-130,110,-130,110,-134,114,-132,112,-130,110,-130,110,-130,110,-145,125,-110,-110,-130,110
+259601,2022-06-24T23:10:00+00:00,Tampa Bay,Pittsburgh,Jeffrey Springs,Mitch Keller,4,3,-200,170,-225,180,-205,172,-230,176,-208,180,-200,175,-210,175,-180,160,-195,165,-190,155
+259595,2022-06-24T23:10:00+00:00,Cleveland,Boston,Cal Quantrill,Nick Pivetta,3,6,100,-120,-105,-115,102,-120,100,-118,100,-120,-105,-115,100,-120,-150,130,-105,-115,-110,-120
+259604,2022-06-24T23:20:00+00:00,Atlanta,LA Dodgers,Ian Anderson,Julio Urias,1,4,110,-130,110,-130,114,-134,110,-130,110,-130,110,-130,110,-130,110,-130,110,-130,105,-135
+259602,2022-06-25T00:05:00+00:00,Texas,Washington,Dane Dunning,Paolo Espino,1,2,-160,135,-160,135,-164,138,-164,138,-161,140,-161,140,-150,130,-155,135,-130,110,-155,135
+259611,2022-06-25T00:10:00+00:00,Minnesota,Colorado,Dylan Bundy,German Marquez,0,1,-165,140,-160,135,-162,136,-164,128,-161,140,-154,135,-160,140,-180,160,-165,140,-150,120
+259612,2022-06-25T00:10:00+00:00,Milwaukee,Toronto,Adrian Houser,Alek Manoah,4,9,120,-145,125,-150,122,-144,104,-130,125,-145,120,-141,120,-140,-150,130,125,-145,-105,-125
+259597,2022-06-25T00:10:00+00:00,Kansas City,Oakland,Donald Greinke,Cole Irvin,3,1,-135,115,-140,115,-136,116,-154,130,-135,115,-135,115,-135,115,-150,130,-135,115,-145,125
+259605,2022-06-25T00:10:00+00:00,Chi. White Sox,Baltimore,Michael Kopech,Austin Voth,1,4,-175,145,-175,145,-172,144,-184,154,-169,150,-169,150,-165,145,-170,150,-155,135,-175,140
+259600,2022-06-25T00:15:00+00:00,St. Louis,Chi. Cubs,Andre Pallante,Kyle Hendricks,0,3,-160,135,-165,140,-158,134,-192,150,-161,140,-169,150,-160,140,-165,145,-150,130,-210,170
+259598,2022-06-25T01:38:00+00:00,LA Angels,Seattle,Michael Lorenzen,Chris Flexen,3,4,-160,135,-155,130,-164,138,-168,132,-161,140,-161,140,-160,140,-125,105,-155,135,-165,135
+259596,2022-06-25T01:40:00+00:00,Arizona,Detroit,Merrill Kelly,Rony Garcia,1,5,-175,145,-165,140,-166,140,-174,138,-169,150,-161,140,-170,150,-150,130,-170,145,-160,130
+259603,2022-06-25T01:40:00+00:00,San Diego,Philadelphia,MacKenzie Gore,Aaron Nola,1,0,105,-125,110,-130,106,-124,110,-140,105,-125,110,-130,105,-125,-120,100,100,-120,105,-135
+259599,2022-06-25T02:15:00+00:00,San Francisco,Cincinnati,Alex Cobb,Graham Ashcraft,2,4,-200,165,-225,180,-205,172,-215,180,-200,175,-213,185,-200,170,-225,185,-200,170,-225,190

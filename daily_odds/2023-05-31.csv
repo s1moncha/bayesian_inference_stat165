@@ -1,0 +1,15 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278361,2023-05-31T17:10:00+00:00,Detroit,Texas,Joey Wentz,Dane Dunning,3,2,125,-150,135,-160,108,-126,132,-156,130,-154,135,-161,125,-145,140,-160,115,-135,130,-150
+278351,2023-05-31T18:10:00+00:00,Chi. White Sox,LA Angels,Michael Lynn,Jaime Barria,5,12,-140,115,-145,120,-142,120,-146,124,-141,118,-141,118,-135,115,-145,125,-130,110,-145,125
+278360,2023-05-31T18:20:00+00:00,Chi. Cubs,Tampa Bay,Justin Steele,Zach Eflin,3,4,115,-140,120,-140,118,-138,118,-138,115,-135,118,-141,115,-135,120,-140,110,-130,115,-135
+278356,2023-05-31T19:05:00+00:00,Baltimore,Cleveland,Keegan Akin,Shane Bieber,8,12,100,-120,-105,-115,106,-124,108,-136,100,-120,-105,-115,100,-120,-105,-115,-105,-115,-110,-110
+278359,2023-05-31T19:37:00+00:00,Oakland,Atlanta,James Kaprielian,Jared Shuster,2,4,185,-225,200,-250,194,-240,192,-260,192,-233,196,-238,185,-225,195,-235,170,-200,190,-225
+278357,2023-05-31T19:45:00+00:00,San Francisco,Pittsburgh,Robert Wood,Mitch Keller,4,9,-135,110,-115,-105,-126,108,-124,-102,-135,115,-120,100,-135,115,-120,100,-130,110,-120,100
+278358,2023-05-31T20:10:00+00:00,LA Dodgers,Washington,Noah Syndergaard,Patrick Corbin,6,10,-250,200,-250,200,-235,194,-240,198,-250,205,-238,196,-250,210,-245,205,-255,215,-230,195
+278362,2023-05-31T22:40:00+00:00,Miami,San Diego,Braxton Garrett,Blake Snell,2,1,100,-120,-105,-115,112,-132,102,-120,105,-125,-105,-115,100,-120,-105,-115,-115,-105,-105,-115
+278355,2023-05-31T23:07:00+00:00,Toronto,Milwaukee,Alek Manoah,Julio Teheran,2,4,-190,155,-165,140,-200,168,-162,136,-196,162,-161,135,-192,167,-160,140,-180,155,-165,140
+278353,2023-05-31T23:10:00+00:00,NY Mets,Philadelphia,Carlos Carrasco,Aaron Nola,4,1,105,-130,100,-120,102,-120,102,-120,110,-130,-105,-115,110,-130,100,-120,110,-130,-105,-115
+278354,2023-05-31T23:10:00+00:00,Boston,Cincinnati,James Paxton,Luke Weaver,4,5,-190,155,-165,140,-188,158,-166,140,-189,158,-161,135,-192,167,-165,145,-225,190,-165,140
+278352,2023-06-01T00:10:00+00:00,Houston,Minnesota,Hunter Brown,Louis Varland,2,8,-165,140,-185,150,-178,150,-196,152,-169,143,-179,152,-170,150,-185,165,-190,160,-180,155
+278349,2023-06-01T01:40:00+00:00,Seattle,NY Yankees,George Kirby,Clarke Schmidt,1,0,-140,115,-140,120,-148,126,-172,134,-135,115,-141,118,-135,115,-140,120,-135,115,-185,150
+278350,2023-06-01T01:40:00+00:00,Arizona,Colorado,Tommy Henry,Dinelson Lamet,6,0,-190,155,-160,130,-178,150,-190,148,-189,158,-161,135,-185,165,-155,135,-175,150,-180,145

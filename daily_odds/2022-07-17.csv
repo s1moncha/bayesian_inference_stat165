@@ -1,0 +1,13 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+260216,2022-07-17T16:05:00+00:00,Toronto,Kansas City,Jose Berrios,Kris Bubic,4,2,-350,260,-300,250,-330,265,-350,280,-333,260,-345,270,-320,260,-330,265,-285,240,-270,215
+260217,2022-07-17T17:35:00+00:00,Washington,Atlanta,Erasmo Ramirez,Spencer Strider,7,3,220,-275,220,-275,220,-270,230,-280,228,-286,235,-294,230,-280,230,-280,215,-255,225,-265
+260218,2022-07-17T17:35:00+00:00,NY Yankees,Boston,Gerrit Cole,Chris Sale,13,2,-200,165,-190,155,-196,164,-188,158,-204,170,-189,158,-200,170,-185,165,-195,165,-180,155
+260214,2022-07-17T17:40:00+00:00,Tampa Bay,Baltimore,Corey Kluber,Jordan Lyles,7,5,-155,125,-150,125,-162,136,-160,126,-161,135,-154,130,-160,140,-150,130,-150,130,-150,120
+260231,2022-07-17T17:40:00+00:00,Miami,Philadelphia,Trevor Rogers,Aaron Nola,0,4,125,-155,115,-140,134,-158,110,-140,135,-161,115,-135,130,-150,115,-135,135,-155,110,-140
+260210,2022-07-17T18:10:00+00:00,Houston,Oakland,Jake Odorizzi,Adam Oller,3,4,-275,220,-275,220,-295,240,-275,225,-286,228,-286,228,-280,230,-280,230,-275,230,-280,220
+260233,2022-07-17T18:10:00+00:00,Minnesota,Chi. White Sox,Christopher Archer,Dylan Cease,0,11,100,-120,100,-120,106,-124,106,-124,105,-125,105,-125,100,-120,105,-125,105,-125,-105,-125
+260235,2022-07-17T18:20:00+00:00,Chi. Cubs,NY Mets,Adrian Sampson,David Peterson,3,2,125,-155,120,-145,134,-158,124,-146,135,-161,118,-141,135,-155,120,-140,110,-130,120,-140
+260215,2022-07-17T18:35:00+00:00,Texas,Seattle,Glenn Otto,Chris Flexen,2,6,105,-130,110,-135,112,-132,120,-152,110,-130,118,-141,110,-130,115,-135,120,-140,125,-155
+260211,2022-07-17T19:10:00+00:00,Colorado,Pittsburgh,Austin Gomber,Bryse Wilson,3,8,-165,140,-165,140,-172,144,-200,154,-164,140,-169,143,-165,145,-165,145,-165,140,-170,145
+260219,2022-07-17T20:05:00+00:00,San Francisco,Milwaukee,Logan Webb,Aaron Ashby,9,5,-165,135,-160,135,-172,144,-162,136,-169,143,-161,135,-170,150,-160,140,-165,140,-150,120
+260212,2022-07-17T20:10:00+00:00,San Diego,Arizona,Mike Clevinger,Merrill Kelly,1,3,-155,125,-155,130,-162,136,-158,134,-161,135,-161,135,-160,140,-160,140,-165,140,-155,135

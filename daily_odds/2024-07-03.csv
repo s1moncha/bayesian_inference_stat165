@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300436,2024-07-03T22:40:00+00:00,Miami,Boston,Trevor Rogers,Brayan Bello,2,7,120,-145,115,-135,120,-142,112,-132,122,-145,110,-130,120,-140,110,-130,124,-148,105,-135
+300428,2024-07-03T22:40:00+00:00,Pittsburgh,St. Louis,Jared Jones,Miles Mikolas,5,4,-120,100,-130,110,-130,110,-126,108,-125,105,-125,105,-120,100,-125,105,-125,105,-115,-115
+300430,2024-07-03T22:40:00+00:00,Cleveland,Chi. White Sox,Gavin Williams,Erick Fedde,2,8,-175,145,-225,180,-188,158,-215,180,-179,150,-227,185,-170,145,-220,180,-180,150,-238,195
+300427,2024-07-03T22:45:00+00:00,Washington,NY Mets,Mitchell Parker,Christian Scott,7,5,105,-130,115,-135,106,-124,-106,-118,115,-135,122,-145,105,-125,115,-135,114,-135,-115,-115
+300437,2024-07-03T23:05:00+00:00,NY Yankees,Cincinnati,Carlos Rodon,Andrew Abbott,2,3,-185,150,-185,150,-174,146,-184,154,-189,158,-189,158,-180,150,-185,155,-192,160,-185,154
+300438,2024-07-03T23:07:00+00:00,Toronto,Houston,Yusei Kikuchi,Ronel Blanco,2,9,-115,-105,-105,-115,-102,-116,-118,-108,-115,-105,-105,-115,-120,100,100,-120,-118,-102,-120,-110
+300429,2024-07-03T23:20:00+00:00,Atlanta,San Francisco,Chris Sale,Jordan Hicks,3,1,-210,170,-210,170,-196,164,-200,168,-204,170,-208,175,-205,170,-200,165,-205,170,-200,154
+300439,2024-07-04T00:05:00+00:00,Chi. Cubs,Philadelphia,Shota Imanaga,Zack Wheeler,3,5,110,-135,100,-120,108,-126,-104,-122,110,-130,100,-120,110,-130,-105,-115,110,-130,-110,-120
+300440,2024-07-04T00:05:00+00:00,Texas,San Diego,Jon Gray,Adam Mazur,4,6,-145,120,-155,130,-130,110,-162,136,-145,122,-141,118,-135,115,-160,135,-148,124,-166,130
+300432,2024-07-04T00:10:00+00:00,Minnesota,Detroit,David Festa,Keider Montero,2,9,-160,135,-165,140,-110,-106,-174,146,-164,140,-169,143,-165,140,-170,145,-162,136,-175,145
+300431,2024-07-04T00:10:00+00:00,Kansas City,Tampa Bay,Michael Wacha,Ryan Pepiot,4,2,-110,-110,-110,-110,-108,-108,-108,-108,-110,-110,-115,-105,-105,-115,-110,-110,-110,-110,-105,-115
+300441,2024-07-04T00:40:00+00:00,Colorado,Milwaukee,Dakota Hudson,Colin Rea,0,3,125,-155,140,-165,146,-174,144,-172,135,-161,148,-175,125,-150,150,-180,130,-155,145,-175
+300434,2024-07-04T01:40:00+00:00,Athletics,LA Angels,Joey Estes,Davis Daniel,5,0,-105,-115,-110,-110,-116,-102,-106,-110,-105,-115,-105,-115,-110,-110,-110,-110,-105,-115,-115,-115
+300435,2024-07-04T02:10:00+00:00,Seattle,Baltimore,Logan Gilbert,Dean Kremer,1,4,-115,-105,-140,115,-102,-116,-158,134,-125,105,-130,110,-125,105,-150,125,-125,105,-148,124
+300433,2024-07-04T02:10:00+00:00,LA Dodgers,Arizona,Gavin Stone,Cristian Mena,4,12,-210,170,-210,170,-180,152,-200,168,-164,140,-204,170,-160,135,-205,170,-166,140,-205,170

@@ -1,0 +1,13 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+260339,2022-07-25T22:40:00+00:00,Cincinnati,Miami,Nick Lodolo,Trevor Rogers,11,2,-120,100,-135,115,-124,106,-138,118,-125,105,-135,115,-115,-105,-105,-115,-115,-105,-135,105
+260336,2022-07-25T23:05:00+00:00,Baltimore,Tampa Bay,Austin Voth,Corey Kluber,5,1,115,-140,-105,-115,114,-134,-108,-108,110,-130,-110,-110,125,-145,170,-200,125,-145,-105,-115
+260338,2022-07-25T23:05:00+00:00,Philadelphia,Atlanta,Ranger Suarez,Max Fried,6,4,135,-160,145,-175,140,-166,120,-154,143,-169,150,-179,130,-150,160,-180,130,-150,130,-160
+260334,2022-07-25T23:10:00+00:00,Detroit,San Diego,Andrew Hutchison,Sean Manaea,12,4,135,-160,145,-175,132,-156,146,-174,135,-161,143,-169,135,-155,145,-165,145,-170,140,-165
+260330,2022-07-25T23:10:00+00:00,Boston,Cleveland,Nick Pivetta,Zach Plesac,3,1,-115,-105,-110,-110,-112,-104,-108,-108,-110,-110,-110,-110,-115,-105,-110,-110,-110,-110,-110,-110
+260352,2022-07-26T00:05:00+00:00,Chi. Cubs,Pittsburgh,Adrian Sampson,JT Brubaker,3,2,-145,120,-145,120,-144,122,-146,124,-141,118,-135,115,-145,125,-170,150,-165,140,-150,120
+260331,2022-07-26T00:10:00+00:00,Kansas City,LA Angels,Donald Greinke,Noah Syndergaard,7,0,-110,-110,-115,-105,-112,-104,-128,100,-110,-110,-115,-105,-110,-110,-115,-105,-110,-110,-125,-105
+260350,2022-07-26T00:10:00+00:00,Milwaukee,Colorado,Aaron Ashby,Kyle Freeland,0,2,-190,155,-200,165,-196,164,-205,172,-196,162,-196,162,-192,167,-200,170,-195,165,-205,165
+260333,2022-07-26T01:40:00+00:00,Oakland,Houston,Adam Oller,Jake Odorizzi,7,5,190,-250,165,-200,190,-230,172,-225,180,-222,180,-222,180,-220,180,-220,170,-200,175,-215
+260335,2022-07-26T01:40:00+00:00,Arizona,San Francisco,Merrill Kelly,Jakob Junis,7,0,105,-125,-115,-105,110,-130,-120,102,110,-130,-115,-105,105,-125,-115,-105,100,-120,-120,-110
+260337,2022-07-26T02:10:00+00:00,Seattle,Texas,Chris Flexen,Glenn Otto,4,3,-150,125,-150,125,-152,128,-168,132,-141,118,-154,130,-165,145,-160,140,-150,130,-165,135
+260332,2022-07-26T02:10:00+00:00,LA Dodgers,Washington,Tony Gonsolin,Paolo Espino,1,4,-300,240,-300,250,-310,250,-380,270,-303,240,-333,260,-290,235,-260,215,-260,220,-345,265

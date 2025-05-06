@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+259317,2022-06-12T15:35:00+00:00,Cleveland,Oakland,Cal Quantrill,Cole Irvin,6,3,-165,140,-165,140,-168,142,-184,154,-169,150,-169,150,-160,140,-175,155,-135,115,-195,155
+259323,2022-06-12T17:35:00+00:00,Philadelphia,Arizona,Ranger Suarez,Kyle Nelson,1,13,-225,185,-190,155,-230,190,-196,164,-222,190,-189,170,-225,185,-185,165,-195,165,-195,155
+259324,2022-06-12T17:35:00+00:00,Atlanta,Pittsburgh,Kyle Wright,Jose Quintana,5,3,-250,200,-225,180,-260,215,-240,182,-256,215,-250,210,-250,210,-240,200,-200,170,-235,180
+259327,2022-06-12T17:35:00+00:00,NY Yankees,Chi. Cubs,Jameson Taillon,Keegan Thompson,18,4,-250,200,-225,180,-275,225,-220,184,-263,225,-213,185,-270,220,-210,175,-235,190,-220,170
+259328,2022-06-12T17:35:00+00:00,Washington,Milwaukee,Paolo Espino,Jason Alexander,1,4,105,-130,105,-125,108,-126,102,-120,110,-130,110,-130,110,-130,110,-130,100,-120,110,-130
+259322,2022-06-12T17:40:00+00:00,Detroit,Toronto,Tarik Skubal,Ross Stripling,0,6,125,-150,105,-130,120,-142,108,-126,140,-161,105,-125,135,-155,110,-130,125,-145,105,-135
+259329,2022-06-12T18:10:00+00:00,Minnesota,Tampa Bay,Cole Sands,Jeffrey Springs,0,6,-105,-115,-105,-115,100,-118,102,-120,-105,-115,100,-120,-105,-115,100,-120,-120,100,110,-130
+259326,2022-06-12T18:10:00+00:00,Houston,Miami,Justin Verlander,Edward Cabrera,9,4,-225,180,-250,190,-230,190,-260,215,-213,185,-263,220,-220,180,-250,210,-235,190,-260,210
+259315,2022-06-12T18:10:00+00:00,Kansas City,Baltimore,Brad Keller,Dean Kremer,7,10,-120,100,-135,110,-126,108,-142,120,-130,110,-141,120,-120,100,-140,120,-115,-105,-145,125
+259325,2022-06-12T18:10:00+00:00,Chi. White Sox,Texas,Michael Kopech,Jon Gray,6,8,-165,140,-140,115,-164,138,-148,126,-161,140,-145,125,-150,130,-145,125,-140,120,-145,125
+259321,2022-06-12T18:15:00+00:00,St. Louis,Cincinnati,Dakota Hudson,Graham Ashcraft,6,7,-175,145,-155,125,-180,152,-158,134,-175,155,-161,140,-180,160,-160,140,-160,140,-155,135
+259320,2022-06-12T20:05:00+00:00,San Francisco,LA Dodgers,Carlos Rodon,Julio Urias,2,0,110,-135,125,-150,108,-126,126,-148,105,-125,115,-135,105,-125,130,-150,110,-130,125,-145
+259318,2022-06-12T20:10:00+00:00,San Diego,Colorado,Blake Snell,German Marquez,2,4,-200,165,-185,150,-196,164,-184,154,-179,160,-175,155,-160,140,-185,165,-155,135,-190,160
+259319,2022-06-12T20:10:00+00:00,Seattle,Boston,Robbie Ray,Kutter Crawford,0,2,-145,120,-145,120,-136,116,-148,116,-145,125,-149,130,-145,125,-150,130,-140,120,-155,125
+259316,2022-06-12T23:08:00+00:00,LA Angels,NY Mets,Patrick Sandoval,Taijuan Walker,1,4,-110,-110,-120,100,-110,-106,-132,112,-110,-110,-130,110,-110,-110,-130,110,-110,-110,-125,-105

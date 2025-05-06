@@ -1,0 +1,10 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+299698,2024-08-05T21:15:00+00:00,St. Louis,NY Mets,Andre Pallante,Sean Manaea,0,6,-165,140,-110,-115,-162,136,-120,-106,-169,143,240,-323,-170,145,-110,-110,-175,145,-120,-110
+300832,2024-08-05T22:40:00+00:00,Miami,Cincinnati,Roddery Munoz,Nick Martinez,3,10,115,-135,120,-150,112,-132,122,-144,110,-130,120,-149,110,-130,120,-140,105,-125,120,-142
+300831,2024-08-05T22:40:00+00:00,Cleveland,Arizona,Logan Allen,Zac Gallen,6,7,105,-125,115,-145,112,-132,100,-118,105,-125,115,-145,105,-125,100,-120,105,-125,-102,-118
+300830,2024-08-05T22:45:00+00:00,Washington,San Francisco,Patrick Corbin,Logan Webb,1,4,150,-185,145,-185,164,-196,142,-168,150,-179,155,-189,160,-190,140,-165,150,-180,140,-166
+300834,2024-08-06T00:05:00+00:00,Chi. Cubs,Minnesota,Kyle Hendricks,David Festa,0,3,100,-120,-105,-120,100,-118,104,-122,105,-125,100,-130,100,-120,-105,-115,100,-120,100,-120
+300833,2024-08-06T00:05:00+00:00,Texas,Houston,Andrew Heaney,Hunter Brown,4,3,100,-120,-115,-110,108,-126,-113,-113,105,-125,-115,-115,105,-125,-110,-110,105,-125,-115,-115
+300829,2024-08-06T00:10:00+00:00,Kansas City,Boston,Brady Singer,James Paxton,5,9,-150,125,-140,110,-138,118,-130,110,-145,122,-149,120,-150,125,-135,115,-162,136,-130,110
+300828,2024-08-06T01:40:00+00:00,Athletics,Chi. White Sox,JP Sears,Ky Bush,5,1,-165,140,-190,150,-172,144,-200,168,-169,143,-189,155,-170,145,-210,175,-180,150,-205,170
+300827,2024-08-06T02:10:00+00:00,LA Dodgers,Philadelphia,Tyler Glasnow,Aaron Nola,5,3,-140,115,-155,120,-136,116,-134,116,-135,115,-10000,2200,-135,115,-140,120,-135,114,-142,120

@@ -1,0 +1,14 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+264830,2022-07-07T18:10:00+00:00,Cincinnati,Pittsburgh,Michael Minor,Roansy Contreras,2,4,-115,-105,-110,-110,-108,-108,-108,-108,-115,-105,-110,-110,-110,-110,-110,-110,-135,115,-115,-105
+259939,2022-07-07T18:10:00+00:00,Houston,Kansas City,Justin Verlander,Kris Bubic,5,2,-350,275,-350,280,-350,280,-335,270,-370,285,-357,275,-350,275,-350,275,-295,245,-325,270
+259942,2022-07-07T20:05:00+00:00,Philadelphia,Washington,Bailey Falter,Joan Adon,5,3,-190,155,-185,150,-184,154,-172,144,-179,150,-179,150,-185,165,-170,150,-150,130,-180,155
+259937,2022-07-07T23:05:00+00:00,Baltimore,LA Angels,Jordan Lyles,Chase Gockel,4,1,-115,-105,-105,-115,-118,100,-104,-122,-115,-105,-105,-115,-115,-105,-105,-115,110,-130,-105,-115
+265243,2022-07-07T23:10:00+00:00,Cincinnati,Pittsburgh,Jeff Hoffman,Bryse Wilson,5,1,-135,115,-125,105,-120,102,-132,112,-125,105,-125,105,-130,110,-125,105,-130,110,-135,105
+259946,2022-07-07T23:10:00+00:00,Boston,NY Yankees,Josh Winckowski,Gerrit Cole,5,6,135,-160,135,-160,140,-166,134,-158,140,-164,140,-164,140,-160,140,-160,140,-165,130,-160
+259955,2022-07-07T23:10:00+00:00,NY Mets,Miami,Trevor Williams,Daniel Castano,10,0,-175,145,-175,145,-172,144,-172,144,-169,143,-179,150,-170,150,-160,140,-180,155,-160,130
+259943,2022-07-07T23:20:00+00:00,Atlanta,St. Louis,Spencer Strider,Matthew Liberatore,2,3,-200,170,-250,200,-210,176,-260,190,-204,170,-250,205,-200,170,-250,210,-195,165,-245,205
+259944,2022-07-08T00:10:00+00:00,Chi. White Sox,Detroit,Dylan Cease,Beau Brieske,1,2,-250,200,-250,200,-250,205,-270,200,-238,196,-263,210,-250,210,-165,145,-260,220,-255,215
+264831,2022-07-08T01:40:00+00:00,San Diego,San Francisco,Joe Musgrove,Logan Webb,2,1,-135,110,-145,120,-132,112,-152,128,-135,115,-145,122,-130,110,-145,125,-135,115,-150,120
+259938,2022-07-08T01:40:00+00:00,Arizona,Colorado,Dallas Keuchel,Austin Gomber,3,4,110,-135,-105,-115,122,-144,-106,-120,118,-141,-105,-115,120,-140,-160,140,115,-135,-105,-125
+259941,2022-07-08T02:10:00+00:00,Seattle,Toronto,Marco Gonzales,Anthony Banda,8,3,120,-145,-105,-115,116,-136,-104,-112,122,-145,-105,-115,125,-145,-110,-110,115,-135,-110,-120
+259940,2022-07-08T02:10:00+00:00,LA Dodgers,Chi. Cubs,Tony Gonsolin,Mark Leiter Jr.,5,3,-275,225,-275,225,-270,220,-295,240,-286,228,-278,222,-280,230,-235,195,-275,230,-280,220

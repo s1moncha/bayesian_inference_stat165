@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300374,2024-06-28T22:20:00+00:00,Philadelphia,Miami,Cristopher Sanchez,Kyle Tyler,2,0,-275,220,-225,180,-310,250,-220,184,-286,228,-222,180,-260,210,-225,185,-265,215,-238,180
+300371,2024-06-28T22:50:00+00:00,Tampa Bay,Washington,Zach Eflin,Mitchell Parker,3,1,-150,125,-175,145,-146,124,-174,146,-154,130,-164,140,-155,130,-190,160,-155,130,-195,150
+300372,2024-06-28T23:05:00+00:00,Baltimore,Texas,Albert Suarez,Max Scherzer,2,1,-140,115,-120,100,-142,120,-118,100,-135,115,-120,100,-135,115,-120,100,-135,114,-120,100
+300375,2024-06-28T23:07:00+00:00,Toronto,NY Yankees,Yusei Kikuchi,Marcus Stroman,5,16,105,-125,-110,-110,108,-126,-106,-110,100,-120,-110,-110,100,-120,-115,-105,100,-120,-115,-105
+300369,2024-06-28T23:10:00+00:00,NY Mets,Houston,Jose Quintana,Ronel Blanco,7,2,-105,-115,-110,-110,-104,-112,126,-160,100,-120,-115,-105,100,-120,-115,-105,102,-122,154,-200
+300365,2024-06-28T23:10:00+00:00,Chi. White Sox,Colorado,Drew Thorpe,Dakota Hudson,5,3,-115,-105,-135,115,-110,-106,-140,110,-115,-105,-135,115,-120,100,-150,125,-120,100,-135,114
+300370,2024-06-28T23:10:00+00:00,Boston,San Diego,Nick Pivetta,Randy Vasquez,2,9,-155,125,-150,125,-154,130,-158,134,-154,130,-161,135,-155,130,-160,135,-155,130,-162,136
+300373,2024-06-28T23:20:00+00:00,Atlanta,Pittsburgh,Charlie Morton,Martin Perez,6,1,-185,150,-200,165,-166,140,-260,192,-179,150,-208,175,-180,150,-230,190,-180,150,-250,190
+300376,2024-06-29T00:10:00+00:00,Milwaukee,Chi. Cubs,Colin Rea,Jameson Taillon,4,2,-135,110,-135,115,-142,120,-134,114,-135,115,-141,118,-135,115,-130,110,-142,120,-135,105
+300364,2024-06-29T00:10:00+00:00,Kansas City,Cleveland,Alec Marsh,Triston McKenzie,10,3,100,-120,-105,-115,100,-118,-108,-108,105,-125,-110,-110,105,-125,-115,-105,-102,-118,-115,-115
+300377,2024-06-29T00:15:00+00:00,St. Louis,Cincinnati,Andre Pallante,Frankie Montas Jr.,1,0,-130,105,-130,110,-118,100,-126,108,-130,110,-130,110,-130,110,-130,110,-130,110,-140,110
+300378,2024-06-29T01:38:00+00:00,LA Angels,Detroit,Zach Plesac,Kenta Maeda,5,2,100,-120,100,-120,-102,-116,102,-120,-105,-115,100,-120,100,-120,110,-130,-108,-112,105,-125
+300368,2024-06-29T01:40:00+00:00,Seattle,Minnesota,Logan Gilbert,Bailey Ober,3,2,-130,105,-125,105,-130,110,-130,110,-130,110,-125,105,-130,110,-130,110,-130,110,-130,110
+300366,2024-06-29T01:40:00+00:00,Arizona,Athletics,Slade Cecconi,JP Sears,4,9,-150,125,-175,145,-152,128,-174,146,-145,122,-179,150,-160,135,-185,155,-162,136,-188,145
+300367,2024-06-29T02:15:00+00:00,San Francisco,LA Dodgers,Logan Webb,Landon Knack,5,3,-110,-110,-125,105,100,-118,-138,110,-105,-115,-115,-105,-110,-110,-135,115,-102,-118,-125,-105

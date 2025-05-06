@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+260467,2022-07-30T17:10:00+00:00,Tampa Bay,Cleveland,Corey Kluber,Zach Plesac,6,4,-125,105,-145,120,-126,108,-152,128,-125,105,-145,122,-125,105,-140,120,-130,110,-150,120
+260474,2022-07-30T18:05:00+00:00,NY Yankees,Kansas City,Nestor Cortes,Jonathan Heasley,8,2,-275,220,-300,230,-290,235,-310,250,-294,235,-323,250,-270,220,-315,255,-260,220,-290,230
+260469,2022-07-30T19:07:00+00:00,Toronto,Detroit,Ross Stripling,Andrew Hutchison,5,3,-275,220,-275,225,-275,225,-370,260,-270,215,-294,235,-275,225,-290,235,-275,230,-315,245
+260475,2022-07-30T20:10:00+00:00,Boston,Milwaukee,Nick Pivetta,Eric Lauer,4,9,-120,100,-105,-115,-118,100,130,-166,-120,100,-105,-115,-120,100,-105,-115,-120,100,140,-175
+260490,2022-07-30T22:10:00+00:00,Miami,NY Mets,Nicholas Neidert,Carlos Carrasco,0,4,150,-185,165,-200,158,-188,166,-198,158,-189,162,-196,165,-185,170,-200,155,-180,165,-205
+260462,2022-07-30T22:40:00+00:00,Cincinnati,Baltimore,Tyler Mahle,Dean Kremer,8,2,-115,-105,-110,-110,-120,102,-116,-102,-115,-105,-110,-110,-115,-105,-115,-105,-125,105,-115,-115
+260464,2022-07-30T23:10:00+00:00,Houston,Seattle,Framber Valdez,Chris Flexen,4,5,-200,165,-190,155,-198,166,-205,172,-196,162,-196,162,-192,167,-140,120,-200,170,-195,165
+260466,2022-07-30T23:15:00+00:00,Washington,St. Louis,Paolo Espino,Dakota Hudson,7,6,125,-150,110,-135,138,-164,116,-136,130,-154,122,-145,130,-150,125,-145,150,-175,110,-140
+260470,2022-07-30T23:15:00+00:00,San Diego,Minnesota,Joe Musgrove,Sonny Gray,4,7,-135,110,-135,110,-142,120,-134,114,-135,115,-135,115,-135,115,-135,115,-140,120,-140,110
+260471,2022-07-30T23:15:00+00:00,Pittsburgh,Philadelphia,Mitch Keller,Ranger Suarez,1,2,125,-155,125,-155,138,-164,128,-164,143,-169,130,-154,145,-165,160,-180,135,-155,130,-160
+260473,2022-07-30T23:15:00+00:00,Chi. White Sox,Oakland,Johnny Cueto,Paul Blackburn,3,2,-175,145,-175,145,-180,152,-168,142,-189,158,-169,143,-180,160,-280,230,-180,155,-160,130
+260472,2022-07-30T23:20:00+00:00,Atlanta,Arizona,Ian Anderson,Corbin Martin,6,2,-225,185,-225,180,-215,180,-220,184,-233,192,-233,192,-235,195,-235,195,-250,210,-220,180
+260463,2022-07-31T00:10:00+00:00,Colorado,LA Dodgers,Kyle Freeland,Clayton Kershaw,5,3,185,-225,185,-225,194,-235,190,-250,192,-233,192,-233,190,-230,155,-175,205,-245,190,-235
+260465,2022-07-31T01:05:00+00:00,San Francisco,Chi. Cubs,Jakob Junis,Todd Smyly,5,4,-135,110,-135,110,-130,110,-136,116,-130,110,-141,118,-130,110,-135,115,-130,110,-135,105
+260468,2022-07-31T01:07:00+00:00,LA Angels,Texas,Chase Gockel,Glenn Otto,9,7,-115,-105,-125,105,-118,100,-126,108,-120,100,-120,100,-120,100,-125,105,-110,-110,-125,105

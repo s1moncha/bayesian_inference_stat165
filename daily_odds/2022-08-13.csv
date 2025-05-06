@@ -1,0 +1,17 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+260860,2022-08-13T17:10:00+00:00,Miami,Atlanta,Jesus Luzardo,Kyle Muller,2,5,100,-120,110,-135,102,-120,118,-138,100,-120,115,-135,100,-120,120,-140,105,-125,110,-140
+260853,2022-08-13T19:07:00+00:00,Toronto,Cleveland,Mitch White,Triston McKenzie,2,1,-130,105,-120,100,-126,108,-116,-102,-125,105,-110,-110,-125,105,-120,100,-125,105,-115,-105
+260851,2022-08-13T20:10:00+00:00,Tampa Bay,Baltimore,Shane McClanahan,DL Hall,8,2,-175,145,-200,165,-184,154,-215,166,-179,150,-189,158,-175,155,-210,175,-180,155,-205,165
+260845,2022-08-13T22:40:00+00:00,Cincinnati,Chi. Cubs,Graham Ashcraft,Adrian Sampson,2,7,-120,100,-125,105,-120,102,-122,104,-125,105,-125,105,-125,105,120,-140,100,-120,-135,105
+260849,2022-08-13T23:05:00+00:00,Washington,San Diego,Anibal Sanchez,Yu Darvish,4,3,230,-275,260,-350,245,-300,245,-340,240,-303,260,-333,235,-290,270,-340,245,-295,245,-315
+264842,2022-08-13T23:10:00+00:00,Miami,Atlanta,Tommy Nance,Ian Anderson,2,6,130,-160,155,-190,158,-188,158,-188,140,-164,150,-179,140,-160,165,-185,145,-170,155,-180
+260848,2022-08-13T23:10:00+00:00,Houston,Oakland,Lance McCullers Jr.,Zach Logue,8,0,-275,220,-300,240,-290,235,-295,240,-286,228,-294,235,-280,230,-270,220,-275,230,-275,230
+260855,2022-08-13T23:10:00+00:00,NY Mets,Philadelphia,Jacob deGrom,Aaron Nola,1,0,-190,155,-250,190,-196,164,-260,196,-189,158,-208,175,-185,165,-135,115,-175,150,-230,195
+260856,2022-08-13T23:10:00+00:00,Chi. White Sox,Detroit,Lucas Giolito,Matt Manning,6,4,-200,170,-200,165,-220,184,-184,154,-222,180,-196,162,-220,180,-200,170,-195,165,-190,160
+260847,2022-08-13T23:10:00+00:00,Kansas City,LA Dodgers,Brad Keller,Andrew Heaney,3,13,200,-250,240,-300,190,-230,235,-290,205,-250,240,-303,195,-235,195,-235,175,-205,250,-300
+260858,2022-08-13T23:15:00+00:00,St. Louis,Milwaukee,Adam Wainwright,Corbin Burnes,2,3,110,-135,115,-140,-112,-104,130,-154,-105,-115,122,-145,110,-130,130,-150,-110,-110,120,-140
+260852,2022-08-13T23:15:00+00:00,Texas,Seattle,Dane Dunning,Marco Gonzales,7,4,-110,-110,-115,-105,104,-122,-120,102,100,-120,-120,100,-110,-110,-115,-105,100,-120,-120,-110
+260857,2022-08-13T23:15:00+00:00,Boston,NY Yankees,Kutter Crawford,Frankie Montas Jr.,2,3,125,-155,125,-155,124,-146,126,-148,122,-145,122,-145,125,-145,125,-145,125,-145,120,-150
+260846,2022-08-14T00:10:00+00:00,Colorado,Arizona,Jose Urena,Zac Gallen,0,6,120,-145,125,-150,112,-132,180,-235,110,-130,130,-154,125,-145,135,-155,120,-140,165,-205
+260850,2022-08-14T01:05:00+00:00,San Francisco,Pittsburgh,Logan Webb,Tyler Beede,2,0,-250,200,-250,200,-250,205,-260,215,-238,196,-250,205,-240,200,-260,215,-240,200,-245,205
+260854,2022-08-14T01:07:00+00:00,LA Angels,Minnesota,Reid Detmers,Dylan Bundy,5,3,-105,-115,-110,-110,100,-118,-120,-106,-105,-115,-105,-115,-105,-115,110,-130,110,-130,-120,-110

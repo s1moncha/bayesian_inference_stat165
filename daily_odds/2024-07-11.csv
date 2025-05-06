@@ -1,0 +1,13 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300546,2024-07-11T17:10:00+00:00,Detroit,Cleveland,Jack Flaherty,Spencer Howard,10,1,-145,120,-130,110,-136,116,-120,102,-141,118,-120,100,-140,120,-125,105,-142,120,-120,100
+300547,2024-07-11T17:10:00+00:00,Cincinnati,Colorado,Hunter Greene,Austin Gomber,8,1,-200,165,-200,165,-210,176,-200,168,-204,170,-208,175,-200,165,-205,170,-198,164,-205,170
+300540,2024-07-11T17:10:00+00:00,NY Mets,Washington,David Peterson,MacKenzie Gore,7,0,-145,120,-150,125,-130,110,-144,122,-141,118,-154,130,-140,120,-150,125,-142,120,-148,124
+300548,2024-07-11T18:10:00+00:00,Milwaukee,Pittsburgh,Aaron Civale,Paul Skenes,0,1,115,-140,105,-125,106,-124,102,-120,115,-135,100,-120,115,-135,100,-120,114,-135,102,-122
+300544,2024-07-11T19:45:00+00:00,San Francisco,Toronto,Jordan Hicks,Kevin Gausman,3,5,-115,-105,-130,110,-112,-104,-124,106,-110,-110,-130,110,-110,-110,-125,105,-112,-108,-130,110
+300549,2024-07-11T22:05:00+00:00,Philadelphia,LA Dodgers,Aaron Nola,Anthony Banda,5,1,-150,125,-155,125,-162,136,-158,134,-154,130,-154,130,-150,125,-155,130,-155,130,-155,130
+300539,2024-07-11T22:35:00+00:00,Baltimore,Chi. Cubs,Albert Suarez,Justin Steele,0,8,-135,110,-135,115,-132,112,-102,-124,-130,110,-145,122,-130,110,-140,120,-130,110,-115,-115
+300542,2024-07-11T22:50:00+00:00,Tampa Bay,NY Yankees,Shane Baz,Nestor Cortes,5,4,100,-120,-105,-115,114,-134,100,-118,100,-120,100,-120,100,-120,100,-120,102,-122,-102,-118
+300541,2024-07-11T23:10:00+00:00,Boston,Athletics,Tanner Houck,Luis Medina,7,0,-225,180,-250,195,-245,200,-230,190,-208,175,-250,205,-210,175,-230,190,-205,170,-238,195
+300529,2024-07-12T00:10:00+00:00,Houston,Miami,Framber Valdez,Bryan Hoeing,6,3,-275,220,-225,180,-290,235,-240,198,-270,215,-238,196,-260,210,-230,190,-270,220,-230,190
+300550,2024-07-12T01:38:00+00:00,LA Angels,Seattle,Jack Kochanowicz,Luis Castillo,0,11,135,-160,140,-165,130,-154,138,-164,140,-164,143,-169,140,-165,140,-165,140,-166,140,-166
+300531,2024-07-12T01:40:00+00:00,Arizona,Atlanta,Slade Cecconi,Charlie Morton,1,0,105,-125,-110,-110,116,-136,-148,116,115,-135,-115,-105,120,-140,-115,-105,114,-135,-125,-105

@@ -1,0 +1,11 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+279118,2023-07-31T22:40:00+00:00,Miami,Philadelphia,Edward Cabrera,Taijuan Walker,2,4,-105,-115,-115,-105,100,-118,-116,-102,-105,-115,-115,-105,-105,-115,-110,-110,-105,-115,-105,-125
+279119,2023-07-31T23:05:00+00:00,Washington,Milwaukee,Jake Irvin,Corbin Burnes,5,3,165,-200,170,-210,164,-196,180,-215,162,-196,175,-208,170,-200,175,-210,170,-200,170,-205
+279115,2023-07-31T23:05:00+00:00,NY Yankees,Tampa Bay,Jhony Brito,Tyler Glasnow,1,5,110,-135,135,-160,112,-132,136,-162,110,-130,130,-154,110,-130,150,-170,110,-130,130,-155
+279116,2023-07-31T23:07:00+00:00,Toronto,Baltimore,Chris Bassitt,Kyle Gibson,2,4,-145,120,-145,120,-144,122,-142,120,-141,118,-141,118,-140,120,-140,120,-115,-105,-135,114
+279117,2023-07-31T23:20:00+00:00,Atlanta,LA Angels,Charlie Morton,Chase Gockel,1,4,-250,190,-225,180,-250,205,-225,188,-250,205,-222,180,-240,200,-225,185,-245,205,-250,190
+279113,2023-08-01T00:05:00+00:00,Chi. Cubs,Cincinnati,Marcus Stroman,Andrew Abbott,5,6,-125,105,-125,105,-120,102,-126,108,-125,105,-130,110,-125,105,-130,110,-145,125,-130,110
+279111,2023-08-01T00:10:00+00:00,Houston,Cleveland,J.P. France,Noah Syndergaard,7,3,-190,155,-175,145,-180,152,-184,154,-196,162,-169,143,-185,165,-170,150,-140,120,-180,150
+279120,2023-08-01T00:40:00+00:00,Colorado,San Diego,Austin Gomber,Seth Lugo,4,3,170,-210,165,-200,176,-210,184,-220,170,-204,175,-208,170,-200,175,-210,195,-230,180,-218
+279112,2023-08-01T01:40:00+00:00,Seattle,Boston,George Kirby,Nick Pivetta,6,2,-140,115,-125,105,-136,116,-126,108,-135,115,-125,105,-135,115,-125,105,-135,115,-125,105
+279114,2023-08-01T01:45:00+00:00,San Francisco,Arizona,Jakob Junis,Ryne Nelson,3,4,-155,130,-125,105,-154,130,-136,116,-161,135,-130,110,-155,135,-130,110,-155,130,-135,114

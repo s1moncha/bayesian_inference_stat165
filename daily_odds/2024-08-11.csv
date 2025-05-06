@@ -1,0 +1,14 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300906,2024-08-11T15:35:00+00:00,Washington,LA Angels,MacKenzie Gore,Jack Kochanowicz,4,6,-145,120,-155,130,-142,120,-158,134,-141,118,-161,135,-140,120,-160,135,-142,120,-162,136
+300905,2024-08-11T17:35:00+00:00,Boston,Houston,James Paxton,Hunter Brown,2,10,110,-135,110,-130,118,-138,120,-142,115,-135,122,-145,110,-130,125,-150,114,-135,124,-148
+300908,2024-08-11T17:35:00+00:00,NY Yankees,Texas,Marcus Stroman,Andrew Heaney,8,7,-150,125,-145,120,-134,116,-144,122,-141,118,-149,126,-140,120,-150,125,-142,120,-148,124
+300914,2024-08-11T17:37:00+00:00,Toronto,Athletics,Chris Bassitt,JP Sears,4,8,-155,125,-155,130,-156,132,-156,132,-154,130,-154,130,-150,125,-155,130,-155,130,-155,130
+300907,2024-08-11T17:40:00+00:00,Tampa Bay,Baltimore,Jeffrey Springs,Albert Suarez,2,1,-110,-110,-115,-105,110,-130,-116,-102,-110,-110,-115,-105,100,-120,-120,100,-110,-110,-118,-102
+300915,2024-08-11T17:40:00+00:00,Miami,San Diego,Max Meyer,Dylan Cease,7,6,165,-200,170,-210,180,-215,166,-198,170,-204,175,-208,170,-205,165,-200,164,-198,170,-205
+300916,2024-08-11T18:10:00+00:00,Milwaukee,Cincinnati,DL Hall,Nick Lodolo,3,4,-125,105,-130,110,-130,110,-126,108,-125,105,-130,110,-130,110,-130,110,-120,100,-130,110
+300909,2024-08-11T18:10:00+00:00,Minnesota,Cleveland,David Festa,Tanner Bibee,3,5,100,-120,-120,100,100,-118,-116,-102,-105,-115,-120,100,100,-120,-120,100,-105,-115,-120,100
+300917,2024-08-11T19:10:00+00:00,Colorado,Atlanta,Kyle Freeland,Spencer Schwellenbach,9,8,155,-190,145,-175,154,-184,146,-174,150,-179,148,-175,145,-170,145,-170,154,-185,145,-175
+300912,2024-08-11T20:05:00+00:00,San Francisco,Detroit,Hayden Birdsong,Keider Montero,4,5,-185,150,-185,150,-172,144,-180,152,-189,158,-189,158,-190,160,-185,155,-192,160,-192,160
+300911,2024-08-11T20:10:00+00:00,Arizona,Philadelphia,Merrill Kelly,Cristopher Sanchez,12,5,-105,-115,110,-130,100,-118,108,-126,100,-120,110,-130,100,-120,110,-130,-102,-118,110,-130
+300910,2024-08-11T20:10:00+00:00,LA Dodgers,Pittsburgh,Tyler Glasnow,Bailey Falter,6,5,-275,225,-275,220,-290,235,-270,220,-270,215,-294,235,-280,230,-275,225,-258,210,-270,220
+300913,2024-08-11T23:10:00+00:00,Seattle,NY Mets,Luis Castillo,Luis Severino,12,1,-135,110,-130,110,-118,100,-120,102,-130,110,-120,100,-130,110,-125,105,-130,110,-125,105

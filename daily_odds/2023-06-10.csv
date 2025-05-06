@@ -1,0 +1,16 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+278486,2023-06-10T17:10:00+00:00,Detroit,Arizona,Matthew Boyd,Ryne Nelson,0,5,110,-135,105,-125,108,-126,108,-126,110,-130,105,-125,110,-130,105,-125,110,-130,-105,-125
+278487,2023-06-10T18:10:00+00:00,Chi. White Sox,Miami,Michael Kopech,Sandy Alcantara,1,5,110,-135,-115,-105,116,-136,-116,-102,110,-130,-120,100,115,-135,-120,100,100,-120,-140,110
+278480,2023-06-10T18:15:00+00:00,St. Louis,Cincinnati,Miles Mikolas,Andrew Abbott,4,8,-175,145,-175,145,-164,138,-172,144,-169,143,-179,150,-165,145,-175,155,-155,135,-175,150
+278488,2023-06-10T19:07:00+00:00,Toronto,Minnesota,Trevor Richards,Joe Ryan,4,9,-120,100,-125,105,-106,-110,-130,110,-105,-115,-135,115,-105,-115,-135,115,-120,100,-130,110
+278479,2023-06-10T19:10:00+00:00,Colorado,San Diego,Kyle Freeland,Ryan Weathers,2,3,115,-140,120,-140,118,-138,120,-142,115,-135,118,-141,115,-135,120,-140,160,-190,120,-150
+278490,2023-06-10T20:05:00+00:00,Philadelphia,LA Dodgers,Aaron Nola,Bobby Miller,0,9,-110,-110,-105,-115,-108,-108,-110,-116,-110,-110,-105,-115,-110,-110,100,-120,-115,-105,-135,105
+278489,2023-06-10T20:05:00+00:00,Baltimore,Kansas City,Cole Irvin,Brady Singer,6,1,-165,140,-145,120,-168,142,-144,122,-164,140,-145,122,-165,145,-145,125,-165,140,-150,120
+278491,2023-06-10T20:05:00+00:00,Pittsburgh,NY Mets,Johan Oviedo,Kodai Senga,1,5,115,-140,100,-120,116,-136,104,-122,115,-135,105,-125,115,-135,100,-120,140,-165,130,-160
+278484,2023-06-10T20:10:00+00:00,Atlanta,Washington,Jared Shuster,MacKenzie Gore,6,4,-190,155,-190,155,-200,168,-184,154,-189,158,-189,158,-200,170,-185,165,-170,145,-190,155
+278485,2023-06-10T20:10:00+00:00,Tampa Bay,Texas,Taj Bradley,Nathan Eovaldi,4,8,-110,-110,-115,-105,-102,-116,-116,-102,-110,-110,-115,-105,-105,-115,-110,-110,-125,105,-120,-110
+278492,2023-06-10T20:10:00+00:00,Milwaukee,Oakland,Julio Teheran,Paul Blackburn,1,2,-200,165,-165,140,-196,164,-172,144,-196,162,-169,143,-185,165,-170,150,-155,135,-175,140
+278483,2023-06-10T22:10:00+00:00,Cleveland,Houston,Triston McKenzie,J.P. France,4,6,-135,110,-135,110,-132,112,-136,116,-130,110,-145,122,-130,110,-140,120,-135,115,-135,115
+278481,2023-06-10T23:35:00+00:00,San Francisco,Chi. Cubs,John Brebbia,Kyle Hendricks,0,4,-130,110,-165,140,-156,132,-174,146,-135,115,-179,150,-130,110,-175,155,-130,110,-180,145
+278478,2023-06-10T23:35:00+00:00,NY Yankees,Boston,Domingo German,Tanner Houck,3,1,-125,105,-125,105,-124,106,-130,110,-120,100,-130,110,-120,100,-130,110,100,-120,-190,155
+278482,2023-06-11T02:07:00+00:00,LA Angels,Seattle,Patrick Sandoval,Bryan Woo,2,6,-150,125,-140,115,-154,130,-142,120,-154,130,-149,126,-150,130,-150,130,-130,110,-145,125

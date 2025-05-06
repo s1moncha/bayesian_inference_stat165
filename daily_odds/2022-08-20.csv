@@ -1,0 +1,17 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+265240,2022-08-20T17:05:00+00:00,Philadelphia,NY Mets,Zack Wheeler,Trevor Williams,2,8,-165,140,-150,125,-162,136,-130,104,-164,140,-154,130,-160,140,-155,135,-145,125,-140,110
+261052,2022-08-20T17:05:00+00:00,NY Yankees,Toronto,Gerrit Cole,Mitch White,2,5,-185,150,-190,155,-184,154,-215,166,-169,143,-196,162,-192,167,-185,165,-165,140,-190,155
+261041,2022-08-20T17:10:00+00:00,Detroit,LA Angels,Tyler Alexander,Reid Detmers,4,3,120,-145,140,-165,126,-148,142,-168,110,-130,140,-164,125,-145,145,-165,110,-130,130,-160
+261054,2022-08-20T18:20:00+00:00,Chi. Cubs,Milwaukee,Marcus Stroman,Freddy Peralta,6,5,110,-135,105,-125,124,-146,108,-126,122,-145,105,-125,120,-140,105,-125,125,-145,105,-125
+261040,2022-08-20T20:05:00+00:00,Baltimore,Boston,Kyle Bradish,Michael Wacha,3,4,-105,-115,110,-130,102,-120,110,-130,100,-120,105,-125,100,-120,110,-130,-115,-105,100,-130
+261047,2022-08-20T20:10:00+00:00,Tampa Bay,Kansas City,Drew Rasmussen,Kris Bubic,5,2,-200,170,-200,165,-225,188,-176,138,-222,180,-204,170,-235,195,-200,170,-210,180,-205,165
+261042,2022-08-20T23:05:00+00:00,Pittsburgh,Cincinnati,Tyler Beede,Justin Dunn,1,10,-135,110,-145,120,-112,-104,-186,144,-115,-105,-145,122,-115,-105,-150,130,-120,100,-185,150
+261056,2022-08-20T23:10:00+00:00,Minnesota,Texas,Christopher Archer,Glenn Otto,3,4,-165,135,-175,145,-158,134,-178,150,-175,148,-189,158,-165,145,-175,155,-155,135,-175,140
+261044,2022-08-20T23:15:00+00:00,Oakland,Seattle,James Kaprielian,Logan Gilbert,4,3,155,-190,165,-200,152,-180,168,-200,158,-189,158,-189,155,-175,170,-200,155,-180,155,-190
+261048,2022-08-20T23:15:00+00:00,Philadelphia,NY Mets,Bailey Falter,David Peterson,4,1,100,-120,110,-130,106,-124,-102,-124,100,-120,110,-130,105,-125,115,-135,100,-120,-105,-125
+261049,2022-08-20T23:15:00+00:00,Atlanta,Houston,Spencer Strider,Cristian Javier,5,4,-145,120,-160,135,-146,124,-172,144,-135,115,-164,140,-145,125,-160,140,-140,120,-165,135
+261045,2022-08-21T00:10:00+00:00,Colorado,San Francisco,Ryan Feltner,Alex Cobb,4,3,150,-185,145,-175,142,-168,156,-205,143,-169,150,-179,145,-165,155,-175,160,-190,135,-165
+261046,2022-08-21T00:10:00+00:00,Arizona,St. Louis,Madison Bumgarner,Dakota Hudson,7,16,115,-140,125,-150,118,-138,136,-162,118,-141,130,-154,115,-135,140,-160,135,-155,130,-160
+261043,2022-08-21T00:40:00+00:00,San Diego,Washington,Joe Musgrove,Josiah Gray,2,1,-350,260,-300,240,-330,265,-370,260,-333,260,-323,250,-330,265,-280,230,-390,320,-350,270
+261050,2022-08-21T01:10:00+00:00,Cleveland,Chi. White Sox,Shane Bieber,Johnny Cueto,0,2,-165,140,-185,150,-154,130,-174,146,-169,143,-189,158,-160,140,110,-130,-145,125,-170,145
+261051,2022-08-21T01:10:00+00:00,LA Dodgers,Miami,Dustin May,Bryan Hoeing,7,0,-275,220,-350,260,-290,235,-360,250,-270,215,-286,228,-270,220,-350,275,-260,220,-280,220

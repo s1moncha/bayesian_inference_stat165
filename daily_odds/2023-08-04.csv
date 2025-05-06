@@ -1,0 +1,15 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+279167,2023-08-04T18:20:00+00:00,Chi. Cubs,Atlanta,Kyle Hendricks,Max Fried,0,8,140,-165,150,-185,144,-172,152,-180,150,-179,150,-179,160,-180,150,-170,170,-205,150,-180
+279168,2023-08-04T22:40:00+00:00,Cincinnati,Washington,Graham Ashcraft,Patrick Corbin,3,6,145,-175,-190,155,-196,164,-198,166,-196,162,-196,162,-180,160,-185,165,-166,140,-180,150
+279171,2023-08-04T22:40:00+00:00,Detroit,Tampa Bay,Reese Olson,Zack Littell,0,8,115,-140,120,-145,122,-144,126,-148,118,-141,126,-149,115,-135,125,-145,114,-135,120,-142
+279169,2023-08-04T23:05:00+00:00,Baltimore,NY Mets,Dean Kremer,David Peterson,10,3,-160,135,-150,125,-146,124,-148,126,-169,143,-161,135,-150,130,-155,135,-135,114,-150,120
+279172,2023-08-04T23:05:00+00:00,Philadelphia,Kansas City,Aaron Nola,Jordan Lyles,5,7,-250,195,-250,200,-250,205,-260,215,-250,205,-263,210,-230,190,-250,210,-245,200,-270,200
+279170,2023-08-04T23:05:00+00:00,NY Yankees,Houston,Luis Severino,Hunter Brown,3,7,120,-145,145,-175,110,-130,154,-184,122,-145,150,-179,125,-145,150,-170,120,-142,135,-175
+279164,2023-08-04T23:10:00+00:00,Cleveland,Chi. White Sox,Logan Allen,Mike Clevinger,4,2,-160,135,-165,135,-168,142,-164,138,-169,143,-164,140,-160,140,-155,135,-180,150,-166,130
+279166,2023-08-04T23:10:00+00:00,Boston,Toronto,James Paxton,Alek Manoah,3,7,-150,125,-160,135,-164,138,-166,140,-154,130,-164,140,-150,130,-160,140,-148,124,-175,145
+279163,2023-08-05T00:05:00+00:00,Texas,Miami,Jordan Montgomery,Jesus Luzardo,6,2,-140,115,-135,115,-164,138,-142,120,-145,122,-135,115,-145,125,-135,115,-125,105,-160,124
+279174,2023-08-05T00:10:00+00:00,Milwaukee,Pittsburgh,Colin Rea,Quinn Priester,4,8,-155,125,-175,145,-174,146,-180,152,-164,140,-169,143,-165,145,-180,160,-130,110,-190,145
+279173,2023-08-05T00:10:00+00:00,Minnesota,Arizona,Bailey Ober,Merrill Kelly,3,2,-125,105,-125,105,-136,116,-116,-102,-135,115,-130,110,-135,115,-125,105,-130,110,-135,105
+279162,2023-08-05T00:15:00+00:00,St. Louis,Colorado,Adam Wainwright,Chris Flexen,4,9,-165,140,-190,160,-190,160,-196,164,-169,143,-189,158,-170,150,-185,165,-175,145,-192,160
+279165,2023-08-05T01:38:00+00:00,LA Angels,Seattle,Reid Detmers,Luis Castillo,7,9,-105,-115,-105,-115,104,-122,-102,-116,100,-120,-110,-110,100,-120,100,-120,-125,105,-105,-115
+279175,2023-08-05T01:40:00+00:00,San Diego,LA Dodgers,Yu Darvish,Bobby Miller,5,10,-115,-105,-125,105,-112,-104,-130,110,-115,-105,-130,110,-130,110,-130,110,-130,110,-130,110

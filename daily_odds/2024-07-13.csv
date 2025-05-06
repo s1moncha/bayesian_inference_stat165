@@ -1,0 +1,17 @@
+gameId,startDate,homeTeam,awayTeam,homePitcher,awayPitcher,homeScore,awayScore,betmgm_opening_homeOdds,betmgm_opening_awayOdds,betmgm_current_homeOdds,betmgm_current_awayOdds,fanduel_opening_homeOdds,fanduel_opening_awayOdds,fanduel_current_homeOdds,fanduel_current_awayOdds,caesars_opening_homeOdds,caesars_opening_awayOdds,caesars_current_homeOdds,caesars_current_awayOdds,bet365_opening_homeOdds,bet365_opening_awayOdds,bet365_current_homeOdds,bet365_current_awayOdds,draftkings_opening_homeOdds,draftkings_opening_awayOdds,draftkings_current_homeOdds,draftkings_current_awayOdds
+300576,2024-07-13T17:10:00+00:00,Detroit,LA Dodgers,Keider Montero,Justin Wilson,11,9,110,-135,100,-120,126,-148,104,-122,115,-135,100,-120,120.0,-140.0,100.0,-120.0,100,-120,110,-130
+300569,2024-07-13T18:10:00+00:00,Chi. White Sox,Pittsburgh,Chris Flexen,Luis L. Ortiz,2,6,125,-155,115,-135,132,-156,120,-142,130,-154,122,-145,130.0,-155.0,120.0,-140.0,124,-148,114,-135
+300571,2024-07-13T18:15:00+00:00,St. Louis,Chi. Cubs,Michael Lynn,Hayden Merda,11,3,-10000,-10000,-130,110,-134,116,-136,116,-130,110,-135,115,,,,,-135,114,-135,114
+300577,2024-07-13T20:05:00+00:00,Philadelphia,Athletics,Tyler Phillips,Mitch Spence,11,5,-190,155,-190,155,-188,158,-196,164,-189,158,-196,162,-190.0,160.0,-190.0,160.0,-205,170,-185,154
+300572,2024-07-13T20:05:00+00:00,Baltimore,NY Yankees,Grayson Rodriguez,Luis Gil,1,6,-145,120,-140,120,-130,110,-142,120,-135,115,-141,118,-135.0,115.0,-140.0,120.0,-142,120,-142,120
+300574,2024-07-13T20:10:00+00:00,NY Mets,Colorado,Christian Scott,Ryan Feltner,7,3,-250,200,-200,165,-210,176,-205,172,-233,192,-208,175,-230.0,190.0,-210.0,175.0,-230,190,-205,170
+300575,2024-07-13T20:10:00+00:00,Boston,Kansas City,Kutter Crawford,Seth Lugo,5,0,-135,110,-130,110,-130,110,-134,106,-130,110,-135,115,-130.0,110.0,-140.0,120.0,-130,110,-145,114
+300570,2024-07-13T20:10:00+00:00,Houston,Texas,Spencer Arrighetti,Nathan Eovaldi,1,2,100,-120,100,-120,-102,-116,100,-118,100,-120,100,-120,-105.0,-115.0,100.0,-120.0,-108,-112,102,-122
+300579,2024-07-13T20:10:00+00:00,Milwaukee,Washington,Dallas Keuchel,Mitchell Parker,5,6,-130,105,-140,115,-120,102,-142,120,-125,105,-135,115,-120.0,100.0,-140.0,120.0,-125,105,-142,120
+300573,2024-07-13T20:10:00+00:00,Tampa Bay,Cleveland,Zack Littell,Gavin Williams,2,4,-105,-115,-110,-110,-112,-104,-106,-110,-105,-115,-105,-115,-105.0,-115.0,-105.0,-115.0,-112,-108,-108,-112
+300578,2024-07-13T20:10:00+00:00,Cincinnati,Miami,Andrew Abbott,Edward Cabrera,10,6,-165,140,-155,130,-166,140,-154,130,-164,140,-154,130,-165.0,140.0,-150.0,125.0,-166,140,-148,124
+300566,2024-07-13T23:15:00+00:00,San Diego,Atlanta,Dylan Cease,Reynaldo Lopez,4,0,-105,-115,-135,110,110,-130,-134,114,110,-130,-141,118,110.0,-130.0,-140.0,120.0,110,-130,-135,114
+300567,2024-07-13T23:15:00+00:00,San Francisco,Minnesota,Hayden Birdsong,Simeon Woods Richardson,2,4,100,-120,-120,100,-102,-116,-134,114,100,-120,-130,110,-105.0,-115.0,-130.0,110.0,-105,-115,-130,110
+299910,2024-07-14T00:15:00+00:00,St. Louis,Chi. Cubs,Kyle Gibson,Javier Assad,5,4,115,-140,-150,125,126,-148,-144,122,115,-135,-141,118,115.0,-135.0,125.0,-150.0,114,-135,-148,124
+300580,2024-07-14T01:38:00+00:00,LA Angels,Seattle,Jose Soriano,George Kirby,2,1,135,-160,120,-145,132,-156,118,-150,140,-164,122,-145,135.0,-160.0,125.0,-150.0,136,-162,124,-160
+300557,2024-07-14T02:10:00+00:00,Arizona,Toronto,Ryne Nelson,Yariel Rodriguez,12,1,-135,110,-130,110,-130,110,-122,104,-130,110,-125,105,-125.0,105.0,-125.0,105.0,-125,105,-120,100
