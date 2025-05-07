@@ -1,1 +1,1 @@
-Testing
+I built this model for my STAT 165 Forecasting class in Spring 2025.
